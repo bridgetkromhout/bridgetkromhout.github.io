@@ -1,16 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://bridgetkromhout.github.io/blog/2014/07/20/all-that-sparkles-is-not-magic/
+        </loc>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://bridgetkromhout.github.io/blog/archives/</loc>
-        <lastmod>2014-04-20T20:22:22-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/contact/</loc>
-        <lastmod>2014-04-26T09:06:51-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/</loc>
-        <lastmod>2014-04-20T20:22:22-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/robots.txt</loc>
@@ -18,54 +24,54 @@
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2013/devopsdays-newyork/</loc>
-        <lastmod>2014-04-20T20:22:22-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2013/minnebar/</loc>
-        <lastmod>2014-04-20T20:22:22-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/beyondthecode/</loc>
-        <lastmod>2014-07-19T20:49:08-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/clouddevelop/</loc>
-        <lastmod>2014-07-19T20:50:31-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/devops-meetup-minneapolis/</loc>
-        <lastmod>2014-04-20T20:22:22-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/devopsdays-pittsburgh/</loc>
-        <lastmod>2014-06-08T20:43:15-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/devopsdays-siliconvalley/</loc>
-        <lastmod>2014-07-09T16:42:57-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/minnebar-devops/</loc>
-        <lastmod>2014-04-22T08:05:42-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/minnebar-monitoring/</loc>
-        <lastmod>2014-04-20T20:22:22-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/monitorama-portland/</loc>
-        <lastmod>2014-05-14T07:43:15-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/mountainwest-devops/</loc>
-        <lastmod>2014-04-20T20:33:54-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/velocity-newyork/</loc>
-        <lastmod>2014-05-02T08:46:03-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/</loc>
-        <lastmod>2014-07-19T20:51:36-05:00</lastmod>
+        <lastmod>2014-07-20T00:48:33-05:00</lastmod>
     </url>
 </urlset>
