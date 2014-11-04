@@ -59,7 +59,7 @@ Someone asked what we should say instead of "ops guys", and I suggested ops team
 
 So, yeah. There are not a lot of women in ops at the moment (understatement). If you want us to stick around, and if you want there to ever be more, choosing language that makes room for us to be part of the in-group is as good a place to start as any.
 
-In later discussion, [Dave Zweiback](https://twitter.com/mindweather) called me brave. Not so sure about that; maybe I'm just foolhardy. I know the internets are not kind to uppity women with *opinions*. (See also: everything ever.) But I couldn't remain silent in that moment. I tried hard to make it not a direct attack on the speaker, telling him that it's not just him; I hear it everywhere, all the time, in the US. 
+In later discussion, [Dave Zwieback](https://twitter.com/mindweather) called me brave. Not so sure about that; maybe I'm just foolhardy. I know the internets are not kind to uppity women with *opinions*. (See also: everything ever.) But I couldn't remain silent in that moment. I tried hard to make it not a direct attack on the speaker, telling him that it's not just him; I hear it everywhere, all the time, in the US. 
 
 I know I did make some people uncomfortable. I do not want them to have to feel that way; I know all too well how that feels. But I did want them to hear, and to know. (Some, including the very responsive and understanding speaker, gathered immediately afterwards for an impromptu open space on the topic, which was great.)
 
