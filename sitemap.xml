@@ -30,7 +30,7 @@
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/podcasts/</loc>
-        <lastmod>2014-11-04T08:46:24-06:00</lastmod>
+        <lastmod>2014-11-27T21:11:41-06:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/robots.txt</loc>
@@ -50,7 +50,7 @@
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/beyondthecode/</loc>
-        <lastmod>2014-11-04T08:46:24-06:00</lastmod>
+        <lastmod>2014-11-27T21:20:45-06:00</lastmod>
     </url>
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/2014/beyondthecode/notes/</loc>
@@ -119,5 +119,9 @@
     <url>
         <loc>http://bridgetkromhout.github.io/speaking/info/</loc>
         <lastmod>2014-11-04T08:46:24-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bridgetkromhout.github.io/writing/</loc>
+        <lastmod>2014-11-27T21:39:11-06:00</lastmod>
     </url>
 </urlset>
