@@ -5,13 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>From Kirk/Spock to AWS/ELB (Ignite) - Bridget Kromhout</title>
+  <title>Docker in Production - Reality, Not Hype - Bridget Kromhout</title>
   <meta name="author" content="Bridget Kromhout">
 
   
-  <meta name="description" content="From Kirk/Spock to AWS/ELB (Ignite) Velocity Santa Clara
-Santa Clara, California
-2015-05-27 - 2015-05-29 Fandom has gone mainstream; everywhere we &hellip;">
+  <meta name="description" content="Docker in Production - Reality, Not Hype OSCON - Docker in Production: Reality, Not HypePortland, Oregon2015-07-20 to 2015-07-24 At DramaFever, we’ &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -20,7 +18,7 @@ Santa Clara, California
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://bridgetkromhout.github.io/speaking/2015/velocity-santaclara">
+  <link rel="canonical" href="http://bridgetkromhout.github.io/speaking/2015/oscon">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Bridget Kromhout" type="application/atom+xml">
@@ -86,27 +84,31 @@ Santa Clara, California
 <article role="article">
   
   <header>
-    <h1 class="entry-title">From Kirk/Spock to AWS/ELB (Ignite)</h1>
+    <h1 class="entry-title">Docker in Production - Reality, Not Hype</h1>
     
   </header>
   
-  <a href="http://velocityconf.com/devops-web-performance-2015/public/schedule/detail/42755">Velocity Santa Clara</a><br>
-Santa Clara, California<br>
-2015-05-27 - 2015-05-29<br>
-<br>
-<br>
-Fandom has gone mainstream; everywhere we look, nerd culture is celebrated. Transformative works like fan fiction and video remixes are just as likely to end up on a best-seller list (or be riffed on by the original artist on national TV) as to be hidden away in sock-puppet accounts on obscure websites. And as it turns out, writing fanfic taught me valuable lessons and helped form habits that serve me well as an operations engineer. TL;DR: I’ll explain how to get from Kirk/Spock to AWS/ELB in five minutes.
-
-<br>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.oscon.com/open-source-2015/public/schedule/detail/42037">OSCON - Docker in Production: Reality, Not Hype</a><br>Portland, Oregon<br><span class="date-display-start">2015-07-20</span> to <span class="date-display-end">2015-07-24</span></span></div>
 <br>
 
 <br>
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/93wcGw1n1lPg8" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
+At DramaFever, we’ve been running Docker in production since October 2013 (well before it even went 1.0). Cutting (maybe bleeding) edge? Sounds fun! But important technology stack decisions are not made by running a Markov text generator against the front page of Hacker News. So, why are we using Docker? Simply put, it makes our development more consistent and our deployment more repeatable.
+<br>
+<br>
+Because all the developers are developing locally using the same containers, integration is much easier when their code moves on to their EC2-based personal dev environment, the shared dev environment, QA, staging, and production. (Our previous Vagrant-based process didn’t keep us consistently all using the same environment, as production wasn’t under config management, and setting up local copies of the MySQL database with all the fixtures took just this side of eternity.)
+<br>
+<br>
+A production instance serves code from a container, so each new autoscaled instance that has any code at all is going to have the correct code. (And our previous “check out code from GitHub and bake an AMI” deployment process was not what you’d call speedy.)
+<br>
+<br>
+Docker provides just enough in the way of training wheels for Linux containers that everyone can use it (for rapidly increasing values of everyone).
+<br>
+<br>
+In this talk, I will detail how DramaFever implemented Docker for our entire development pipeline from laptops to production. I’ll cover the pain points and failure scenarios we’ve encountered and how we’ve worked through them, and I’ll demonstrate the ways that Docker being open-source has helped us in our adoption.
 <br>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QCCLVfbHKYU" frameborder="0" allowfullscreen></iframe>
 
   
 </article>
