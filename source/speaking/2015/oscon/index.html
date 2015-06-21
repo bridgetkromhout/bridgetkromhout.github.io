@@ -1,0 +1,27 @@
+---
+layout: page
+title: Docker in Production - Reality, Not Hype
+footer: false
+---
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.oscon.com/open-source-2015/public/schedule/detail/42037">OSCON - Docker in Production: Reality, Not Hype</a><br>Portland, Oregon<br><span class="date-display-start">2015-07-20</span> to <span class="date-display-end">2015-07-24</span></span></div>
+<br>
+
+<br>
+
+At DramaFever, we’ve been running Docker in production since October 2013 (well before it even went 1.0). Cutting (maybe bleeding) edge? Sounds fun! But important technology stack decisions are not made by running a Markov text generator against the front page of Hacker News. So, why are we using Docker? Simply put, it makes our development more consistent and our deployment more repeatable.
+<br>
+<br>
+Because all the developers are developing locally using the same containers, integration is much easier when their code moves on to their EC2-based personal dev environment, the shared dev environment, QA, staging, and production. (Our previous Vagrant-based process didn’t keep us consistently all using the same environment, as production wasn’t under config management, and setting up local copies of the MySQL database with all the fixtures took just this side of eternity.)
+<br>
+<br>
+A production instance serves code from a container, so each new autoscaled instance that has any code at all is going to have the correct code. (And our previous “check out code from GitHub and bake an AMI” deployment process was not what you’d call speedy.)
+<br>
+<br>
+Docker provides just enough in the way of training wheels for Linux containers that everyone can use it (for rapidly increasing values of everyone).
+<br>
+<br>
+In this talk, I will detail how DramaFever implemented Docker for our entire development pipeline from laptops to production. I’ll cover the pain points and failure scenarios we’ve encountered and how we’ve worked through them, and I’ll demonstrate the ways that Docker being open-source has helped us in our adoption.
+<br>
+<br>
+
