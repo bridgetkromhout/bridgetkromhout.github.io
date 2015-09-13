@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scaling Next-Generation Internet TV on AWS with Docker, Packer, and Chef
+title: Beyond ad-hoc automation - leveraging structured platforms
 footer: false
 ---
 
@@ -15,20 +15,18 @@ Bridget Kromhout<br>
 <b>Description</b>
 <br>
 <br>
-At DramaFever, the largest streaming video site for international content, we operate a next-generation internet TV platform using Docker, Chef, Packer, and more to manage the AWS instances serving our main Django application and Go microservices. I’ll detail how we build and scale our infrastructure to serve more than 20 million viewers.
+What is your platform? Everyone has one, whether it's Docker wrapped in config management wrapped in thousand-line fabfiles, bespoke artisanal hand-crafted shell scripts… or both! What promises can your platform make and keep? Everyone across the industry has needed to handcraft a platform specific to their organization. (I've done it. I bet you have too.) I'll talk about where I've been (spoiler alert: containers in production without hype) and what I've learned on this journey.
+
 <br>
 <br>
 <b>Abstract</b>
 <br>
-<br>
-At DramaFever, we operate a next-generation internet TV platform with offerings ranging from international dramas with original content to AMC’s Sundance Documentary site, a “screams on demand” horror site, and beyond.
-<br>
-<br>
-At peak load, we serve tens of thousands of requests per second, and our AWS instance count autoscales up 10-20x throughout the week. In order to scale, we’ve used a variety of open-source tools and innovative techniques to manage our fleet of instances serving our main Django application and Go microservices, including using Docker in our production request path (for almost two years now) to a recent overhaul of our deployment pipeline using golden images built with Chef and Packer.
+What is your platform? Everyone has one, whether it's Docker wrapped in config management wrapped in thousand-line fabfiles, bespoke artisanal hand-crafted shell scripts… or both! What promises can your platform make and keep? What contract does your platform provide to your applications? Does your platform deliver value rapidly, reliably, at scale... or has it become a burden unto itself? Perhaps a bit of both?
+
 <br>
 <br>
-Working on a small distributed team, we’ve needed to practice effective communication to maintain our pace of change while also keeping our sites highly available. I’ll touch on the remote-work tooling and culture that enables this.
+Continuous delivery has gone from an aspirational nice-to-have to a must-have capability for staying competitive at the edge of innovation. Nearly every automation project sets out to provide self-service deployments for developers with visibility and reliability for operations. Whether using configuration management or embracing containers to package workloads, we need a long list of capabilities to fill gaps in the automation. How do you provision infrastructure? Who can provision? How much? How do you deploy? Who can do deployments? What can even get deployed? What about canary deploys? Rolling deployments? Monitoring? Metrics? Fault detection? Fault remediation? Everyone across the industry has needed to handcraft a platform specific to their organization. (I've done it. I bet you have too.)
 <br>
 <br>
-I’ll detail how we’re reducing our time to production and increasing our infrastructure maintainability. I will also share some of the pitfalls and corner cases we have been working through along the way. Attendees will leave with practical tips they’ll be able to implement right away, as well as inspiration for the possibilities inherent in a fully containerized infrastructure.
+The operational needs of a continuously delivered microservice architecture bring with them new considerations and constraints. If the cost of deploying and operating a service is high, in terms of time or resources, deploying more things more frequently sounds like a really bad idea. The era of ad-hoc automation is coming to an end as the patterns of cloud native organizations who move quickly and safely are becoming more apparent. Between rolling your own from open-source components and implementing a turn-key platform solution, a vast array of choices exists. I'll talk about where I've been (spoiler alert: containers in production without hype) and what I've learned on this journey.
 <br>
