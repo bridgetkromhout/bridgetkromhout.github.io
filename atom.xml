@@ -4,7 +4,7 @@
   <title><![CDATA[Bridget Kromhout]]></title>
   <link href="http://bridgetkromhout.github.io/atom.xml" rel="self"/>
   <link href="http://bridgetkromhout.github.io/"/>
-  <updated>2015-10-21T14:03:14-05:00</updated>
+  <updated>2015-10-30T16:18:54+01:00</updated>
   <id>http://bridgetkromhout.github.io/</id>
   <author>
     <name><![CDATA[Bridget Kromhout]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Let Me Google That for You]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2015/05/31/let-me-google-that-for-you/"/>
-    <updated>2015-05-31T15:16:12-05:00</updated>
+    <updated>2015-05-31T22:16:12+02:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2015/05/31/let-me-google-that-for-you</id>
     <content type="html"><![CDATA[<p>Late-night after <a href="http://velocityconf.com/devops-web-performance-2015/">Velocity Santa Clara</a>, the crowds filling the hotel lobby bar earlier in the day have scattered. A few conference-goers with morning flights remain, ranging from speakers to conference committee members to attendees taking it all in. We decompress, talk tech, play games, drink, and eat ridiculously rich Nutella chocolate cake. We enjoy these last few hours with new friends and old.</p>
 
@@ -61,9 +61,9 @@
   
   <entry>
     <title type="html"><![CDATA[Noona Is DevOps Style]]></title>
-    <link href="http://bridgetkromhout.github.io/blog/2014/12/22/noona-is-devops-style/"/>
-    <updated>2014-12-22T22:32:21-06:00</updated>
-    <id>http://bridgetkromhout.github.io/blog/2014/12/22/noona-is-devops-style</id>
+    <link href="http://bridgetkromhout.github.io/blog/2014/12/23/noona-is-devops-style/"/>
+    <updated>2014-12-23T05:32:21+01:00</updated>
+    <id>http://bridgetkromhout.github.io/blog/2014/12/23/noona-is-devops-style</id>
     <content type="html"><![CDATA[<p>In <a href="http://bridgetkromhout.com/speaking/2014/velocity-newyork/">A Woman’s Place Is at the Command Prompt</a> at <a href="http://velocityconf.com/velocityny2014">Velocity NY 2014</a>, our panel facilitator <a href="http://larahogan.me">Lara Hogan</a> asked me, &ldquo;So, how did you get tricked into operations?&rdquo;</p>
 
 <p>Yes, it’s funny, but there’s also a fair amount of truth there. Most people I know who work in any kind of technical operations didn&rsquo;t start out intending to do that; it just <em>happened</em>. In my case, I got a campus job with the computer science department, and apparently giving root to undergrad student workers was a reasonable solution to being understaffed. (It was the 1990s. Many things seemed like a good idea at the time.)</p>
@@ -179,9 +179,9 @@
   
   <entry>
     <title type="html"><![CDATA[The First Rule of DevOps Club]]></title>
-    <link href="http://bridgetkromhout.github.io/blog/2014/11/03/the-first-rule-of-devops-club/"/>
-    <updated>2014-11-03T20:25:18-06:00</updated>
-    <id>http://bridgetkromhout.github.io/blog/2014/11/03/the-first-rule-of-devops-club</id>
+    <link href="http://bridgetkromhout.github.io/blog/2014/11/04/the-first-rule-of-devops-club/"/>
+    <updated>2014-11-04T03:25:18+01:00</updated>
+    <id>http://bridgetkromhout.github.io/blog/2014/11/04/the-first-rule-of-devops-club</id>
     <content type="html"><![CDATA[<p>Heard last week at <a href="http://devopsdays.org/events/2014-belgium/">devopsdays in Ghent, Belgium</a>:</p>
 
 <p>&ldquo;I&rsquo;m just in marketing, so I don&rsquo;t count.&rdquo; <br>
@@ -261,7 +261,7 @@
   <entry>
     <title type="html"><![CDATA[Four Interactions That Could Have Gone Better]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2014/09/22/four-interactions-that-could-have-gone-better/"/>
-    <updated>2014-09-22T16:50:21-05:00</updated>
+    <updated>2014-09-22T23:50:21+02:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2014/09/22/four-interactions-that-could-have-gone-better</id>
     <content type="html"><![CDATA[<p>I go to a lot of tech events, which means I meet a lot of people in tech. Most of you won&rsquo;t be surprised to find out that many of them are dudes, and awesome dudes at that. And way more frequently than I&rsquo;d like, I also find myself in the most <em>tedious</em> conversations.</p>
 
@@ -377,7 +377,7 @@ If you&rsquo;re recognizing your own past behaviour in any of the above, congrat
   <entry>
     <title type="html"><![CDATA[All That Sparkles Is Not Magic]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2014/07/20/all-that-sparkles-is-not-magic/"/>
-    <updated>2014-07-20T00:35:38-05:00</updated>
+    <updated>2014-07-20T07:35:38+02:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2014/07/20/all-that-sparkles-is-not-magic</id>
     <content type="html"><![CDATA[<p>On February 20th I emailed Michael Ducy, one of our local devops meetup organizers, and agreed to be the head organizer for devopsdays Minneapolis. The conference occurred July 17-18. Protip: 147 days isn&rsquo;t as long as you&rsquo;d think listening to Spike&rsquo;s monologue in early BtVS S6. (We&rsquo;re all nerds here, right?)</p>
 
