@@ -5,13 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Double Your Docker, Double Your Fun - Bridget Kromhout</title>
+  <title>Managing Distributed Systems Using BOSH - Bridget Kromhout</title>
   <meta name="author" content="Bridget Kromhout">
 
   
-  <meta name="description" content="Double Your Docker, Double Your Fun DevOps Meetup, MN
-Minneapolis, Minnesota
-2015-01-26 From the meetup description: Bridget Kromhout, an Operations &hellip;">
+  <meta name="description" content="Managing Distributed Systems Using BOSH OSCON - Managing Distributed Systems Using BOSHAustin, Texas2016-05-16 to 2016-05-19 Description Managing &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -20,7 +18,7 @@ Minneapolis, Minnesota
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://bridgetkromhout.github.io/speaking/2015/devops-meetup-mn">
+  <link rel="canonical" href="http://bridgetkromhout.github.io/speaking/2016/oscon">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Bridget Kromhout" type="application/atom+xml">
@@ -86,46 +84,52 @@ Minneapolis, Minnesota
 <article role="article">
   
   <header>
-    <h1 class="entry-title">Double Your Docker, Double Your Fun</h1>
+    <h1 class="entry-title">Managing Distributed Systems Using BOSH</h1>
     
   </header>
   
-  <a href="http://www.meetup.com/DevOps-Minneapolis/events/219967885/">DevOps Meetup, MN</a><br>
-Minneapolis, Minnesota<br>
-2015-01-26<br>
-
-From the meetup description:
-<br>
-<br>
-Bridget Kromhout, an Operations Engineer at DramaFever, will talk about &#8220;Docker in Production: Reality, Not Hype&#8221;. DramaFever, the largest streaming video site for international content, uses AWS to power its streaming video platform and has been running Docker in production since about October 2013 (well before it even went 1.0). Bridget will give an overview of how DramaFever uses Docker to make development more consistent and deployment more repeatable. 
-<br>
-<br>
-Tom Duffield, a Software Development Engineer at Chef, will give a talk aimed at those who may have been using Docker for awhile now and want to start pushing the boundaries a bit, perhaps by leveraging the sweet API they have. In this short talk Tom will cover how to approach using the API and some gotchas that users coming from the CLI might not be aware of, including undocumented gotchas, how to read the Go code behind the API, and more.  
-<br>
-<br>
-<p>
-
-<br>
-My <a href="http://sysadvent.blogspot.com/2014/12/day-1-docker-in-production-reality-not.html">SysAdvent post for 2014</a> covers this topic in more detail.
-
-<br>
-<p>
-<p>
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/43767167" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-<br>
-<iframe width="560" height="315" src="//www.youtube.com/embed/gJM-vYjd2A8" frameborder="0" allowfullscreen></iframe>
-
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details">OSCON - Managing Distributed Systems Using BOSH<br>Austin, Texas<br><span class="date-display-start">2016-05-16</span> to <span class="date-display-end">2016-05-19</span></span></div>
 <br>
 
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/hmmickman/status/559906226503307264">Jan 26, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/PaulKlingJr/status/559919724549513217">Jan 26, 2015</a></blockquote>
+<br>
+Description
+<br>
+<br>
+Managing your platform is essential for operability. BOSH is an open source tool for predictably managing the long term lifecycle of distributed systems. We&#8217;ll learn to create a BOSH release: a versioned collection of configuration properties, configuration templates, start-up scripts, source code, binary artifacts, and anything else required to build and deploy software in a reproducible way.
 
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/wandersen02/status/559907685496524800">Jan 26, 2015</a></blockquote>
+<br>
+<br>
 
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/tomduffield/status/560088858734256129">Jan 26, 2015</a></blockquote>
+Abstract
+
+<br>
+<br>
+Everyone who operates software has a platform with a story around managing applications. But a platform is also software, so we need to manage the lifecycle of the platform itself. BOSH is an open source tool for predictably managing the real-world lifecycle of services in distributed systems. While with traditional configuration management tools we can maintain consistent state for individual machines, BOSH enables us to converge services as distributed systems, to keep consistent the state of a collection of compute, storage, and networking resources.
+<br>
+<br>
+While BOSH is known as the infrastructure automation layer for the open source Cloud Foundry platform, it can also be used to produce versioned, deployable artifacts for arbitrary infrastructure components. A BOSH release is a versioned collection of configuration properties, configuration templates, start-up scripts, source code, binary artifacts, and anything else required to build and deploy software in a reproducible way.
+<br>
+<br>
+We&#8217;ll take a high-level look at the functions BOSH performs - packaging, distribution, orchestration, and management - and then dive into the details. We&#8217;ll peel back the surface layers and look at the BOSH director, and then a stemcell (Ubuntu image with an agent), a release (source packaging), and a manifest (configuration details).
+<br>
+<br>
+Managing the underlying distributed system and persistence layers continues to be more challenging than deploying stateless apps. Databases, cluster schedulers, and other persistence layers are among the components deployable by BOSH, and we&#8217;ll walk through multiple deployments, ensuring that participants have a chance to understand how BOSH addresses four aspects of release engineering:
+<br>
+<br>
+* Completeness - capturing all code, binary artifacts, and configuration as a release that is packaged and can be 100% transferred “behind-the-firewall”
+<br>
+<br>
+* Reproducibility - versioning the application, OS, persistence layer, and configuration together
+<br>
+<br>
+* Consistency - used for development and production operations
+<br>
+<br>
+* Agility - integrates with continuous delivery, allowing for upgrades to the platform and persistence layers
+<br>
+<br>
+BOSH is in essence a narrow AI, optimized for automation of repetitive tasks in management of distributed systems. Learning how to operate it will give attendees insight into optimizations they can make in their own platforms and pipelines, while giving them insights into operability for all those long term needs.
 
   
 </article>
