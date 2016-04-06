@@ -140,6 +140,8 @@ I forgot to ask our venue if we can get Britney mics. I don't think they have an
 
 Frequent speakers tend to carry both VGA and HDMI adaptors, but it's always nice when you don't have to mess with that.
 
+Props to <a href="https://twitter.com/mattstratton">Matt Stratton</a> for pointing out that by lightning I clearly meant Thunderbolt/DisplayPort. That's what I get for not having <a href="https://twitter.com/joelaha">Joe Laha</a> read the letter before I sent it.
+
 > 5) The screen will be large, high-res, and widescreen. Build your deck for 16x9 (unless you really like rockin’ the 4x3 - we don’t judge!) and at as high a resolution as you can manage.
 
 I would give more specifics about the projector's max aspect ratio, but at three months out right now we're still seeing what level of over-the-top AV the budget will allow.
