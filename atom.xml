@@ -4,7 +4,7 @@
   <title><![CDATA[Bridget Kromhout]]></title>
   <link href="http://bridgetkromhout.github.io/atom.xml" rel="self"/>
   <link href="http://bridgetkromhout.github.io/"/>
-  <updated>2017-05-26T14:12:20-04:00</updated>
+  <updated>2017-06-04T11:48:54-05:00</updated>
   <id>http://bridgetkromhout.github.io/</id>
   <author>
     <name><![CDATA[Bridget Kromhout]]></name>
@@ -14,9 +14,62 @@
 
   
   <entry>
+    <title type="html"><![CDATA[In the Kingdom of the Blind]]></title>
+    <link href="http://bridgetkromhout.github.io/blog/2017/06/04/in-the-kingdom-of-the-blind/"/>
+    <updated>2017-06-04T11:21:25-05:00</updated>
+    <id>http://bridgetkromhout.github.io/blog/2017/06/04/in-the-kingdom-of-the-blind</id>
+    <content type="html"><![CDATA[<p><em>“Submissions will be initially blind reviewed by a panel of CompanyName employees from a range of departments and backgrounds. Speaker information will be used in any final reviews necessary to break ties and bring a balance to the speaking line-up.”</em></p>
+
+<p>We’re familiar with this language showing up in calls for conference participation. It’s commonplace &mdash; unremarkable, really &mdash; these days. But would you be surprised to know that, somehow, that specific call for participation recently produced an all-male conference speaker lineup? I’m not in the least surprised, because “blind” review is a panacea (with an ableist name at that). Stop closing your eyes to reality.</p>
+
+<!-- more -->
+
+
+<p><strong>But we want to eliminate bias!</strong></p>
+
+<p>Hey, that’s an admirable desire. However, the responses to your CFP are highly unlikely to contain a representative sample of your community, even were your community to contain a balanced sample of the population at large. Here’s why.</p>
+
+<p>Speaking in front of a large group of fellow humans is fucking terrifying. Rumor has it, many people fear public speaking more than <em>death</em>. As ludicrous as this seems, there’s a deeply rooted evolutionary reason for not wanting to be separate from the rest of the tribe. Something’s liable to eat us when we’re alone on the savanna.</p>
+
+<p>But everyone has this fear, you say. What are some additional issues if you’re a member of an under-represented group?</p>
+
+<ol>
+<li>The worry that you are expected to speak for your entire minority group.</li>
+<li>The lack of flexibility/support from employers.</li>
+<li>The tiresome isolation, harassment, all the usual nonsense.</li>
+<li>The sneaking suspicion that you’re only being included as a token.</li>
+<li>The fear that screwing up will have an outsized effect on your career.</li>
+</ol>
+
+
+<p>As you can imagine, there are plenty of reasons that under-represented people in tech aren’t going to jump the second your event’s CFP opens. But submissions will pour in nonetheless… from the folks whose (devrel|marketing|field engineer) vendor job includes public speaking (and on-the-job time to fine-tune their abstracts). And spoiler alert, many of them will fall into the majority cis het white male demographic.</p>
+
+<p>Before you get your undies in a bunch, I like cis het white males just fine. Many of my best friends fall into that demographic, and I’m married to one. Doesn’t change the reality that they’re the largest group that’s gonna show up in the typical CFP. And I work at a vendor myself! We aren’t (all) evil, but we have very specific motivations, and our proposed talks may or may not match what you need. So if you would prefer a speaker lineup that’s more representative of broader tech populations, with actionable takeaways for what your audience needs, you can’t just rely on removing the identifying info from a candidate pool that’s already homogenous. This is basic science.</p>
+
+<p><strong>Okay, how do we get a wider range of people submitting to our CFP?</strong></p>
+
+<p>Nope, you’re asking the wrong question. Here’s why: the list above also explains why under-repped people don’t even want to <em>attend</em> your event, let alone blink in the spotlight under the critical gaze of your attendees.</p>
+
+<p>If someone is marginal-at-best on the idea of even <em>turning up</em> at your event, and you want them to cross their fingers and block off time on their calendar months in advance in hopes of you maybe selecting them to help <em>create</em> it… good luck with that. Don’t come crying to me at the last minute about how you need help fixing your optics. (And you’re not fooling anyone when you’re like “we already announced our lineup and whoops now suddenly Mars Needs Women”.)</p>
+
+<p>By all means, run a CFP to get input from people you didn’t expect. But you also need to build a personal network that reaches into communities not all your organizers might be part of (which makes it obvious that you need to also have organizers from multiple demographic groups and communities of practice). Reaching out to invite potential speakers works a lot better when they trust that you’re not going to make them be that gazelle blinking in front of hyenas, when they don’t think they’re a last-minute token, when they get to talk about their work and not just their demographic characteristics.</p>
+
+<p><strong>Stop telling me what to do, Bridget! You’re not my real dad!</strong></p>
+
+<p>You should (and will) do exactly as you please. If you want a diverse speaker lineup, though, you’re likely to have more success when you actually <em>invite</em> a diverse range of speakers to speak about their areas of expertise. Well in advance. And remove barriers like out-of-pocket costs for them (or the necessity of getting their employer to shell out &ndash; trading social capital for travel funding is a predictable and fixable obstacle).</p>
+
+<p>And yes, I can show this in practice. For <a href="https://www.devopsdays.org/events/2016-minneapolis/speakers/">devopsdays Minneapolis 2016</a>, <a href="https://www.devopsdays.org/blog/2016/08/08/minneapolis-2016-in-review/">“we featured 58.8% women speakers with 62.5% women presenting the 30-minute sessions; 35.3% of all speakers were people of color with 25% of the 30-minute sessions presented by people of color.”</a> Our <a href="https://www.devopsdays.org/events/2017-minneapolis/speakers/">2017 speaker lineup</a> is shaping up nicely with a broad range of excellent speakers. <a href="https://gotochgo.com/2017/tracks/43">Tracks I curate</a> <a href="https://gotochgo.com/2017/tracks/10">at other events</a> <a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/topic/2297">are similar</a>.</p>
+
+<p>Diversity or inclusion or ticking all the demographic tickyboxes isn’t the goal; it’s the result when you make it safe and feasible for <em>everyone</em> to share their work. And you’re not going to get there by taking the cis het white male names and vendor workplaces off the entries in your CFP, for fuck’s sake.</p>
+
+<p>I&rsquo;ve debated this with those passionate about blind review, and I&rsquo;ll believe in their idealistic approach when the inputs to the system match the demographics of the wider world. Until then, I&rsquo;m going to keep actively, mindfully choosing to feature the voices of the under-represented.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[The Blizzard of the World]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2016/12/31/the-blizzard-of-the-world/"/>
-    <updated>2016-12-31T10:08:47-05:00</updated>
+    <updated>2016-12-31T09:08:47-06:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2016/12/31/the-blizzard-of-the-world</id>
     <content type="html"><![CDATA[<p>Minnesota’s north woods in winter, though a study in snow, aren&rsquo;t exactly monochromatic. Peeling birch bark, glistening icicles, fir boughs burdened with a textured dusting, flat matte of a frozen lake, idle flakes blowing upwards, ever-so-slightly periwinkle-tinged sky: a boreal forest in winter is replete with variations on white.</p>
 
@@ -86,7 +139,7 @@
   <entry>
     <title type="html"><![CDATA[Livetweeting Tech Conferences]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2016/08/28/livetweeting-tech-conferences/"/>
-    <updated>2016-08-28T13:17:01-04:00</updated>
+    <updated>2016-08-28T12:17:01-05:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2016/08/28/livetweeting-tech-conferences</id>
     <content type="html"><![CDATA[<p>I go to tech conferences like it’s my job. (Since I do tech advocacy for <a href="https://pivotal.io/platform">Cloud Foundry</a> at <a href="https://pivotal.io/">Pivotal</a>, technically it <em>is</em> part of my job these days.) At these events I tweet <em>a lot</em>, to the point where people notice and ask me about it. Sometimes I tell the curious a little about my process; their reactions range from “lolwat” to “you should write that down”. So, here is how I livetweet tech conferences.</p>
 
@@ -208,7 +261,7 @@
   <entry>
     <title type="html"><![CDATA[Tl;dr: Your Talk Is Accepted]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2016/04/06/tl-dr-your-talk-is-accepted/"/>
-    <updated>2016-04-06T13:42:19-04:00</updated>
+    <updated>2016-04-06T12:42:19-05:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2016/04/06/tl-dr-your-talk-is-accepted</id>
     <content type="html"><![CDATA[<p>&ldquo;<em>stretching out and touching the unknown, the real unknown, the unknown unknown.</em>&rdquo;<br>
 &mdash; D.H. Lawrence</p>
@@ -395,7 +448,7 @@ devopsdays Minneapolis</p></blockquote>
   <entry>
     <title type="html"><![CDATA[Four Times I Said Yes in 2015 (and One I Didn't)]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2015/12/31/four-times-i-said-yes-in-2015-and-one-i-didnt/"/>
-    <updated>2015-12-31T17:04:21-05:00</updated>
+    <updated>2015-12-31T16:04:21-06:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2015/12/31/four-times-i-said-yes-in-2015-and-one-i-didnt</id>
     <content type="html"><![CDATA[<p>Snow, sky, and frozen lake are painted the same color, pine boughs laden with white, icicles hanging from the eaves reaching towards the busy bird feeder outside the cabin window. The larger pine grosbeaks are moving in on the black-capped chickadees, a silent drama playing out in ruffled feathers and dropped seeds. Aggrieved, the chickadees perch sideways on the icicles.</p>
 
@@ -483,7 +536,7 @@ devopsdays Minneapolis</p></blockquote>
   <entry>
     <title type="html"><![CDATA[Let Me Google That for You]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2015/05/31/let-me-google-that-for-you/"/>
-    <updated>2015-05-31T16:16:12-04:00</updated>
+    <updated>2015-05-31T15:16:12-05:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2015/05/31/let-me-google-that-for-you</id>
     <content type="html"><![CDATA[<p>Late-night after <a href="http://velocityconf.com/devops-web-performance-2015/">Velocity Santa Clara</a>, the crowds filling the hotel lobby bar earlier in the day have scattered. A few conference-goers with morning flights remain, ranging from speakers to conference committee members to attendees taking it all in. We decompress, talk tech, play games, drink, and eat ridiculously rich Nutella chocolate cake. We enjoy these last few hours with new friends and old.</p>
 
@@ -529,7 +582,7 @@ devopsdays Minneapolis</p></blockquote>
   <entry>
     <title type="html"><![CDATA[Noona Is DevOps Style]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2014/12/22/noona-is-devops-style/"/>
-    <updated>2014-12-22T23:32:21-05:00</updated>
+    <updated>2014-12-22T22:32:21-06:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2014/12/22/noona-is-devops-style</id>
     <content type="html"><![CDATA[<p>In <a href="http://bridgetkromhout.com/speaking/2014/velocity-newyork/">A Woman’s Place Is at the Command Prompt</a> at <a href="http://velocityconf.com/velocityny2014">Velocity NY 2014</a>, our panel facilitator <a href="http://larahogan.me">Lara Hogan</a> asked me, &ldquo;So, how did you get tricked into operations?&rdquo;</p>
 
@@ -647,7 +700,7 @@ devopsdays Minneapolis</p></blockquote>
   <entry>
     <title type="html"><![CDATA[The First Rule of DevOps Club]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2014/11/03/the-first-rule-of-devops-club/"/>
-    <updated>2014-11-03T21:25:18-05:00</updated>
+    <updated>2014-11-03T20:25:18-06:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2014/11/03/the-first-rule-of-devops-club</id>
     <content type="html"><![CDATA[<p>Heard last week at <a href="http://devopsdays.org/events/2014-belgium/">devopsdays in Ghent, Belgium</a>:</p>
 
@@ -728,7 +781,7 @@ devopsdays Minneapolis</p></blockquote>
   <entry>
     <title type="html"><![CDATA[Four Interactions That Could Have Gone Better]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2014/09/22/four-interactions-that-could-have-gone-better/"/>
-    <updated>2014-09-22T17:50:21-04:00</updated>
+    <updated>2014-09-22T16:50:21-05:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2014/09/22/four-interactions-that-could-have-gone-better</id>
     <content type="html"><![CDATA[<p>I go to a lot of tech events, which means I meet a lot of people in tech. Most of you won&rsquo;t be surprised to find out that many of them are dudes, and awesome dudes at that. And way more frequently than I&rsquo;d like, I also find myself in the most <em>tedious</em> conversations.</p>
 
@@ -844,7 +897,7 @@ If you&rsquo;re recognizing your own past behaviour in any of the above, congrat
   <entry>
     <title type="html"><![CDATA[All That Sparkles Is Not Magic]]></title>
     <link href="http://bridgetkromhout.github.io/blog/2014/07/20/all-that-sparkles-is-not-magic/"/>
-    <updated>2014-07-20T01:35:38-04:00</updated>
+    <updated>2014-07-20T00:35:38-05:00</updated>
     <id>http://bridgetkromhout.github.io/blog/2014/07/20/all-that-sparkles-is-not-magic</id>
     <content type="html"><![CDATA[<p>On February 20th I emailed Michael Ducy, one of our local devops meetup organizers, and agreed to be the head organizer for devopsdays Minneapolis. The conference occurred July 17-18. Protip: 147 days isn&rsquo;t as long as you&rsquo;d think listening to Spike&rsquo;s monologue in early BtVS S6. (We&rsquo;re all nerds here, right?)</p>
 
