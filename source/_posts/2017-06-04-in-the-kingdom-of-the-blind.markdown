@@ -8,7 +8,7 @@ categories:
 
 _“Submissions will be initially blind reviewed by a panel of CompanyName employees from a range of departments and backgrounds. Speaker information will be used in any final reviews necessary to break ties and bring a balance to the speaking line-up.”_
 
-We’re familiar with this language showing up in calls for conference participation. It’s commonplace -- unremarkable, really -- these days. But would you be surprised to know that, somehow, that specific call for participation recently produced an all-male conference speaker lineup? I’m not in the least surprised, because “blind” review is a panacea (with an ableist name at that). Stop closing your eyes to reality.
+We’re familiar with this language showing up in calls for conference participation. It’s commonplace -- unremarkable, really -- these days. But would you be surprised to know that, somehow, that specific call for participation recently produced an all-male conference speaker lineup? I’m not in the least surprised, because “blind” review is a false panacea (with an ableist name at that). Stop closing your eyes to reality.
 
 <!-- more -->
 **But we want to eliminate bias!**
