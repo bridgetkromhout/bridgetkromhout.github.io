@@ -1,258 +1,277 @@
-
 <!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Lights, Camera, Docker - Streaming Video at DramaFever - Bridget Kromhout</title>
-  <meta name="author" content="Bridget Kromhout">
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Bridget Kromhout  | Lights, Camera, Docker - Streaming Video at DramaFever</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
 
-  
-  <meta name="description" content="Lights, Camera, Docker - Streaming Video at DramaFever Container Camp
-San Francisco, California
-2015-04-17 At DramaFever, the largest streaming &hellip;">
-  
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.24.1" />
+      
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
 
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link href='http://bridgetkromhout.com/dist/main.css' rel='stylesheet' type="text/css" />
 
-  
-  <link rel="canonical" href="http://bridgetkromhout.github.io/speaking/2015/containercamp">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/stylesheets/data-table.css" media="screen, projection" rel="stylesheet" type="text/css" />
-  <link href="/atom.xml" rel="alternate" title="Bridget Kromhout" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+     
+      <link href="http://bridgetkromhout.com/speaking/2015/containercamp/index.xml" rel="alternate" type="application/rss+xml" title="Bridget Kromhout" />
+      <link href="http://bridgetkromhout.com/speaking/2015/containercamp/index.xml" rel="feed" type="application/rss+xml" title="Bridget Kromhout" />
+      
 
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-50236920-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+      <meta property="og:title" content="Lights, Camera, Docker - Streaming Video at DramaFever" />
+<meta property="og:description" content="Bridget Kromhout" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://bridgetkromhout.com/speaking/2015/containercamp/" />
 
 
-</head>
 
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Bridget Kromhout</a></h1>
-  
-    <h2>Ops Sundries</h2>
-  
-</hgroup>
 
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:bridgetkromhout.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/blog/archives">Blog Archives</a></li>
-  <li><a href="/speaking">Speaking</a></li>
-  <li><a href="/writing">Writing</a></li>
-  <li><a href="/podcasts">Podcasts</a></li>
-  <li><a href="/reviews">Reviews</a></li>
-  <li><a href="http://twitter.com/bridgetkromhout">Twitter</a></li>
-  <li><a href="/contact">Contact</a></li>
-</ul>
 
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article role="article">
-  
-  <header>
-    <h1 class="entry-title">Lights, Camera, Docker - Streaming Video at DramaFever</h1>
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Lights, Camera, Docker - Streaming Video at DramaFever">
+<meta itemprop="description" content="Bridget Kromhout">
+
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
     
-  </header>
-  
-  <a href="http://container.camp/">Container Camp</a><br>
-San Francisco, California<br>
-2015-04-17<br>
-
-<br>
-
-At <a href="http://www.dramafever.com">DramaFever</a>, the largest streaming video site for international content, we&#8217;ve been running Docker in production since October 2013 (well before it even went 1.0). Cutting (maybe bleeding) edge? Sounds fun! But important technology stack decisions are not made by running a Markov text generator against the front page of Hacker News. So, why are we using Docker? Simply put, it makes our development more consistent and our deployment more repeatable.
-<p>
-<br>
-Because all the developers are developing locally using the same containers, integration is much easier when their code moves on to their EC2-based personal dev environment, the shared dev environment, QA, staging, and production. (Our previous Vagrant-based process didn&#8217;t keep us consistently all using the same environment, as production wasn&#8217;t under config management, and setting up local copies of the MySQL database with all the fixtures took just this side of eternity.) Because a production instance is serving code from a container, every new autoscaled instance that has any code at all is going to have the correct code. (And our previous &#8220;check out code from GitHub and bake an AMI&#8221; deployment process was not what you’d call speedy.)
-<p>
-<br>
-Docker provides just enough in the way of training wheels for Linux containers that everyone can use it (for rapidly increasing values of everyone). In this talk, I detail how DramaFever implemented Docker for our entire development pipeline from laptops to production, covering the pain points and failure scenarios we&#8217;ve encountered and how we&#8217;ve worked through them.
-
-<br>
-<br>
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/HzPVTorgZVC3hU" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-<p>
-
-<br>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IAsQYYmlinU" frameborder="0" allowfullscreen></iframe>
-<br>
-<br>
-
-My <a href="http://sysadvent.blogspot.com/2014/12/day-1-docker-in-production-reality-not.html">SysAdvent post for 2014</a> covers this topic in more detail.
-
-<br>
-<p>
-<p>
-
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/lyouseff/status/589193102113406976">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/rosskukulinski/status/589197033648459777">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589198889468567552">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/rosskukulinski/status/589199927726575616">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589199225835028481">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/sh0b_/status/589199413316190208">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589199655990210560">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589200628074745856">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589202521211609088">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589200346351685632">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/containercamp/status/589200637159550976">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589200895830700032">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589201012092612609">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/solarce/status/589202770944663553">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/rosskukulinski/status/589201088999337984">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/icecrime/status/589201649983303681">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/rosskukulinski/status/589201682539552768">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/icecrime/status/589201919446388736">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/lyouseff/status/589201990502076416">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/misterbisson/status/589201993794588672">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/0x604/status/589201999847034880">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/francesc/status/589202346296549376">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589203424341721089">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/paddyforan/status/589204265207525376">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589204275907010561">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589204505574518784">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589204745463541760">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/bcantrill/status/589205127703101440">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/kordless/status/589205609494368256">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/0ekate/status/589205619212570624">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589205665475866624">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/YLDio/status/589206307401437184">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpetazzo/status/589206500838547456">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/francesc/status/589207139442237441">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/frazelledazzell/status/589213207090180096">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/KevanAhlquist/status/589213352913600512">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/sdtuck/status/589230714081574912">April 17, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/bridgetkromhout/status/589223152443527168">April 17, 2015</a></blockquote>
 
   
-</article>
-
-</div>
-
-<aside class="sidebar">
   
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2017/06/04/in-the-kingdom-of-the-blind/">In the Kingdom of the Blind</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/12/31/the-blizzard-of-the-world/">The Blizzard of the World</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/08/28/livetweeting-tech-conferences/">Livetweeting Tech Conferences</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/04/06/tl-dr-your-talk-is-accepted/">Tl;dr: Your Talk Is Accepted</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/12/31/four-times-i-said-yes-in-2015-and-one-i-didnt/">Four Times I Said Yes in 2015 (and One I Didn't)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/05/31/let-me-google-that-for-you/">Let Me Google That for You</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/12/22/noona-is-devops-style/">Noona Is DevOps Style</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/11/03/the-first-rule-of-devops-club/">The First Rule of DevOps Club</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/09/22/four-interactions-that-could-have-gone-better/">Four Interactions That Could Have Gone Better</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/07/20/all-that-sparkles-is-not-magic/">All That Sparkles Is Not Magic</a>
-      </li>
-    
-  </ul>
-</section>
+  <header class="cover bg-top" style="background-image: url('http://bridgetkromhout.com/images/kitties.png');">
+    <div class="bg-black-40">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="http://bridgetkromhout.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      Bridget Kromhout
+    </a>
+    <div class="flex-l items-center">
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/speaking/" title="Speaking page">
+              Speaking
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/writing/" title="Writing page">
+              Writing
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/podcasts/" title="Podcasts page">
+              Podcasts
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/reviews/" title="Reviews page">
+              Reviews
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
 
 
 
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
 
 
-  
-</aside>
 
 
     </div>
   </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2017 - Bridget Kromhout -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
+</nav>
 
-</footer>
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          Lights, Camera, Docker - Streaming Video at DramaFever
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">                
+      <p><a href="http://container.camp/">Container Camp</a><br>
+San Francisco, California<br>
+2015-04-17<br></p>
+
+<p><br></p>
+
+<p>At <a href="http://www.dramafever.com">DramaFever</a>, the largest streaming video site for international content, we&rsquo;ve been running Docker in production since October 2013 (well before it even went 1.0). Cutting (maybe bleeding) edge? Sounds fun! But important technology stack decisions are not made by running a Markov text generator against the front page of Hacker News. So, why are we using Docker? Simply put, it makes our development more consistent and our deployment more repeatable.
+<p>
+<br>
+Because all the developers are developing locally using the same containers, integration is much easier when their code moves on to their EC2-based personal dev environment, the shared dev environment, QA, staging, and production. (Our previous Vagrant-based process didn&rsquo;t keep us consistently all using the same environment, as production wasn&rsquo;t under config management, and setting up local copies of the MySQL database with all the fixtures took just this side of eternity.) Because a production instance is serving code from a container, every new autoscaled instance that has any code at all is going to have the correct code. (And our previous &ldquo;check out code from GitHub and bake an AMI&rdquo; deployment process was not what you’d call speedy.)
+<p>
+<br>
+Docker provides just enough in the way of training wheels for Linux containers that everyone can use it (for rapidly increasing values of everyone). In this talk, I detail how DramaFever implemented Docker for our entire development pipeline from laptops to production, covering the pain points and failure scenarios we&rsquo;ve encountered and how we&rsquo;ve worked through them.</p>
+
+<p><br>
+<br>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/HzPVTorgZVC3hU" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<p></p>
+
+<p><br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IAsQYYmlinU" frameborder="0" allowfullscreen></iframe>
+<br>
+<br></p>
+
+<p>My <a href="http://sysadvent.blogspot.com/2014/12/day-1-docker-in-production-reality-not.html">SysAdvent post for 2014</a> covers this topic in more detail.</p>
+
+<p><br>
+<p>
+<p></p>
+
+<p><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>.. Awesome meeting you today at <a href="https://twitter.com/containercamp">@containercamp</a> <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a> ... Looking forward to your talk. :)</p>&mdash; Lamia Youseff (@lyouseff) <a href="https://twitter.com/lyouseff/status/589193102113406976">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Super excited to hear from <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>. She&#39;s up next here at <a href="https://twitter.com/containercamp">@containercamp</a> <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a></p>&mdash; Ross Kukulinski (@rosskukulinski) <a href="https://twitter.com/rosskukulinski/status/589197033648459777">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I couldn&#39;t live tweet the end of the last <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a> talk but I look forward to <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>&#39;s talk: streaming video with <a href="https://twitter.com/Docker">@docker</a>!</p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589198889468567552">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some serious AWS autoscaling at <a href="https://twitter.com/dramafever">@dramafever</a>   /<a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/containercamp">@containercamp</a> <a href="http://t.co/VPwi4WGdzy">pic.twitter.com/VPwi4WGdzy</a></p>&mdash; Ross Kukulinski (@rosskukulinski) <a href="https://twitter.com/rosskukulinski/status/589199927726575616">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🐳<a href="https://twitter.com/dramafever">@dramafever</a> is streaming international content since 2009, and running <a href="https://twitter.com/Docker">@docker</a> in production since October 2013. <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a></p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589199225835028481">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a> <a href="http://t.co/oyzn65YQdy">pic.twitter.com/oyzn65YQdy</a></p>&mdash; Sebastian Batalla (@sh0b_) <a href="https://twitter.com/sh0b_/status/589199413316190208">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🐳<a href="https://twitter.com/dramafever">@dramafever</a> Peek load: tens of thousands of req/s; traffic can vary up to 20x during the week. <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a> inb4 autoscaling pic</p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589199655990210560">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🐳<a href="https://twitter.com/dramafever">@dramafever</a> stack: <a href="https://twitter.com/Python">@Python</a>+<a href="https://twitter.com/djangoproject">@djangoproject</a> for main site, many <a href="https://twitter.com/golang">@golang</a> microservices (analytics, ingest, realtime processing, bookmarking…)</p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589200628074745856">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Which <a href="https://twitter.com/Docker">@docker</a> storage driver should I use?&quot; <a href="https://twitter.com/crosbymichael">@crosbymichael</a> says &quot;Overlay&quot;, crap, I must update my talk about that topic 😱 <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a></p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589202521211609088">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nice autoscaling you have there! <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> describing <a href="https://twitter.com/dramafever">@dramafever</a>  <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a> <a href="https://twitter.com/hashtag/previoustweet?src=hash">#previoustweet</a> <a href="http://t.co/ubftg78ryC">pic.twitter.com/ubftg78ryC</a></p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589200346351685632">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The brilliant <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> talking about streaming video with Docker <a href="https://twitter.com/dramafever">@dramafever</a> <a href="http://t.co/wvJ2DIGGKU">pic.twitter.com/wvJ2DIGGKU</a></p>&mdash; Container Camp (@containercamp) <a href="https://twitter.com/containercamp/status/589200637159550976">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🐳<a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> explains that <a href="https://twitter.com/dramafever">@dramafever</a> uses a private <a href="https://twitter.com/Docker">@docker</a> registry based registry, because it scales. <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a></p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589200895830700032">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Damn, my duplex ability sucks but I think <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> just explained that they were running one registry instance on each node?</p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589201012092612609">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">✨<a href="https://twitter.com/jpetazzo">@jpetazzo</a> <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> a lot of this is discussed in detail in the <a href="https://twitter.com/hashtag/hangops?src=hash">#hangops</a> she and tim did <a href="https://t.co/uwaK3qPybN">https://t.co/uwaK3qPybN</a> :)</p>&mdash; 🌟Brandon✨Burton🌟 (@solarce) <a href="https://twitter.com/solarce/status/589202770944663553">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I totally agree with <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> on self-hosting docker registry. They use S3 backing, we use <a href="https://twitter.com/Rackspace">@Rackspace</a> cloud files for dockerized reg</p>&mdash; Ross Kukulinski (@rosskukulinski) <a href="https://twitter.com/rosskukulinski/status/589201088999337984">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> Re:“scar tissue” about the broken registry image: you can pull by digest with Docker 1.6.0! But yeah, sorry for this ;-)</p>&mdash; Arnaud Porterie (@icecrime) <a href="https://twitter.com/icecrime/status/589201649983303681">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> for your docker builds, does Jenkins use cached images? Or do you do a fresh build every time?</p>&mdash; Ross Kukulinski (@rosskukulinski) <a href="https://twitter.com/rosskukulinski/status/589201682539552768">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Yeah, device mapper is basically sadness as a service” <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a></p>&mdash; Arnaud Porterie (@icecrime) <a href="https://twitter.com/icecrime/status/589201919446388736">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> of <a href="https://twitter.com/dramafever">@dramafever</a>, awesome hacks on running <a href="https://twitter.com/Docker">@docker</a> at scale in production <a href="https://twitter.com/containercamp">@containercamp</a>. <a href="http://t.co/Wjv1Ifln1K">pic.twitter.com/Wjv1Ifln1K</a></p>&mdash; Lamia Youseff (@lyouseff) <a href="https://twitter.com/lyouseff/status/589201990502076416">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> wins it with &quot;I run FreeBSD at home&quot; <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a></p>&mdash; Casey Bisson (@misterbisson) <a href="https://twitter.com/misterbisson/status/589201993794588672">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;device mapper is sadness as a service&quot; <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a></p>&mdash; 🌎💧 (@0x604) <a href="https://twitter.com/0x604/status/589201999847034880">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sadness As A Service<a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> killing it at <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a></p>&mdash; Francesc (@francesc) <a href="https://twitter.com/francesc/status/589202346296549376">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/danake">@DanaKE</a> <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> Agreed! That talk is super legit, next time ppl ask about <a href="https://twitter.com/Docker">@docker</a> in production I want to send them to those slides</p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589203424341721089">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sounds like <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> is kicking ass at <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a>.<br><br>Ops team has made great strides in the last year and a half at <a href="https://twitter.com/dramafever">@dramafever</a>.</p>&mdash; Paddy (@paddycarver) <a href="https://twitter.com/paddycarver/status/589204265207525376">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Obligatory picture of container disaster with ship capsizing—protip: does not represent reality&quot; <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a> 😄</p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589204275907010561">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Disasters? What disasters? No. <a href="https://twitter.com/Docker">@docker</a> has been pretty solid for us.&quot; <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a></p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589204505574518784">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Had some quirks w/ boot2docker clock drifting when your machine suspends, b/c S3 requires accurate clocks&quot; <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a></p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589204745463541760">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Really enjoying <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>&#39;s presentation at <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a> -- it drips with hard-won production Docker wisdom</p>&mdash; Bryan Cantrill (@bcantrill) <a href="https://twitter.com/bcantrill/status/589205127703101440">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Obligatory image of a <a href="https://twitter.com/hashtag/container?src=hash">#container</a> AFTER a shipping disaster for <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>: <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a> <a href="http://t.co/dXduSXeF36">pic.twitter.com/dXduSXeF36</a></p>&mdash; Kord Campbell (@kordless) <a href="https://twitter.com/kordless/status/589205609494368256">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Really enjoying the &quot;Pragmatic Docker&quot; presentation from <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>  <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a></p>&mdash; Ekate K (@technekate) <a href="https://twitter.com/technekate/status/589205619212570624">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Containerizing everything is great, except when it&#39;s not; but <a href="https://twitter.com/frazelledazzell">@frazelledazzell</a> will show you otherwise&quot; <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a>😆</p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589205665475866624">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An excellent talk from <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>! Great to see some real-use cases of docker in production! <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a></p>&mdash; YLD (@YLDio) <a href="https://twitter.com/YLDio/status/589206307401437184">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🐳 <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>&#39;s talk about <a href="https://twitter.com/Docker">@docker</a> in production at <a href="https://twitter.com/dramafever">@dramafever</a> is a gold mine of tips, tricks, and best practices. <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a></p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/589206500838547456">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/golang?src=hash">#golang</a> + <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> = tiny containers!! <br>That&#39;s ~10MB! Can I haz the Dockerfile?<a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a> <a href="http://t.co/TjWU3x6uDJ">pic.twitter.com/TjWU3x6uDJ</a></p>&mdash; Francesc (@francesc) <a href="https://twitter.com/francesc/status/589207139442237441">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Most real talk about <a href="https://twitter.com/Docker">@docker</a> in production by <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> ❤️❤️❤️ so nice to hear things they found how they fixed and why they love it!</p>&mdash; jessie frazelle (@jessfraz) <a href="https://twitter.com/jessfraz/status/589213207090180096">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great talk by <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/ContainerCamp?src=hash">#ContainerCamp</a>, and Minneapolis shoutout, at least 2 of us here.</p>&mdash; Kevan Ahlquist (@KevanAhlquist) <a href="https://twitter.com/KevanAhlquist/status/589213352913600512">April 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Terrific talk by <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/ContainerSummit?src=hash">#ContainerSummit</a>.  DevOpsDays MN is going to be a can&#39;t miss event in her hands <a href="http://t.co/yEBLXKrGUD">http://t.co/yEBLXKrGUD</a></p>&mdash; Steven Tuck (@sdtuck) <a href="https://twitter.com/sdtuck/status/589230714081574912">April 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My <a href="https://twitter.com/hashtag/containercamp?src=hash">#containercamp</a> slides are at <a href="http://t.co/dzkUDdAv5P">http://t.co/dzkUDdAv5P</a> - thanks so much to <a href="https://twitter.com/lalamaguire">@lalamaguire</a> for asking me to join all these awesome speakers. :)</p>&mdash; Bridget Kromhout (@bridgetkromhout) <a href="https://twitter.com/bridgetkromhout/status/589223152443527168">April 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+    </div>
+  </article>
+  <div class="mw8 center">
+    
+    <section class="flex-ns flex-wrap justify-around mt5">
+      
+    </section>
+  
+
+  </div>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://bridgetkromhout.com/" >
+    &copy; 2017 Bridget Kromhout
+  </a>
   
 
 
 
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
 
 
 
 
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
+  </div>
+</footer>
 
+    <script src="http://bridgetkromhout.com/dist/app.bundle.js" async></script>
 
-
-
-
-</body>
+  </body>
 </html>

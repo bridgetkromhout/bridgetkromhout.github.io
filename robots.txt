@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://bridgetkromhout.github.io/sitemap.xml 

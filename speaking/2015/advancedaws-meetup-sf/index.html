@@ -1,234 +1,216 @@
-
 <!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Docker in Production - Reality, Not Hype - Bridget Kromhout</title>
-  <meta name="author" content="Bridget Kromhout">
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Bridget Kromhout  | Docker in Production - Reality, Not Hype</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
 
-  
-  <meta name="description" content="Docker in Production - Reality, Not Hype Advanced AWS Meetup
-San Francisco, California
-2015-01-20 DramaFever uses AWS to power our streaming video &hellip;">
-  
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.24.1" />
+      
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
 
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link href='http://bridgetkromhout.com/dist/main.css' rel='stylesheet' type="text/css" />
 
-  
-  <link rel="canonical" href="http://bridgetkromhout.github.io/speaking/2015/advancedaws-meetup-sf">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/stylesheets/data-table.css" media="screen, projection" rel="stylesheet" type="text/css" />
-  <link href="/atom.xml" rel="alternate" title="Bridget Kromhout" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+     
+      <link href="http://bridgetkromhout.com/speaking/2015/advancedaws-meetup-sf/index.xml" rel="alternate" type="application/rss+xml" title="Bridget Kromhout" />
+      <link href="http://bridgetkromhout.com/speaking/2015/advancedaws-meetup-sf/index.xml" rel="feed" type="application/rss+xml" title="Bridget Kromhout" />
+      
 
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-50236920-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+      <meta property="og:title" content="Docker in Production - Reality, Not Hype" />
+<meta property="og:description" content="Bridget Kromhout" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://bridgetkromhout.com/speaking/2015/advancedaws-meetup-sf/" />
 
 
-</head>
 
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Bridget Kromhout</a></h1>
-  
-    <h2>Ops Sundries</h2>
-  
-</hgroup>
 
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:bridgetkromhout.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/blog/archives">Blog Archives</a></li>
-  <li><a href="/speaking">Speaking</a></li>
-  <li><a href="/writing">Writing</a></li>
-  <li><a href="/podcasts">Podcasts</a></li>
-  <li><a href="/reviews">Reviews</a></li>
-  <li><a href="http://twitter.com/bridgetkromhout">Twitter</a></li>
-  <li><a href="/contact">Contact</a></li>
-</ul>
 
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article role="article">
-  
-  <header>
-    <h1 class="entry-title">Docker in Production - Reality, Not Hype</h1>
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Docker in Production - Reality, Not Hype">
+<meta itemprop="description" content="Bridget Kromhout">
+
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
     
-  </header>
-  
-  <a href="http://www.meetup.com/AdvancedAWS/events/219406544/">Advanced AWS Meetup</a><br>
-San Francisco, California<br>
-2015-01-20<br>
-
-<br>
-
-<a href="http://www.dramafever.com">DramaFever</a> uses AWS to power our streaming video platform. We&#8217;ve been running Docker in production since about October 2013 (well before it even went 1.0). This talk gives an overview of how we use it to make development more consistent and deployment more repeatable. 
-<br>
-<br>
-<p>
-
-My <a href="http://sysadvent.blogspot.com/2014/12/day-1-docker-in-production-reality-not.html">SysAdvent post for 2014</a> covers this topic in more detail.
-
-<br>
-<p>
-<p>
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/43767167" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-<br>
-
-<iframe width="420" height="315" src="//www.youtube.com/embed/hwBcuZNuuJU" frameborder="0" allowfullscreen></iframe>
-
-[Due to cellphone battery draining, the end of the talk was not captured.]
-<br>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/pas256/status/557685834305253377">Jan 20, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/aspyker/status/557728144208461824">Jan 20, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/moon/status/557729093790470148">Jan 20, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/CadsOakley/status/557729102325895169">Jan 20, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/CadsOakley/status/557738070343426050">Jan 20, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/aspyker/status/557738164971110402">Jan 20, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/aspyker/status/557739177815851008">Jan 20, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/alexstojcic/status/557749426509590529">Jan 20, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/joeyparsons/status/557759816060653569">Jan 20, 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/denis_n_a/status/557999362278559744">Jan 20, 2015</a></blockquote>
-
 
   
-</article>
-
-</div>
-
-<aside class="sidebar">
   
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2017/06/04/in-the-kingdom-of-the-blind/">In the Kingdom of the Blind</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/12/31/the-blizzard-of-the-world/">The Blizzard of the World</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/08/28/livetweeting-tech-conferences/">Livetweeting Tech Conferences</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/04/06/tl-dr-your-talk-is-accepted/">Tl;dr: Your Talk Is Accepted</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/12/31/four-times-i-said-yes-in-2015-and-one-i-didnt/">Four Times I Said Yes in 2015 (and One I Didn't)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/05/31/let-me-google-that-for-you/">Let Me Google That for You</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/12/22/noona-is-devops-style/">Noona Is DevOps Style</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/11/03/the-first-rule-of-devops-club/">The First Rule of DevOps Club</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/09/22/four-interactions-that-could-have-gone-better/">Four Interactions That Could Have Gone Better</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/07/20/all-that-sparkles-is-not-magic/">All That Sparkles Is Not Magic</a>
-      </li>
-    
-  </ul>
-</section>
+  <header class="cover bg-top" style="background-image: url('http://bridgetkromhout.com/images/kitties.png');">
+    <div class="bg-black-40">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="http://bridgetkromhout.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      Bridget Kromhout
+    </a>
+    <div class="flex-l items-center">
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/speaking/" title="Speaking page">
+              Speaking
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/writing/" title="Writing page">
+              Writing
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/podcasts/" title="Podcasts page">
+              Podcasts
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/reviews/" title="Reviews page">
+              Reviews
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
 
 
 
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
 
 
-  
-</aside>
 
 
     </div>
   </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2017 - Bridget Kromhout -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
+</nav>
 
-</footer>
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          Docker in Production - Reality, Not Hype
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">                
+      <p><a href="http://www.meetup.com/AdvancedAWS/events/219406544/">Advanced AWS Meetup</a><br>
+San Francisco, California<br>
+2015-01-20<br></p>
+
+<p><br></p>
+
+<p><a href="http://www.dramafever.com">DramaFever</a> uses AWS to power our streaming video platform. We&rsquo;ve been running Docker in production since about October 2013 (well before it even went 1.0). This talk gives an overview of how we use it to make development more consistent and deployment more repeatable.
+<br>
+<br>
+<p></p>
+
+<p>My <a href="http://sysadvent.blogspot.com/2014/12/day-1-docker-in-production-reality-not.html">SysAdvent post for 2014</a> covers this topic in more detail.</p>
+
+<p><br>
+<p>
+<p></p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/43767167" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+<p><br></p>
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/hwBcuZNuuJU" frameborder="0" allowfullscreen></iframe>
+
+<p>[Due to cellphone battery draining, the end of the talk was not captured.]
+<br></p>
+
+<p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Super excited about the <a href="https://twitter.com/Docker">@docker</a> on <a href="https://twitter.com/awscloud">@awscloud</a> meetup tonight w/ <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>, cads &amp; <a href="https://twitter.com/iAmTheWhaley">@iAmTheWhaley</a> <a href="http://t.co/l3cORCn2b1">http://t.co/l3cORCn2b1</a></p>&mdash; Peter Sankauskas (@pas256) <a href="https://twitter.com/pas256/status/557685834305253377">January 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Now up at advanced AWS Meetup <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> from <a href="https://twitter.com/dramafever">@dramafever</a>.  Like netflix?  Hrm.</p>&mdash; ɹǝʞʎds ʍǝɹpuɐ (@aspyker) <a href="https://twitter.com/aspyker/status/557728144208461824">January 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> talking about <a href="https://twitter.com/hashtag/Docker?src=hash">#Docker</a> on <a href="https://twitter.com/AWS">@AWS</a> <a href="http://t.co/PETDZUchHL">pic.twitter.com/PETDZUchHL</a></p>&mdash; paul mooney (@moon) <a href="https://twitter.com/moon/status/557729093790470148">January 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My fave devops days person <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> is here, and I get to talk after her. Listen up... She&#39;s brilliant. <a href="https://twitter.com/hashtag/AdvancedAWS?src=hash">#AdvancedAWS</a></p>&mdash; FullStackEngineering (@CadsOakley) <a href="https://twitter.com/CadsOakley/status/557729102325895169">January 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow... Big crowd at Lyft for <a href="https://twitter.com/hashtag/AdvancedAWS?src=hash">#AdvancedAWS</a> <a href="http://t.co/M8nHBKHyjr">pic.twitter.com/M8nHBKHyjr</a></p>&mdash; FullStackEngineering (@CadsOakley) <a href="https://twitter.com/CadsOakley/status/557738070343426050">January 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good call.  Don&#39;t containerize all things always.  Containerize things that change and those that benefit.  <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a></p>&mdash; ɹǝʞʎds ʍǝɹpuɐ (@aspyker) <a href="https://twitter.com/aspyker/status/557738164971110402">January 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great talk from <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> with real world docker help.  Nice job. Thanks.</p>&mdash; ɹǝʞʎds ʍǝɹpuɐ (@aspyker) <a href="https://twitter.com/aspyker/status/557739177815851008">January 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/Docker">@docker</a> on <a href="https://twitter.com/awscloud">@awscloud</a> <a href="https://twitter.com/hashtag/advancedaws?src=hash">#advancedaws</a> meetup at <a href="https://twitter.com/lyft">@lyft</a> hq with <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/CadsOakley">@CadsOakley</a> <a href="https://twitter.com/iAmTheWhaley">@iAmTheWhaley</a> <a href="https://twitter.com/devopsdays">@devopsdays</a> <a href="http://t.co/USWK2NGRU8">pic.twitter.com/USWK2NGRU8</a></p>&mdash; Alex Stojcic (@alexstojcic) <a href="https://twitter.com/alexstojcic/status/557749426509590529">January 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> made your talk and the following, had to get home because <a href="https://twitter.com/hashtag/opslife?src=hash">#opslife</a> calls! thanks for the great preso -- learned quite a bit</p>&mdash; Joey Parsons (@joeyparsons) <a href="https://twitter.com/joeyparsons/status/557759816060653569">January 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> Thanks for the excellent presentation at <a href="https://twitter.com/hashtag/advancedAWS?src=hash">#advancedAWS</a>. Any place I could find your slides? Or a post?</p>&mdash; Denis N. Antonioli (@denis_n_a) <a href="https://twitter.com/denis_n_a/status/557999362278559744">January 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+    </div>
+  </article>
+  <div class="mw8 center">
+    
+    <section class="flex-ns flex-wrap justify-around mt5">
+      
+    </section>
+  
+
+  </div>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://bridgetkromhout.com/" >
+    &copy; 2017 Bridget Kromhout
+  </a>
   
 
 
 
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
 
 
 
 
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
+  </div>
+</footer>
 
+    <script src="http://bridgetkromhout.com/dist/app.bundle.js" async></script>
 
-
-
-
-</body>
+  </body>
 </html>

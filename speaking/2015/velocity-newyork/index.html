@@ -1,95 +1,137 @@
-
 <!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Scaling Next-Generation Internet TV on AWS With Docker, Packer, and Chef - Bridget Kromhout</title>
-  <meta name="author" content="Bridget Kromhout">
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Bridget Kromhout  | Scaling Next-Generation Internet TV on AWS with Docker, Packer, and Chef</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
 
-  
-  <meta name="description" content="Scaling Next-Generation Internet TV on AWS With Docker, Packer, and Chef Velocity New YorkNew York, New York2015-10-12 to 2015-10-14 Speakers &hellip;">
-  
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.24.1" />
+      
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
 
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link href='http://bridgetkromhout.com/dist/main.css' rel='stylesheet' type="text/css" />
 
-  
-  <link rel="canonical" href="http://bridgetkromhout.github.io/speaking/2015/velocity-newyork">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/stylesheets/data-table.css" media="screen, projection" rel="stylesheet" type="text/css" />
-  <link href="/atom.xml" rel="alternate" title="Bridget Kromhout" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+     
+      <link href="http://bridgetkromhout.com/speaking/2015/velocity-newyork/index.xml" rel="alternate" type="application/rss+xml" title="Bridget Kromhout" />
+      <link href="http://bridgetkromhout.com/speaking/2015/velocity-newyork/index.xml" rel="feed" type="application/rss+xml" title="Bridget Kromhout" />
+      
 
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-50236920-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+      <meta property="og:title" content="Scaling Next-Generation Internet TV on AWS with Docker, Packer, and Chef" />
+<meta property="og:description" content="Bridget Kromhout" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://bridgetkromhout.com/speaking/2015/velocity-newyork/" />
 
 
-</head>
 
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Bridget Kromhout</a></h1>
-  
-    <h2>Ops Sundries</h2>
-  
-</hgroup>
 
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:bridgetkromhout.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/blog/archives">Blog Archives</a></li>
-  <li><a href="/speaking">Speaking</a></li>
-  <li><a href="/writing">Writing</a></li>
-  <li><a href="/podcasts">Podcasts</a></li>
-  <li><a href="/reviews">Reviews</a></li>
-  <li><a href="http://twitter.com/bridgetkromhout">Twitter</a></li>
-  <li><a href="/contact">Contact</a></li>
-</ul>
 
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article role="article">
-  
-  <header>
-    <h1 class="entry-title">Scaling Next-Generation Internet TV on AWS With Docker, Packer, and Chef</h1>
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Scaling Next-Generation Internet TV on AWS with Docker, Packer, and Chef">
+<meta itemprop="description" content="Bridget Kromhout">
+
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
     
-  </header>
+
   
-  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://velocityconf.com/devops-web-performance-ny-2015/public/schedule/detail/43925">Velocity New York</a><br>New York, New York<br><span class="date-display-start">2015-10-12</span> to <span class="date-display-end">2015-10-14</span></span></div>
+  
+  <header class="cover bg-top" style="background-image: url('http://bridgetkromhout.com/images/kitties.png');">
+    <div class="bg-black-40">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="http://bridgetkromhout.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      Bridget Kromhout
+    </a>
+    <div class="flex-l items-center">
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/speaking/" title="Speaking page">
+              Speaking
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/writing/" title="Writing page">
+              Writing
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/podcasts/" title="Podcasts page">
+              Podcasts
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/reviews/" title="Reviews page">
+              Reviews
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          Scaling Next-Generation Internet TV on AWS with Docker, Packer, and Chef
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">                
+      <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://velocityconf.com/devops-web-performance-ny-2015/public/schedule/detail/43925">Velocity New York</a><br>New York, New York<br><span class="date-display-start">2015-10-12</span> to <span class="date-display-end">2015-10-14</span></span></div>
 <br>
 
 <br>
@@ -121,122 +163,81 @@ We’ll detail how we’re reducing our time to production and increasing our in
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/11XLGRjVsAPanJ" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/scaling-nextgeneration-internet-tv-on-aws-with-docker-packer-and-chef" title="Scaling Next-Generation Internet TV on AWS With Docker, Packer, and Chef" target="_blank">Scaling Next-Generation Internet TV on AWS With Docker, Packer, and Chef</a> </strong> from <strong><a href="//www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
 
-<br>
+<p><br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HJ9NnTLjv2U" frameborder="0" allowfullscreen></iframe>
 <br>
 <br>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/mcddjj/status/654393053420122112">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/JanJoostBouwman/status/654395738177318912">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/beerops/status/654395799061831680">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/caseywest/status/654396277954859009">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/beerops/status/654396283566850049">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/JanJoostBouwman/status/654396498629795840">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/BobTheBotMaker/status/654396669107249152">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/ajdomie/status/654396724711194625">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/SteveElsewhere/status/654396780449239040">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/caseywest/status/654397153255796737">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/BobTheBotMaker/status/654398493101047808">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/caseywest/status/654398516761116673">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/beerops/status/654400370358226944">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpaulreed/status/654400557352882177">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/rhoml/status/654402204359507968">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/beerops/status/654403265849880577">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/beerops/status/654403576391991296">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/jpaulreed/status/654401186867621889">Oct 14, 2015</a></blockquote>
-<blockquote class="twitter-tweet" lang="en" align="center"><a href="https://twitter.com/ajdomie/status/654405632951484416">Oct 14, 2015</a></blockquote>
-
-  
-</article>
-
-</div>
-
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2017/06/04/in-the-kingdom-of-the-blind/">In the Kingdom of the Blind</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/12/31/the-blizzard-of-the-world/">The Blizzard of the World</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/08/28/livetweeting-tech-conferences/">Livetweeting Tech Conferences</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/04/06/tl-dr-your-talk-is-accepted/">Tl;dr: Your Talk Is Accepted</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/12/31/four-times-i-said-yes-in-2015-and-one-i-didnt/">Four Times I Said Yes in 2015 (and One I Didn't)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/05/31/let-me-google-that-for-you/">Let Me Google That for You</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/12/22/noona-is-devops-style/">Noona Is DevOps Style</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/11/03/the-first-rule-of-devops-club/">The First Rule of DevOps Club</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/09/22/four-interactions-that-could-have-gone-better/">Four Interactions That Could Have Gone Better</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/07/20/all-that-sparkles-is-not-magic/">All That Sparkles Is Not Magic</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Only problem with a <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/velocityconf?src=hash">#velocityconf</a> talk is no <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> live tweeting of the talk.</p>&mdash; John Jones (@mcddjj) <a href="https://twitter.com/mcddjj/status/654393053420122112">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally containers, containers containers from Dramafever by <a href="https://twitter.com/pietroshannon">@pietroshannon</a> and <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a></p>&mdash; Jan-Joost Bouwman (@JanJoostBouwman) <a href="https://twitter.com/JanJoostBouwman/status/654395738177318912">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;<a href="https://twitter.com/pietroshannon">@pietroshannon</a> and <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> are in between you and drinks. But, containers!&quot; <a href="https://twitter.com/allspaw">@allspaw</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a> <a href="http://t.co/OYHg31ofdR">pic.twitter.com/OYHg31ofdR</a></p>&mdash; (╯°□°）╯︵ ┻━┻ sdoɹǝǝq (@beerops) <a href="https://twitter.com/beerops/status/654395799061831680">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Case study of @DramaFeverTech infra by <a href="https://twitter.com/pietroshannon">@pietroshannon</a> and <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> as the last talk of <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a>. <a href="http://t.co/gjtd8ldqFh">pic.twitter.com/gjtd8ldqFh</a></p>&mdash; Casey West (@caseywest) <a href="https://twitter.com/caseywest/status/654396277954859009">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;People watch fewer K-dramas when they&#39;re sleeping, but not none.&quot; <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> describing 10x-20x traffic variances <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a></p>&mdash; (╯°□°）╯︵ ┻━┻ sdoɹǝǝq (@beerops) <a href="https://twitter.com/beerops/status/654396283566850049">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&#39;Dramafever is like Netfix if it was smaller and had Korean soap operas and if they ran Docker in production&#39; <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/velocityconf">@velocityconf</a></p>&mdash; Jan-Joost Bouwman (@JanJoostBouwman) <a href="https://twitter.com/JanJoostBouwman/status/654396498629795840">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">. <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> Wrapping up a great <a href="https://twitter.com/hashtag/velocityconf?src=hash">#velocityconf</a>! <a href="http://t.co/bJleuvvZE5">pic.twitter.com/bJleuvvZE5</a></p>&mdash; André H. (@7Grok) <a href="https://twitter.com/7Grok/status/654396669107249152">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As <a href="https://twitter.com/allspaw">@allspaw</a> says&quot;<a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> and <a href="https://twitter.com/pietroshannon">@pietroshannon</a> are standing between you &amp; beer but containers!&quot; <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a> <a href="http://t.co/700UcB7z70">pic.twitter.com/700UcB7z70</a></p>&mdash; Andy Domeier (@ajdomie) <a href="https://twitter.com/ajdomie/status/654396724711194625">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;People watch *fewer* k-dramas while they&#39;re sleeping, but not *no* k-dramas&quot; - <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="http://t.co/85MI7z1va9">pic.twitter.com/85MI7z1va9</a></p>&mdash; Steve Pereira (@SteveElsewhere) <a href="https://twitter.com/SteveElsewhere/status/654396780449239040">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Are the devs just doing a `docker build` on their laptops and <a href="https://twitter.com/hashtag/yolo?src=hash">#yolo</a>-ing that out to production?” <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a></p>&mdash; Casey West (@caseywest) <a href="https://twitter.com/caseywest/status/654397153255796737">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Device mapper is sadness as a service&quot; <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a>!</p>&mdash; André H. (@7Grok) <a href="https://twitter.com/7Grok/status/654398493101047808">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great move to use a local docker registry on every instance with s3 as the store. Fixes SPOF. <a href="https://twitter.com/pietroshannon">@pietroshannon</a> <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a></p>&mdash; Casey West (@caseywest) <a href="https://twitter.com/caseywest/status/654398516761116673">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Inspired by <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> &amp; <a href="https://twitter.com/pietroshannon">@pietroshannon</a>&#39;s slides, found some docker LEGO: <a href="http://t.co/G5lh2WYI7x">http://t.co/G5lh2WYI7x</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a> <a href="http://t.co/TJnvpXbVvh">pic.twitter.com/TJnvpXbVvh</a></p>&mdash; (╯°□°）╯︵ ┻━┻ sdoɹǝǝq (@beerops) <a href="https://twitter.com/beerops/status/654400370358226944">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;This is not as YOLO as it looks.&quot;-<a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a> <a href="http://t.co/PhxKccPtwz">pic.twitter.com/PhxKccPtwz</a></p>&mdash; J. Paul Reed (@jpaulreed) <a href="https://twitter.com/jpaulreed/status/654400557352882177">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The &quot;Amazon is broken&quot; dial - instance variables for Docker containers get deployed by Chef <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/pietroshannon">@pietroshannon</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a></p>&mdash; (╯°□°）╯︵ ┻━┻ sdoɹǝǝq (@beerops) <a href="https://twitter.com/beerops/status/654403265849880577">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OH: &quot;Conference-driven development - what do you want to talk about next year?&quot; <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a></p>&mdash; (╯°□°）╯︵ ┻━┻ sdoɹǝǝq (@beerops) <a href="https://twitter.com/beerops/status/654403576391991296">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“When your DockerHub runs out of disk space, you’d think it would tell you that. ... Mmmmmmmm… no.” -<a href="https://twitter.com/pietroshannon">@pietroshannon</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash">#VelocityConf</a></p>&mdash; J. Paul Reed (@jpaulreed) <a href="https://twitter.com/jpaulreed/status/654401186867621889">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks for the great container talk <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> &amp; <a href="https://twitter.com/pietroshannon">@pietroshannon</a> really a great talk and takeaways. <a href="https://twitter.com/hashtag/velocityconf?src=hash">#velocityconf</a></p>&mdash; Andy Domeier (@ajdomie) <a href="https://twitter.com/ajdomie/status/654405632951484416">October 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
     </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2017 - Bridget Kromhout -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
+  </article>
+  <div class="mw8 center">
+    
+    <section class="flex-ns flex-wrap justify-around mt5">
+      
+    </section>
+  
 
-</footer>
+  </div>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://bridgetkromhout.com/" >
+    &copy; 2017 Bridget Kromhout
+  </a>
   
 
 
 
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
 
 
 
 
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
+  </div>
+</footer>
 
+    <script src="http://bridgetkromhout.com/dist/app.bundle.js" async></script>
 
-
-
-
-</body>
+  </body>
 </html>

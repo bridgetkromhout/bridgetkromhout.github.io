@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keep Calm and Carry On - Scaling Your Org with Microservices on Bridget Kromhout</title>
+    <link>http://bridgetkromhout.com/speaking/2017/srecon/</link>
+    <description>Recent content in Keep Calm and Carry On - Scaling Your Org with Microservices on Bridget Kromhout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://bridgetkromhout.com/speaking/2017/srecon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

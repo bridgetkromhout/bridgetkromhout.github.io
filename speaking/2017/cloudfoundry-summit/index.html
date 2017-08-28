@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Bridget Kromhout  | Ops in the Time of Serverless Containerized Webscale</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.24.1" />
+      
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+     <link href='http://bridgetkromhout.com/dist/main.css' rel='stylesheet' type="text/css" />
+
+     
+      <link href="http://bridgetkromhout.com/speaking/2017/cloudfoundry-summit/index.xml" rel="alternate" type="application/rss+xml" title="Bridget Kromhout" />
+      <link href="http://bridgetkromhout.com/speaking/2017/cloudfoundry-summit/index.xml" rel="feed" type="application/rss+xml" title="Bridget Kromhout" />
+      
+
+      <meta property="og:title" content="Ops in the Time of Serverless Containerized Webscale" />
+<meta property="og:description" content="Bridget Kromhout" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://bridgetkromhout.com/speaking/2017/cloudfoundry-summit/" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Ops in the Time of Serverless Containerized Webscale">
+<meta itemprop="description" content="Bridget Kromhout">
+
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+
+  
+  
+  <header class="cover bg-top" style="background-image: url('http://bridgetkromhout.com/images/kitties.png');">
+    <div class="bg-black-40">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="http://bridgetkromhout.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      Bridget Kromhout
+    </a>
+    <div class="flex-l items-center">
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/speaking/" title="Speaking page">
+              Speaking
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/writing/" title="Writing page">
+              Writing
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/podcasts/" title="Podcasts page">
+              Podcasts
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/reviews/" title="Reviews page">
+              Reviews
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          Ops in the Time of Serverless Containerized Webscale
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">                
+      <p><div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://sched.co/B3dJ">Cloud Foundry Summit - Ops in the time of serverless containerized webscale</a><br>Santa Clara, CA<br><span class="date-display-start">2017-06-14</span></div>
+<br></p>
+
+<p><br></p>
+
+<p><br>
+<br>
+Description
+<br>
+Living #opslife makes us keenly aware of the cavernous gap between lofty ideals and 3am reality. In a perfect world, everyone would be devopsing sans effort. In the real world, sharing operational responsibility is not as easy as giving developers production access, adding them to an oncall rotation, and saying “good luck! have fun!”
+<br>
+<br></p>
+
+<p>When incentives mean a feature team is concerned primarily with shipping and not operability, while site reliability is someone else’s concern, conflict results. We build in graceful degradation for decentralized systems but often neglect the (just-as-essential) human interactions. As the fractal complexity of our distributed systems grows, we need mindful practices that work with our tooling and effective tools that reinforce our desired culture.
+<br>
+<br></p>
+
+<p>Slides
+<br></p>
+
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/3fc9SySaVOucYX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/ops-in-the-time-of-serverless-containerized-webscale-cf-summit" title="Ops in the Time of Serverless Containerized Webscale (CF Summit)" target="_blank">Ops in the Time of Serverless Containerized Webscale (CF Summit)</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/bridgetkromhout">bridgetkromhout</a></strong> </div>
+<br></p>
+
+<p><br></p>
+
+<p>Tweets
+<br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> talks ops at <a href="https://twitter.com/hashtag/cloudfoundry?src=hash">#cloudfoundry</a> <a href="https://t.co/ixChGfMHaq">pic.twitter.com/ixChGfMHaq</a></p>&mdash; Jim Park (@jim80net) <a href="https://twitter.com/jim80net/status/875072961887182848">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Watching <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> talking about <a href="https://twitter.com/hashtag/opslife?src=hash">#opslife</a> in buzzwordistan. I&#39;m so lucky that I get to work with people like Bridget. She&#39;s awesome. <a href="https://t.co/GI96TrikPY">pic.twitter.com/GI96TrikPY</a></p>&mdash; Mark Imbriaco (@markimbriaco) <a href="https://twitter.com/markimbriaco/status/875073272181739521">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why you don&#39;t build and operate your own platform from <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/cfsummit2017?src=hash">#cfsummit2017</a> <a href="https://t.co/wYPIzIGV7S">pic.twitter.com/wYPIzIGV7S</a></p>&mdash; Chuck D&#39;Antonio (@crdant) <a href="https://twitter.com/crdant/status/875074281797038080">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;i don&#39;t know who they&#39;re collaborating with, but they&#39;re devopsing really hard over there&quot; -- too true <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>! 😂 <a href="https://twitter.com/hashtag/cloudfoundry?src=hash">#cloudfoundry</a></p>&mdash; melinda (@melindaisms) <a href="https://twitter.com/melindaisms/status/875074420649455617">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Computers are hard, people are harder - <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/cfsummit?src=hash">#cfsummit</a> <a href="https://t.co/ZZTLE89Jp6">pic.twitter.com/ZZTLE89Jp6</a></p>&mdash; Jared Ruckle (@jaredruckle) <a href="https://twitter.com/jaredruckle/status/875075063820632064">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Learning how we got to our serverless, containerized, noops, microserviced future from <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/cloudfoundry?src=hash">#cloudfoundry</a> summit. <a href="https://t.co/0B7mFuzkSu">pic.twitter.com/0B7mFuzkSu</a></p>&mdash; Casey West (@caseywest) <a href="https://twitter.com/caseywest/status/875075446018236417">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Obviously Google has a cloud (<a href="https://twitter.com/googlecloud">@googlecloud</a>). It’s delightful.” – <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/cloudfoundry?src=hash">#cloudfoundry</a></p>&mdash; Casey West (@caseywest) <a href="https://twitter.com/caseywest/status/875075744199843843">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Super important point from <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> about the right constraints being empowering rather than a barrier. Make the happy path happy.</p>&mdash; Mark Imbriaco (@markimbriaco) <a href="https://twitter.com/markimbriaco/status/875076542912581632">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An important question for <a href="https://twitter.com/hashtag/ops?src=hash">#ops</a> to ask others: &quot;what is your goal?&quot; says <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>. Get past buzzwords &amp; pick the right tech <a href="https://twitter.com/hashtag/cfsummit?src=hash">#cfsummit</a></p>&mdash; Jared Ruckle (@jaredruckle) <a href="https://twitter.com/jaredruckle/status/875077437532635137">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Think about where your alerts go so you don&#39;t just have a person standing in as a very angry named pipe. - <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a></p>&mdash; Mark Imbriaco (@markimbriaco) <a href="https://twitter.com/markimbriaco/status/875077593749475328">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Day 1 is really short, and day 2 is probably forever.&quot; - <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/cfsummit?src=hash">#cfsummit</a> <a href="https://t.co/lybPWxXVSN">pic.twitter.com/lybPWxXVSN</a></p>&mdash; Mark Imbriaco (@markimbriaco) <a href="https://twitter.com/markimbriaco/status/875078319053709313">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Team YOLO and Team Nope&quot; ... both considered harmful. Empathy is essential. <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/cfsummit?src=hash">#cfsummit</a> <a href="https://t.co/bPkLkUeKvJ">pic.twitter.com/bPkLkUeKvJ</a></p>&mdash; Mark Imbriaco (@markimbriaco) <a href="https://twitter.com/markimbriaco/status/875079271353466881">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Per <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>: &quot;Development and Operations. Team Yolo vs. Team Nope.&quot; <a href="https://twitter.com/hashtag/cfsummit?src=hash">#cfsummit</a></p>&mdash; Josh Stone (@stonejoshstone) <a href="https://twitter.com/stonejoshstone/status/875079385807638528">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Team YOLO vs. Team Nope via <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>. They have different motivations &amp; incentives. Get alignment around operability. <a href="https://twitter.com/hashtag/cfsummit?src=hash">#cfsummit</a> <a href="https://t.co/Z037qR9EI8">pic.twitter.com/Z037qR9EI8</a></p>&mdash; Jared Ruckle (@jaredruckle) <a href="https://twitter.com/jaredruckle/status/875080250950070272">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;I&#39;m a Team YOLO Lady in a Team Nope Town&quot;--country/western song waiting to happen</p>&mdash; Lauri Apple 🍎🖥🇪🇺 (@LauritaApplez) <a href="https://twitter.com/LauritaApplez/status/875093726179282947">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;I have nothing against developers. Some of my best friends are developers.&quot; - <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a>. Could be Stockholm Syndrome ...</p>&mdash; Mark Imbriaco (@markimbriaco) <a href="https://twitter.com/markimbriaco/status/875081147113512965">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t expect Dev &amp; Ops to be friends if Ops is putting out a fire every time Dev is at their release party/<a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/cfsummit2017?src=hash">#cfsummit2017</a></p>&mdash; Danielle Burrow (@DBurrow11) <a href="https://twitter.com/DBurrow11/status/875122786024382465">June 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+    </div>
+  </article>
+  <div class="mw8 center">
+    
+    <section class="flex-ns flex-wrap justify-around mt5">
+      
+    </section>
+  
+
+  </div>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://bridgetkromhout.com/" >
+    &copy; 2017 Bridget Kromhout
+  </a>
+  
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+  </div>
+</footer>
+
+    <script src="http://bridgetkromhout.com/dist/app.bundle.js" async></script>
+
+  </body>
+</html>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sometimes you feel like a docker; sometimes you don&#39;t. on Bridget Kromhout</title>
+    <link>http://bridgetkromhout.com/speaking/2015/devops-meetup-nyc/</link>
+    <description>Recent content in Sometimes you feel like a docker; sometimes you don&#39;t. on Bridget Kromhout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://bridgetkromhout.com/speaking/2015/devops-meetup-nyc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
