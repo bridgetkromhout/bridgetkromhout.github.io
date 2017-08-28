@@ -1,0 +1,46 @@
+---
+layout: page
+title: The Promise of a Cloud Native Platform
+footer: false
+---
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.umsec.umn.edu/CodeFreeze-2016-Breakout-Sessions">CodeFreeze - The Promise of a Cloud Native Platform</a><br>Minneapolis, MN<br><span class="date-display-start">2016-01-14</span> </span></div>
+<br>
+
+
+<br>
+<br>
+Continuous Delivery, Microservices, and DevOps are three labels that describe aspects of the same phenomena; the principles and practices of high performing organizations that deliver highly available software, rapidly, at scale.
+
+<br>
+<br>
+Continuous delivery has gone from an aspirational nice-to-have to a must-have capability for staying competitive at the edge of innovation. Nearly every automation project sets out to provide self-service deployments for developers with visibility and reliability for operations. Whether using configuration management or embracing containers to package workloads, we need a long list of capabilities to fill gaps in the automation. How do you provision infrastructure? Who can provision? How much? How do you deploy? Who can do deployments? What can even get deployed? What about canary deploys? Rolling deployments? Monitoring? Metrics? Fault detection? Fault remediation? The operational needs of a continuously delivered microservice architecture bring with them new considerations and constraints: let’s talk about them.
+<br>
+<br>
+
+This presentation catalogs the capabilities that allow organizations to move quickly, reliably, and economically in an end-to-end infrastructure-to-application platform: the Cloud Native advantage outlined as contracts and promises. What promises can your platform keep?
+
+<br>
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3G1BZ7ZzM9nmWF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/the-promise-of-a-cloud-native-platform-code-freeze-conf" title="The Promise of a Cloud Native Platform (Code Freeze conf)" target="_blank">The Promise of a Cloud Native Platform (Code Freeze conf)</a> </strong> from <strong><a href="//www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
+
+<br>
+Video for talk #1:
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFE8oiVpRpY" frameborder="0" allowfullscreen></iframe>
+<br>
+Video for talk #2:
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x5vZ5V5hMwA" frameborder="0" allowfullscreen></iframe>
+<br>
+
+<br>
+
+{{< tweet 687692474521878528 >}}
+{{< tweet 687695486619353088 >}}
+{{< tweet 687697334658969600 >}}
+{{< tweet 687699290395815936 >}}
+{{< tweet 687732684328538112 >}}
+{{< tweet 687753991929741312 >}}
+{{< tweet 687767312145842176 >}}
+{{< tweet 688019830260285440 >}}

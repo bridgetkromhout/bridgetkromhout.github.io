@@ -1,0 +1,39 @@
+---
+layout: page
+title: Pioneers, Settlers, and Town Planners of Catan
+footer: false
+---
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.devopsdays.org/events/2016-newyork/program/bridget-kromhout/">Pioneers, Settlers, and Town Planners of Catan (Ignite)</a><br>New York, New York<br><span class="date-display-start">2016-09-23</span> to <span class="date-display-end">2016-09-24</span></span></div>
+
+<br>
+<br>
+devopsdays New York ignite
+<br>
+<br>
+No critique of bimodal IT is complete without a board game analogy; here’s mine. What if Wardley maps were hex-based? In the game Settlers of Catan, players vie for longest road, largest army, and resource monopolies on the game board. But when the Cities and Knights expansion is added to the game, suddenly there are multiple paths to victory.
+<br>
+<br>
+
+In Accidental Empires, Robert X. Cringely’s history of Silicon Valley, he talks about commandos, infantry, and police. Simon Wardley talks about pioneers, settlers, and town planners. The concept remains the same: some innovate, others turn the innovations into products, and still others make products into commodities. This talk will explain mapping of the enterprise IT journey by way of board games, with whimsical asides.
+
+<br>
+
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/22hiYja4sexpYX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/pioneers-settlers-and-town-planners-of-catan-s1p-ignite" title="Pioneers, Settlers, and Town Planners of Catan (Ignite)" target="_blank">Pioneers, Settlers, and Town Planners of Catan (Ignite)</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/bridgetkromhout">bridgetkromhout</a></strong> </div>
+<br>
+<br>
+
+<iframe width="696" height="415" src="https://www.youtube.com/embed/bLVFc1kXjbQ" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>
+
+
+{{< tweet 779380525538480128 >}}
+{{< tweet 779380784981508096 >}}
+{{< tweet 779381115786190848 >}}
+{{< tweet 779381149692944384 >}}
+{{< tweet 779381250641367041 >}}
+{{< tweet 779382155109552128 >}}
+{{< tweet 779382981802594304 >}}
+{{< tweet 779394918544539648 >}}

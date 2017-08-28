@@ -1,0 +1,355 @@
++++
+title = "Speaking"
+date = "2017-06-08"
+Categories = []
++++
+
+<a href="/speaking/info/index.html">speaker info</a> ~ <a href="/contact/">contact</a>
+
+<br>
+<br>
+<h2>Upcoming</h2>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://allthingsopen.org/speakers/bridget-kromhout/">All Things Open</a><br>Raleigh, NC<br><span class="date-display-start">2017-10-23</span></div>
+<br>
+
+
+<br>
+
+<h2>Past</h2>
+
+<h3>2017</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/uptime">Uptime Conf - I Volunteer as Tribute - the Future of Oncall</a><br>Pittsburgh, PA<br><span class="date-display-start">2017-08-24</span> to <span class="date-display-end">2017-08-25</span></span></div>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/velocity-sj">Velocity San Jose - Pioneers, Settlers, and Town Planners of Catan (Ignite)</a><br>San Jose, CA<br><span class="date-display-start">2017-06-20</span></div>
+<br>
+
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/cloudfoundry-summit/">Cloud Foundry Summit - Ops in the time of serverless containerized webscale</a><br>Santa Clara, CA<br><span class="date-display-start">2017-06-14</span></div>
+<br>
+
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/open-source-north/">Open Source North - Computers are easy; people are hard</a><br>Minneapolis, MN<br><span class="date-display-start">2017-06-08</span></div>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/devopsdays-toronto">devopsdays Toronto - Computers are easy; people are hard (keynote)</a><br>Toronto, Canada<br><span class="date-display-start">2017-05-25</span> to <span class="date-display-end">2017-05-26</span></span></div>
+<br>
+
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/monitorama">Monitorama - I Volunteer as Tribute: The Future of Oncall</a><br>Portland, Oregon<br><span class="date-display-start">2017-05-22</span> to <span class="date-display-end">2017-05-24</span></span></div>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-fie
+ld-details"><a href="https://gotochgo.com/2017/tracks/43">Arrested DevOps Live at GOTO Chicago</a><br>Chicago, Illinois<br><span class="date-display-start">2017-05-01</span> to <span class="date-display-end">2017-05-02</span></span></div>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/agile-technical/">Agile Technical Conference - Ops in the time of serverless containerized webscale</a><br>Boston, Massachusetts<br><span class="date-display-start">2017-04-19</span> to <span class="date-display-end">2017-04-21</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/oreillysacon">O'Reilly Software Architecture - Computers are easy; people are hard (keynote)</a><br>New York, New York<br><span class="date-display-start">2017-04-04</span> to <span class="date-display-end">2017-04-05</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/srecon">SREcon - Keep Calm and Carry On: Scaling Your Org with Microservices</a><br>San Francisco, California<br><span class="date-display-start">2017-03-13</span> to <span class="date-display-end">2017-03-14</span></span></div>
+<br>
+<br>
+<h3>2016</h3>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devopsdays-sydney/">devopsdays Sydney - Keynote - Containers will not fix your broken culture (and other hard truths)</a><br>Sydney, Australia<br><span class="date-display-start">2016-12-01</span> to <span class="date-display-end">2016-12-02</span></span></div>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/agileday-chicago/">Agile Day Chicago - Distributed - of Systems and Teams</a><br>Chicago, Illinois<br><span class="date-display-start">2016-11-04</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devopsdays-madison/">devopsdays Madison - Opening Remarks</a><br>Madison, Wisconsin<br><span class="date-display-start">2016-11-02</span> to <span class="date-display-end">2016-11-03</span></span></div>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devopsdays-philly/">devopsdays Philadelphia - Keynote - Cloudy with a chance of devops</a><br>Philadelphia, Pennsylvania<br><span class="date-display-start">2016-10-26</span> to <span class="date-display-end">2016-10-27</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devopsdays-cuba">devopsdays Cuba - Keynote & workshop</a><br>Havana, Cuba<br><span class="date-display-start">2016-10-18</span> to <span class="date-display-end">2016-10-21</span></span></div>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devopsdays-detroit/">devopsdays Detroit - Keynote - Containers will not fix your broken culture (and other hard truths)</a><br>Detroit, Michigan<br><span class="date-display-start">2016-10-12</span> to <span class="date-display-end">2016-10-13</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/goto-copenhagen/">GOTO Copenhagen - Distributed - of Systems and Teams</a><br>Copenhagen, Denmark<br><span class="date-display-start">2016-10-03</span> to <span class="date-display-end">2016-10-04</span></span></div>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devops-roadtrip/">DevOps Roadtrip - Minneapolis</a><br>Minneapolis, Minnesota<br><span class="date-display-start">2016-09-27</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devopsdays-newyork/">devopsdays New York - Pioneers, Settlers, and Town Planners of Catan (Ignite)</a><br>New York, New York<br><span class="date-display-start">2016-09-23</span> to <span class="date-display-end">2016-09-24</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/velocity-newyork/">Velocity NY - Ops in the time of serverless containerized webscale (panel)</a><br>New York, New York<br><span class="date-display-start">2016-09-20</span> to <span class="date-display-end">2016-09-22</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://containersummit.io/city-series/2016/minneapolis/videos/the-evolving-container-ecosystem">Container Summit City Series - Minneapolis - The Evolving Container Ecosystem</a><br>Minneapolis, Minnesota<br><span class="date-display-start">2016-08-18</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/springone-platform/">SpringOne Platform - Keynote - Containers will not fix your broken culture (and other hard truths)</a><br>Las Vegas, Nevada<br><span class="date-display-start">2016-08-02</span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/springone-platform-ignite/">SpringOne Platform - Ignite - Pioneers, Settlers, and Town Planners of Catan</a><br>Las Vegas, Nevada<br><span class="date-display-end">2016-08-01</span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/agile/">Agile Alliance - Containers will not fix your broken culture (and other hard truths)</a><br>Atlanta, Georgia<br><span class="date-display-start">2016-07-25</span> to <span class="date-display-end">2016-07-29</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/velocity-santaclara">Velocity Santa Clara - Containers will not fix your broken culture (and other hard truths) - Keynote</a><br>Santa Clara, California<br><span class="date-display-start">2016-06-21</span> to <span class="date-display-end">2016-06-23</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devops-umn/">DevOps@UMN - Cloudy with a chance of devops</a> <br>
+Minneapolis, MN<br>
+<span class="date-display-start">2016-06-15</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/containersched/">ContainerSched - Containers will not fix your broken culture (and other hard truths) - Keynote</a><br>London, England<br><span class="date-display-start">2016-06-08</span> to <span class="date-display-end">2016-06-09</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devopsdays-toronto/">devopsdays Toronto - Containers will not fix your broken culture (and other hard truths)</a><br>Toronto, Canada<br><span class="date-display-start">2016-05-26</span> to <span class="date-display-end">2016-05-27</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://cfsummit2016.sched.org/event/6Zko">Cloud Foundry Summit - Panel on Cloud Foundry in the Community</a><br>Santa Clara, California<br><span class="date-display-start">2016-05-23</span> to <span class="date-display-end">2016-05-25</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://advanceitmn.org/2016-new-directions-in-it-education-conference/">New Directions in IT Education - Industry Panel on DevOps</a><br>Minneapolis, MN<br>2016-05-19</span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/oscon/">OSCON - Managing Distributed Systems Using BOSH</a><br>Austin, Texas<br><span class="date-display-start">2016-05-16</span> to <span class="date-display-end">2016-05-19</span></span></div>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/craft/">Craft Conf - Containers will not fix your broken culture (and other hard truths)</a><br>Budapest, Hungary<br><span class="date-display-start">2016-04-26</span> to <span class="date-display-end">2016-04-29</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devopsdays-london/">devopsdays London - Cloudy with a Chance of DevOps (Opening Remarks)</a><br>London, England<br><span class="date-display-start">2016-04-19</span> to <span class="date-display-end">2016-04-20</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/agileindia/">Agile India 2016 - Containers will not fix your broken culture (and other hard truths)</a><br>Bangalore, India<br>2016-03-18</span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/scale/">Scale Conf - Containers will not fix your broken culture (and other hard truths)</a><br>Cape Town, South Africa<br><span class="date-display-start">2016-03-10</span> to <span class="date-display-end">2016-03-11</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/cf-meetup-sf/">SF Cloud Foundry meetup - Sometimes you feel like a docker; sometimes you don't</a><br>San Francisco, CA<br>2016-02-25</span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/codefreeze/">Code Freeze - The Promise of a Cloud Native Platform</a><br>Minneapolis, MN<br>2016-01-14</span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2016/devops-meetup-to/">Toronto DevOps & Cloud Foundry meetup - Sometimes you feel like a docker; sometimes you don't</a><br>Toronto, Ontario<br>2016-01-12</span></div>
+
+<br>
+<h3>2015</h3>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/devops-meetup-nyc/">NYC DevOps meetup - Sometimes you feel like a docker; sometimes you don't</a><br>New York, NY<br>2015-12-15</span></div>
+
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/devops-meetup-philly/">Philly DevOps meetup - Sometimes you feel like a docker; sometimes you don't</a><br>Philadelphia, PA<br>2015-12-14</span></div>
+
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/docker-cf-meetup-mn/">Minneapolis Docker & Cloud Foundry meetups - Sometimes you feel like a docker; sometimes you don't</a><br>Minneapolis, MN<br>2015-12-01</span></div>
+
+<br>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/structure/">Structure - The Promise of a Cloud Native Platform</a><br>San Francisco, California<br><span class=
+"date-display-start">2015-11-17</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/qconsf/">QCon SF - Beyond ad-hoc automation: to structured platforms</a><br>San Francisco, California<br><span class="date-display-start">2015-11-16</span> to <span class="date-display-end">2015-11-18</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/agiledaytc">Agile Day Twin Cities - Beyond ad-hoc automation: leveraging structured platforms</a><br>
+Minneapolis, MN<br>
+<span class="date-display-start">2015-11-13</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/sps">SPS DevOps Event (Distributed teams; Structured Platforms)</a><br>
+Minneapolis, MN<br>
+<span class="date-display-start">2015-11-11</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/ricon">RICON 2015 - Distributed: of systems and teams</a><br>
+San Francisco, CA<br>
+<span class="date-display-start">2015-11-04</span> to <span class="date-display-end">2015-11-06</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/velocity-europe/">Velocity Europe - Beyond ad-hoc automation: leveraging structured platforms</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2015-10-28</span> to <span class="date-display-end">2015-10-30</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/velocity-newyork/">Velocity New York - Scaling Next-Generation Internet TV on AWS with Docker, Packer, and Chef</a><br>New York, New York<br><span class="date-display-start">2015-10-12</span> to <span class="date-display-end">2015-10-14</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/velocity-newyork-ignite/">Velocity New York - Life After Ops</a><br>New York, New York<br><span class="date-display-start">2015-10-12</span> to <span class="date-display-end">2015-10-14</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/operability">Operability.io - Distributed: of systems and teams</a><br>
+London, England<br>
+<span class="date-display-start">2015-09-24</span> to <span class="date-display-end">2015-09-25</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/vmworld">VMworld - Cloud native runtime platform</a><br>
+Las Vegas, Nevada<br>
+<span class="date-display-start">2015-08-31</span></span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/geekettes/">Adventure, Excitement: A Jedi Craves Not These Things</a><br>Minneapolis, MN<br><span class="date-display-start">2015-08-12</span></span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/oscon/">OSCON - Docker in Production: Reality, Not Hype</a><br>Portland, Oregon<br><span class="date-display-start">2015-07-20</span> to <span class="date-display-end">2015-07-24</span></span></div>
+<br>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/velocity-santaclara/">Velocity Santa Clara - From Kirk/Spock to AWS/ELB</a><br>
+Santa Clara, California<br>
+<span class="date-display-start">2015-05-27</span> to <span class="date-display-end">2015-05-29</span></span></div>
+<br>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.meetup.com/Docker-Minneapolis/events/222113907/">Minneapolis Docker Meetup - Lights, Camera, Docker: Streaming Video at DramaFever</a><br>
+Minneapolis, Minnesota<br>
+<span class="date-display-start">2015-05-18</span></span></span></div>
+<br>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/devopsdays-newyork">devopsdays New York 2015 - Long Distance DevOps</a><br>
+New York, New York<br>
+<span class="date-display-start">2015-04-30</span> to <span class="date-display-end">2015-05-01</span></span></div>
+<br>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/containercamp">Container Camp - Lights, Camera, Docker: Streaming Video at DramaFever</a><br>
+San Francisco, California<br>
+<span class="date-display-start">2015-04-17</span></span></span></div>
+<br>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/chefconf">Chef Conf - Cooking Up Drama</a><br>
+Santa Clara, California<br>
+<span class="date-display-start">2015-03-31</span> to <span class="date-display-end">2015-04-02</span></span></div>
+<br>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/devops-meetup-chi">DevOps Meetup, Chicago - Docker in Production: Reality, Not Hype</a><br>
+Chicago, Illinois<br>
+<span class="date-display-start">2015-03-09</span></span></div>
+<br>
+<br>
+
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2015/devops-meetup-mn">DevOps Meetup, MN - Double Your Docker, Double Your Fun</a><br>
+Minneapolis, Minnesota<br>
+<span class="date-display-start">2015-01-26</span>
+<br>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-conten
+t views-field-field-details"><a href="/speaking/2015/advancedaws-meetup-sf">Advanced AWS Meetup, SF - Docker in Production: Reality, Not Hype</a><br>
+San Francisco, California<br>
+<span class="date-display-start">2015-01-20</span>
+<br>
+<p>
+<h3>2014</h3>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-conten
+t views-field-field-details"><a href="/speaking/2014/devopsdays-belgium">DevOpsDays Belgium 2014 - Ceci n'est pas #devops</a><br>
+Ghent, Belgium<br>
+<span class="date-display-start">2014-10-27</span> to <span class="date-display-end">2014-10-28</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-conten
+t views-field-field-details"> <a href="/speaking/2014/clouddevelop/">CloudDevelop 2014 - Here There Be Turtles: Platform Ops in Public Cloud</a><br>
+Columbus, OH<br>
+<span class="date-display-start">2014-10-17</span></div>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-conten
+t views-field-field-details"> <a href="/speaking/2014/asu-scifitvdinner">Science Fiction TV Dinner - Buffy the Vampire Slayer</a><br>
+Phoenix, Arizona<br>
+2014-10-08</span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-conten
+t views-field-field-details"><a href="/speaking/2014/devopsdays-chicago/">DevOpsDays Chicago 2014 - How Much Is That DevOps In The Window? - Keynote</a><br>
+Chicago, IL<br>
+<span class="date-display-start">2014-10-07</span> to <span class="date-display-end">2014-10-08</span></span></div>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-conten
+t views-field-field-details"> <a href="/speaking/2014/beyondthecode/">Beyond the Code 2014 - Turtles All the Way Down: Platform Ops in Public Cloud</a><br>
+Ottawa, Canada<br>
+2014-09-19</span></div>
+
+<br>
+ <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2014/velocity-newyork/">Velocity New York 2014 - A Woman's Place is at the Command Prompt</a><br />
+New York, NY<br />
+<span class="date-display-start">2014-09-15</span> to <span class="date-display-end">2014-09-17</span></span>  </div>  
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2014/devopsdays-siliconvalley/">DevOpsDays Silicon Valley 2014 - How I Learned to Stop Worrying and Love DevOps</a><br>
+Silicon Valley, CA<br>
+<span class="date-display-start">2014-06-27</span> to <span class="date-display-end">2014-06-28</span></span>  </div>  
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2014/devopsdays-pittsburgh/">DevOpsDays Pittsburgh 2014 - I Am DevOps (And So Can You)</a><br>
+Pittsburgh, PA<br>
+<span class="date-display-start">2014-05-29</span> to <span class="date-display-end">2014-05-30</span></span>  </div>  
+<br>
+
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2014/monitorama-portland/">Monitorama Portland 2014 - From Zero To Visibility</a></a><br />
+Portland, OR<br />
+<span class="date-display-start">2014-05-05</span> to <span class="date-display-end">2014-05-07</span></span>  </div>  
+
+<br>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2014/minnebar-monitoring/">Minnebar 9 - Monitoring at a SaaS Startup: Tradeoffs and Tools</a><br />
+Minneapolis, MN<br />
+<span class="date-display-single">2014-04-12</span></span>  </div>
+<br>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2014/minnebar-devops/">Minnebar 9 - DevOpsDays Minneapolis</a><br />
+Minneapolis, MN<br />
+<span class="date-display-single">2014-04-12</span></span>  </div>
+
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2014/mountainwest-devops/">MountainWest DevOps 2014 - How I Learned to Stop Worrying and Love DevOps</a><br />
+Salt Lake City, UT<br />
+<span class="date-display-single">2014-03-19</span></span>  </div> 
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2014/devops-meetup-minneapolis/">DevOps Minneapolis - How I Learned to Stop Worrying and Love DevOps</a><br />
+Minneapolis, MN<br />
+<span class="date-display-single">2014-03-12</span></span>  </div>
+<p>
+
+<h3>2013</h3>
+
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2013/devopsdays-newyork/">DevOpsDays New York 2013 - How I Learned to Stop Worrying and Love DevOps</a><br />
+New York City, NY<br />
+<span class="date-display-start">2013-10-17</span> to <span class="date-display-end">2013-10-18</span></span>  </div> 
+ <p> 
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2013/minnebar/">MinneBar 8 - Production MongoDB in the Cloud: From Essentials to Corner Cases</a><br />
+Minneapolis, MN<br />
+<span class="date-display-single">2013-04-06</span></span>  </div>  

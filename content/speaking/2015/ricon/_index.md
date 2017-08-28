@@ -1,0 +1,38 @@
+---
+layout: page
+title: Distributed - of systems and teams
+footer: false
+---
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://ricon.io/speakers/">RICON 2015</a><br>
+San Francisco, CA<br>
+<span class="date-display-start">2015-11-04</span> to <span class="date-display-end">2015-11-06</span></span></div>
+
+<br>
+We endeavor to build consistency, availability, and fault tolerance into our distributed systems, but how do we build them into our teams? The human factors in devops require as much attention as do our technical implementations.
+<br>
+<br>
+Collaboration, understanding, trust: we know how important these interactions are in a devops practice, but how do we enable them between disparate team members, especially in a distributed team? My company's in California, and I'm nearly two thousand miles away in flyover country, USA. Being one of those little squares at the bottom of every video call gives me an outsider's perspective on the inside of our organizational optimization.
+<br>
+<br>
+Drawing in comparisons from theoretical computer science and practical systems implementation, I'll explore how building understanding requires a practical application of great tools in a deliberate pursuit of a constructive culture.
+
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FMAYyASgMEE?list=PL9Jh2HsAWHxIc7Tt2M6xez_TOP21GBH6M" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/j4piXUlFdZGarX" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/distributed-of-systems-and-teams-ricon-2015-version" title="Distributed: of systems and teams (RICON 2015 version)" target="_blank">Distributed: of systems and teams (RICON 2015 version)</a> </strong> from <strong><a href="//www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
+
+<br>
+<br>
+{{< tweet 662691584236908544 >}}
+{{< tweet 662692428000792576 >}}
+{{< tweet 662695139597398016 >}}
+{{< tweet 662697561631780864 >}}
+{{< tweet 662699130892906496 >}}
+{{< tweet 662701402343514112 >}}
+{{< tweet 662721238989602816 >}}
+{{< tweet 662697825684197376 >}}
+{{< tweet 662697589834289152 >}}
+{{< tweet 662731093821407232 >}}

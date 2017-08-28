@@ -1,0 +1,146 @@
++++
+title = "Podcasts"
+date = "2017-06-08"
+Categories = []
++++
+
+<h2>Regular appearances</h2>
+
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.arresteddevops.com/">Arrested DevOps</a><br />
+
+I co-host Arrested DevOps (since November 2014) with Matt Stratton and Trevor Hess.
+
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.youtube.com/channel/UCEApeJd_cm1IJiQofKl-z9w/feed">Cloud Native After Dark</a><br />
+
+I appear on Cloud Native After Dark from time to time, along with Andrew Clay Shafer, James Watters, and more.
+
+<p>
+
+<h2>Guest appearances</h2>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.codemonkey.fm/12">A Floor Wax and A Dessert Topping</a><br />
+<span class="date-display-single">2017-04-27</span></span>  </div>
+
+Discussing devops with the Code Monkey Talks team (Brian Demers & Brian Jackson).
+<p>
+
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.cote.show/19">The Coté Show - Computers are easy; humans are hard</a><br />
+<span class="date-display-single">2017-01-27</span></span>  </div>
+
+Chatting with Michael Coté during our Pivotal team onsite meeting.
+<p>
+
+
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://packetpushers.net/podcast/podcasts/datanauts-054-containers-wont-fix-broken-culture/">Datanauts 054: Containers Won’t Fix Your Broken Culture</a><br />
+<span class="date-display-single">2016-10-05</span></span>  </div>
+
+This Datanauts episode is about the intersection of technology and people.
+<p>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://softwaredefinedtalk.wordpress.com/2016/10/01/074/">Pencils and Pens with Bridget Kromhout</a><br />
+<span class="date-display-single">2016-10-03</span></span>  </div>
+
+Chatting with Coté on Software Defined Talk about travel and tech advocacy.
+<p>
+<br>
+<br>
+
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://channel9.msdn.com/Blogs/Technology-and-Friends/tf440">Technology and Friends - MSDN</a><br />
+<span class="date-display-single">2016-07-14</span></span>  </div>
+
+Chatting with David Giard about Cloud Foundry on Azure.
+<p>
+<br>
+
+Cloudbees: Devops Radio
+<br>
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4396960/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/006096/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://thenewstack.io/tns-makers-ricon-2015-challenges-microservices-scale/">TNS Makers From Ricon 2015: The Challenges of Microservices at Scale</a><br />
+<span class="date-display-single">2015-11-06</span></span>  </div>
+
+Chatting with Alex Williams at RICON about distributed systems and teams.
+<p>
+
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.youtube.com/watch?v=2ZqOqBuB9vA&list=PL055Epbe6d5b-WKPFmBTrx-_f3fN9f0eY&index=15">O'Reilly Media - Containers, Platforms, Teams</a><br />
+<span class="date-display-single">2015-10-13</span></span>  </div>
+
+Chatting with Mac Slocum of O'Reilly Media at Velocity NY about teams large and small, containers, platforms, and getting new ideas.
+<p>
+
+ <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.thecloudcast.net/2015/10/the-cloudcast-217-platforms-build-buy.html">The Cloudcast #217 - Platforms - Build, Buy, or Rent</a><br />
+<span class="date-display-single">2015-10-11</span></span>  </div>
+
+Chatting with Aaron Delp and Brian Gracely of the Cloudcast about DevOps in practice, running Docker in production, building (or not) your own platform, AWS tools, and where Docker fits with Cloud Native applications.
+
+<p>
+
+ <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://blog.pivotal.io/pivotal-conversations/features/operations-has-plenty-to-do-in-a-cloud-native-enterprise">Pivotal Conversations - Operations Has Plenty To Do In A Cloud Native Enterprise</a><br />
+<span class="date-display-single">2015-09-23</span></span>  </div>
+
+Chatting with Michael Coté for Pivotal Conversations about opportunities operations people have in a Cloud Native world, moving to and from management, organization change management, being "promoted" to management, and, of course, USENET.
+
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://thenewstack.io/tns-analysts-show-50-docker-for-today-and-tomorrow-from-dockercon/">The New Stack - Docker in Production</a><br />
+<span class="date-display-single">2015-06-23</span></span>  </div>
+
+Chatting about Docker in production at DramaFever with Alex Williams, Scott Fulton, and Tim Gross.
+
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.youtube.com/watch?v=g12-fq1Szhc">hangops - AWS autoscaling</a></a><br />
+<span class="date-display-single">2015-02-06</span></span>  </div>
+
+Chatting about AWS autoscaling at DramaFever with Brandon Burton, Christopher Webber, Tim Gross, and more.
+<br>
+
+
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.hangops.com/sessions/2014/10/29/2014-10-31-devops-days-ghent-recap-with-phrawzty">hangops - DevOpsDays Ghent recap</a></a><br />
+<span class="date-display-single">2014-10-31</span></span>  </div>
+
+Chatting about DevOpsDays Belgium with Brandon Burton, Christopher Webber, Daniel Maher, Nathen Harvey, and more.
+<br>
+
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.arresteddevops.com/devops-conferences/">Arrested DevOps episode 21 - Conference Love</a><br />
+<span class="date-display-single">2014-09-23</span></span>  </div>
+
+Chatting with Matt Stratton, Trevor Hess, Pete Cheslock, and Jason Dixon about tech conferences.
+<br>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://theshipshow.com/2014/08/making-monitoring-work-for-you/">The Ship Show episode 47 - Making Monitoring Work for You</a><br>
+<span class="date-display-single">recorded 2014-08-25, aired 2014-08-31</span></span></div>
+
+Chatting with J. Paul Reed, Sascha Bates, Youssuf El-Kalay, and Pete Cheslock about monitoring.
+<br>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://theshipshow.com/2014/07/devops-on-the-silicon-prairie/">The Ship Show episode 45 - DevOps on the Silicon Prairie</a><br>
+<span class="date-display-single">recorded 2014-07-18, aired 2014-07-22</span></span></div>
+
+Chatting with J. Paul Reed, Patrick Debois, Katherine Daniels, Heather Mickman, and Ross Clanton at DevOpsDays Minneapolis.
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.arresteddevops.com/devopsdays-minneapolis/">Arrested DevOps episode 16 - DevOpsDays Minneapolis</a><br />
+<span class="date-display-single">2014-07-18</span></span>  </div>
+
+Chatting with Matt Stratton, Katherine Daniels, JP Morgenthal, and Patrick Debois at DevOpsDays Minneapolis.
+
+<p>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.hangops.com/sessions/2014/6/16/hangops-2014-06-13-days-of-devops-past">hangops - days of devops past</a><br />
+<span class="date-display-single">2014-06-13</span></span>  </div> 
+<p>
+
+Talking about DevOpsDays Pittsburgh with Brandon Burton, Kevin Behr, Seth Vargo, Jake Champlin, Christopher Webber, and more.
+
+<br>
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://foodfightshow.org/2014/06/devops-days-pittsburgh.html">Food Fight - DevOps Days Pittsburgh</a><br />
+<span class="date-display-single">recorded 2014-05-30, aired 2014-06-03</span></span>  </div>
+
+Wrapping up DevOpsDays Pittsburgh with Nathen Harvey, Jake Champlin, Jennifer Davis, Andrew Clay Shafer, Julian Dunn, John Vincent, Pete Cheslock, Nivia Henry, and more.
