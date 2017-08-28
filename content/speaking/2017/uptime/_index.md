@@ -15,7 +15,7 @@ From tightly-guarded fiefdoms to “of course all the devs are on call” to car
 <br>
 Slides
 <br>
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FRFDLrdss65Puo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/i-volunteer-as-tribute-the-future-of-oncall-uptime" title="I volunteer as tribute: the future of oncall (Uptime)" target="_blank">I volunteer as tribute: the future of oncall (Uptime)</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
 
 <br>
 
