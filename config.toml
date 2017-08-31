@@ -1,4 +1,4 @@
-baseURL = "http://bridgetkromhout.com/"
+baseURL = "https://bridgetkromhout.com/"
 languageCode = "en-us"
 title = "Bridget Kromhout"
 theme = "gohugo-theme-ananke"
