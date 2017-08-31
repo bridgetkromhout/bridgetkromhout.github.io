@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Here There Be Turtles - Platform Ops in Public Cloud - Notes on Bridget Kromhout</title>
-    <link>http://bridgetkromhout.com/speaking/2014/clouddevelop/notes/</link>
+    <link>https://bridgetkromhout.com/speaking/2014/clouddevelop/notes/</link>
     <description>Recent content in Here There Be Turtles - Platform Ops in Public Cloud - Notes on Bridget Kromhout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://bridgetkromhout.com/speaking/2014/clouddevelop/notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bridgetkromhout.com/speaking/2014/clouddevelop/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

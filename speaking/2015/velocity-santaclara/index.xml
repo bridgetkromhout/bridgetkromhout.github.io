@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>From Kirk/Spock to AWS/ELB (Ignite) on Bridget Kromhout</title>
-    <link>http://bridgetkromhout.com/speaking/2015/velocity-santaclara/</link>
+    <link>https://bridgetkromhout.com/speaking/2015/velocity-santaclara/</link>
     <description>Recent content in From Kirk/Spock to AWS/ELB (Ignite) on Bridget Kromhout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://bridgetkromhout.com/speaking/2015/velocity-santaclara/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bridgetkromhout.com/speaking/2015/velocity-santaclara/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
