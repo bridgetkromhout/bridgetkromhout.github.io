@@ -18,6 +18,9 @@ Categories = []
 <br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2017-philadelphia/program/bridget-kromhout/">devopsdays Philadelphia - Choose Your Own Adventure</a><br>Philadelphia, PA<br><span class="date-display-start">2017-10-24</span> to <span class="date-display-end">2017-10-25</span></span></div>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.meetup.com/Minneapolis-Azure-Cloud-Computing-Meetup/events/236260000/">Welcome to MSFT</a><br>Minneapolis, MN<br><span class="date-display-start">2017-11-02</span></span></div>
 
 <br>
 
