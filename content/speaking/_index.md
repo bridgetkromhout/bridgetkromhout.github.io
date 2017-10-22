@@ -11,9 +11,6 @@ Categories = []
 <h2>Upcoming</h2>
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://twincitiesstartupweek2017.sched.com/event/C5y3/technical-architecture-building-and-scaling">Twin Cities Startup Week - Technical Architecture: Building and Scaling (panel)</a><br>Minneapolis, MN<br><span class="date-display-start">2017-10-12</span></div>
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://allthingsopen.org/talk/computers-are-easy-people-are-hard/">All Things Open - Computers are easy; people are hard</a><br>Raleigh, NC<br><span class="date-display-start">2017-10-23</span></div>
 <br>
 
@@ -27,6 +24,10 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2017</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/twincitiesstartupweek">Twin Cities Startup Week - Technical Architecture: Building and Scaling (panel)</a><br>Minneapolis, MN<br><span class="date-display-start">2017-10-12</span></div>
+<br>
+
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/uptime">Uptime Conf - I Volunteer as Tribute - the Future of Oncall</a><br>Pittsburgh, PA<br><span class="date-display-start">2017-08-24</span> to <span class="date-display-end">2017-08-25</span></span></div>
 <br>
