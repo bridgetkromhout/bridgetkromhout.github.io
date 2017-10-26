@@ -18,3 +18,21 @@ Which cloud do we want: public, private, hybrid? How are we going to orchestrate
 <br>
 <br>
 
+Slides
+<br>
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cxOeUO5rAoamoM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/cyoaphilly" title="Choose Your Own Adventure (devopsdays Philly 2017)" target="_blank">Choose Your Own Adventure (devopsdays Philly 2017)</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
+
+
+<br>
+<br>
+
+Tweets
+<br>
+{{< tweet 923232935045685248 >}}
+{{< tweet 923242099826397184 >}}
+{{< tweet 923241073656418304 >}}
+{{< tweet 923241273879941124 >}}
+{{< tweet 923242019442569218 >}}
+{{< tweet 923243303268732928 >}}
+{{< tweet 923243692877545474 >}}
