@@ -10,14 +10,20 @@ Categories = []
 <br>
 <h2>Upcoming</h2>
 <br>
+Stay tuned!
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.meetup.com/Minneapolis-Azure-Cloud-Computing-Meetup/events/236260000/">Welcome to MSFT</a><br>Minneapolis, MN<br><span class="date-display-start">2017-11-02</span></span></div>
-
-<br>
 
 <h2>Past</h2>
 
 <h3>2017</h3>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/mvp-chicago/">Computers are easy; people are hard</a><br>Chicago, IL<br><span class="date-display-start">2017-11-03</span></span></div
+
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/azure-mn/">Welcome to MSFT</a><br>Minneapolis, MN<br><span class="date-display-start">2017-11-02</span></span></div>
+
 
 <br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/devopsdays-philly">devopsdays Philadelphia - Choose Your Own Adventure</a><br>Philadelphia, PA<br><span class="date-display-start">2017-10-24</span> to <span class="date-display-end">2017-10-25</span></span></div>

@@ -4,7 +4,7 @@ date = "2017-06-08"
 Categories = []
 +++
 
-<h2>Regular appearances</h2>
+<h2>Host</h2>
 
 <p>
   <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.arresteddevops.com/">Arrested DevOps</a><br />
@@ -12,10 +12,6 @@ Categories = []
 I co-host Arrested DevOps (since November 2014) with Matt Stratton and Trevor Hess.
 
 <p>
-  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.youtube.com/channel/UCEApeJd_cm1IJiQofKl-z9w/feed">Cloud Native After Dark</a><br />
-
-I appear on Cloud Native After Dark from time to time, along with Andrew Clay Shafer, James Watters, and more.
-
 <p>
 
 <h2>Guest appearances</h2>
@@ -26,6 +22,11 @@ I appear on Cloud Native After Dark from time to time, along with Andrew Clay Sh
 Discussing devops with the Code Monkey Talks team (Brian Demers & Brian Jackson).
 <p>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://thewomenintechshow.com/2017/04/24/devops-with-bridget-kromhout/">DevOps with Bridget Kromhout</a><br />
+<span class="date-display-single">2017-04-24</span></span>  </div>
+
+Discussing devops with Edaena Salinas on the Women in Tech Show.
+<p>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.cote.show/19">The Coté Show - Computers are easy; humans are hard</a><br />
 <span class="date-display-single">2017-01-27</span></span>  </div>
@@ -33,7 +34,11 @@ Discussing devops with the Code Monkey Talks team (Brian Demers & Brian Jackson)
 Chatting with Michael Coté during our Pivotal team onsite meeting.
 <p>
 
+  <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.youtube.com/channel/UCEApeJd_cm1IJiQofKl-z9w/feed">Cloud Native After Dark</a><br />
 
+I used to appear on Cloud Native After Dark from time to time, along with Andrew Clay Shafer, James Watters, and more.
+
+<p>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://packetpushers.net/podcast/podcasts/datanauts-054-containers-wont-fix-broken-culture/">Datanauts 054: Containers Won’t Fix Your Broken Culture</a><br />
 <span class="date-display-single">2016-10-05</span></span>  </div>
