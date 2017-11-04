@@ -229,6 +229,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2017/mvp-chicago/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2017/open-source-north/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -650,6 +656,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2014/velocity-newyork/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2017/azure-mn/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
