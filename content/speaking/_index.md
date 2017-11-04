@@ -18,7 +18,7 @@ Stay tuned!
 <h3>2017</h3>
 
 <br>
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/mvp-chicago/">Computers are easy; people are hard</a><br>Chicago, IL<br><span class="date-display-start">2017-11-03</span></span></div
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2017/mvp-chicago/">Computers are easy; people are hard</a><br>Chicago, IL<br><span class="date-display-start">2017-11-03</span></span></div>
 
 
 <br>
