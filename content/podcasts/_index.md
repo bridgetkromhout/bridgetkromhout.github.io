@@ -130,12 +130,12 @@ Chatting with J. Paul Reed, Sascha Bates, Youssuf El-Kalay, and Pete Cheslock ab
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://theshipshow.com/2014/07/devops-on-the-silicon-prairie/">The Ship Show episode 45 - DevOps on the Silicon Prairie</a><br>
 <span class="date-display-single">recorded 2014-07-18, aired 2014-07-22</span></span></div>
 
-Chatting with J. Paul Reed, Patrick Debois, Katherine Daniels, Heather Mickman, and Ross Clanton at DevOpsDays Minneapolis.
+Chatting with J. Paul Reed, Patrick Debois, Ryn Daniels, Heather Mickman, and Ross Clanton at DevOpsDays Minneapolis.
 <p>
   <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.arresteddevops.com/devopsdays-minneapolis/">Arrested DevOps episode 16 - DevOpsDays Minneapolis</a><br />
 <span class="date-display-single">2014-07-18</span></span>  </div>
 
-Chatting with Matt Stratton, Katherine Daniels, JP Morgenthal, and Patrick Debois at DevOpsDays Minneapolis.
+Chatting with Matt Stratton, Ryn Daniels, JP Morgenthal, and Patrick Debois at DevOpsDays Minneapolis.
 
 <p>
   <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.hangops.com/sessions/2014/6/16/hangops-2014-06-13-days-of-devops-past">hangops - days of devops past</a><br />
