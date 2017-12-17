@@ -10,7 +10,10 @@ Categories = []
 <br>
 <h2>Upcoming</h2>
 <br>
-Stay tuned!
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/devopsdays-nyc/">devopsdays New York City - Cloud, Containers, Kubernetes</a><br>New York City, NY<br><span class="date-display-start">2018-01-18</span> to <span class="date-display-end">2018-01-19</span></span></div>
+
+
 
 
 <h2>Past</h2>
