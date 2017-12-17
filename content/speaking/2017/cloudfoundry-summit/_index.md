@@ -29,6 +29,11 @@ Slides
 <br>
 
 <br>
+Video
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TeHnzaBCN_o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>
+<br>
 
 
 Tweets

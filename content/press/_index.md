@@ -1,10 +1,12 @@
 +++
-title = "Reviews"
+title = "Press"
 date = "2017-06-08"
+aliases = "reviews"
 Categories = []
 +++
 
 <p>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://siliconangle.com/blog/2017/12/11/digital-innovation-era-technologist-focuses-empathy-tech-topwomenincloud/">siliconANGLE - In digital innovation era, this technologist focuses on empathy in tech</a><br />
 
 
 <p>

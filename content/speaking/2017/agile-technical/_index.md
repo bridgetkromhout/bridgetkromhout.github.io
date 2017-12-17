@@ -31,6 +31,8 @@ Slides
 
 <br>
 
+<a href="https://www.agilealliance.org/resources/videos/ops-in-the-time-of-serverless-containerized-webscale-bridget-kromhout/">Video</a> - (reg-wall)
+
 
 Tweets
 <br>

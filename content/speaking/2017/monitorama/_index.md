@@ -26,6 +26,11 @@ Slides
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hfRacPFZ44cYIS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/i-volunteer-as-tribute-the-future-of-oncall-monitorama-2017" title="I volunteer as tribute: the future of oncall (Monitorama 2017)" target="_blank">I volunteer as tribute: the future of oncall (Monitorama 2017)</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/bridgetkromhout">bridgetkromhout</a></strong> </div>
 
 <br>
+Video
+<br>
+<iframe src="https://player.vimeo.com/video/221053441?portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/221053441">Monitorama PDX 2017 - Bridget Kromhout</a> from <a href="https://vimeo.com/monitorama">Monitorama</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
 
 <br>
 <br>
