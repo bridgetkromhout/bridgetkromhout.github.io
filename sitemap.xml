@@ -138,6 +138,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2015/geekettes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -188,6 +194,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2015/vmworld/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/devopsdays-nyc/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
