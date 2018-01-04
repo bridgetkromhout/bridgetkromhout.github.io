@@ -51,7 +51,7 @@ I’m lucky to have super-smart and generous friends in tech. My first talk of 2
 
 Every time I’m putting together a conference lineup, I’m spoiled for choice because I know so many great presenters. If you’re trying to become a better public speaker, watch other people’s talks! You’ll figure out what ideas you can remix, and you’ll get a better sense of how audiences react (while not under the microscope yourself). 
 
-If you check out my tracks from [GOTO Chicago 2017](https://gotochgo.com/2017/tracks/10), [Velocity San Jose 2017](https://conferences.oreilly.com/velocity/vl-ca-2017/public/schedule/topic/2297), and [devopsdays Minneapolis 2017](https://www.devopsdays.org/events/2017-minneapolis/program/), you’ll see many of my favorite speakers giving awesome talks. Start with [Nicole Forsgren](https://twitter.com/nicolefv) and [Tim Gross](https://twitter.com/0x74696d)!
+If you check out my tracks from [GOTO Chicago 2017](https://gotochgo.com/2017/tracks/10), [Velocity San Jose 2017](https://conferences.oreilly.com/velocity/vl-ca-2017/public/schedule/topic/2297), [devopsdays Minneapolis 2017](https://www.devopsdays.org/events/2017-minneapolis/program/), and [Velocity New York 2017](https://conferences.oreilly.com/velocity/vl-ny/public/schedule/topic/2487), you’ll see many of my favorite speakers giving awesome talks. Start with [Nicole Forsgren](https://twitter.com/nicolefv) and [Tim Gross](https://twitter.com/0x74696d)!
 
 
 <br>
