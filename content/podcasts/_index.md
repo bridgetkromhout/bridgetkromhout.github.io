@@ -16,6 +16,20 @@ I co-host Arrested DevOps (since November 2014) with Matt Stratton and Trevor He
 
 <h2>Guest appearances</h2>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://learntocodewith.me/podcast/tech-advocacy-community-and-conferences-with-bridget-kromhout/">Tech Advocacy, Community, and Conferences on Learn to Code with Me</a><br />
+<span class="date-display-single">2018-01-02</span></span>  </div>
+
+Discussing working as a tech advocate for Microsoft with Laurence Bradford.
+<p>
+
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.venturi-group.com/podcast/devops-approach-business/">Why you should consider applying a DevOps approach to your business – Bridget Kromhout & Tim Gross on Venturi's Voice</a><br />
+<span class="date-display-single">2017-12-12</span></span>  </div>
+
+Discussing devops transformation with Tim Gross and Andy Davis.
+
+<p>
+
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://www.codemonkey.fm/12">A Floor Wax and A Dessert Topping</a><br />
 <span class="date-display-single">2017-04-27</span></span>  </div>
 
