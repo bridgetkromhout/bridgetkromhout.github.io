@@ -11,7 +11,8 @@ Categories = []
 <h2>Upcoming</h2>
 <br>
 
-Shhh, it's a seekrit! (Updates coming soon.)
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/indexconf/">IndexConf - Kubernetes 101</a><br>San Francisco, CA<br><span class="date-display-start">2018-02-20</span> to <span class="date-display-end">2018-02-22</span></span></div>
+
 <br>
 
 
