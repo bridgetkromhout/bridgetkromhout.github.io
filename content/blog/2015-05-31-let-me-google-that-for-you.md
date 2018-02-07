@@ -11,7 +11,7 @@ Late-night after [Velocity Santa Clara](http://velocityconf.com/devops-web-perfo
 
 After midnight, the discussion takes a serious turn. One pretty awesome guy who's been waxing poetic ([tomorrow and tomorrow and tomorrow](http://en.wikipedia.org/wiki/Tomorrow_and_tomorrow_and_tomorrow)) in his [Werewolf](http://en.wikipedia.org/wiki/Mafia_%28party_game%29) defenses says, "I want to ask women in tech about being women in tech, because you're the ones who know the most about it."
 
-[Ryn Daniels](https://twitter.com/beerops) and I look at one another before simultaneously saying, "No."
+[Ryn Daniels](https://twitter.com/rynchantress) and I look at one another before simultaneously saying, "No."
 
 <!-- more -->
 We tell the half-a-dozen (or so) men we've just met about [Lara Hogan](https://twitter.com/lara_hogan)'s [Mean time to "women in tech"](https://the-pastry-box-project.net/lara-hogan/2015-may-18) post, and explain that _well actually_, we are just tired of talking about Being A Woman In Tech OMG. Ryn is a web operations engineer at [Etsy](https://codeascraft.com/) (a world-famous monitoring company that also is a marketplace for handmade goods) and is [co-authoring an O'Reilly book](http://shop.oreilly.com/product/0636920039846.do) with [Jennifer Davis](https://twitter.com/sigje)! I'm a [devopsdays](http://www.devopsdays.org/) global organizer and run [Docker in production](http://bridgetkromhout.com/speaking/2015/containercamp/) at [DramaFever](http://www.dramafever.com/)! We have lots of stuff we come to tech conferences to discuss, but if we aren't currently on [a panel about being women in ops](http://bridgetkromhout.com/speaking/2014/velocity-newyork/), then that's probably not what we want to discuss right now.

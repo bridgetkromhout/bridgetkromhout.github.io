@@ -126,5 +126,5 @@ As a speaker, I enjoy it a great deal when people tweet during my talks, and I e
 
 <hr>
 
-_Thanks to [Ryn Daniels](https://twitter.com/beerops) and [Tim Gross](https://twitter.com/0x74696d) for beta-reading. All errors and [#questionablelifechoices](https://twitter.com/bridgetkromhout/status/730835258418057216) are my own._
+_Thanks to [Ryn Daniels](https://twitter.com/rynchantress) and [Tim Gross](https://twitter.com/0x74696d) for beta-reading. All errors and [#questionablelifechoices](https://twitter.com/bridgetkromhout/status/730835258418057216) are my own._
 
