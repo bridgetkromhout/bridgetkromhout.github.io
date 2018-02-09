@@ -25,6 +25,12 @@ Slides
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/wObYezEM8du16P" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/cloud-containers-kubernetes-devopsdays-nyc-2018" title="cloud, containers, kubernetes (devopsdays nyc 2018)" target="_blank">cloud, containers, kubernetes (devopsdays nyc 2018)</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
 
+Video
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iHjLXMJR6ZY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 Tweets
 <br>
 {{< tweet 954012470078820352 >}}
