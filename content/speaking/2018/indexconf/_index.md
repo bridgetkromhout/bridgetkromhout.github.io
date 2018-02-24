@@ -27,3 +27,15 @@ Let's explore how to create and operate a Kubernetes cluster in order to answer 
 As our team grows, we're going to need to scale our k8s cluster, deploying and configuring our pizza delivery app. We'll deal with the consequences of state (you know, where your customers and money live) and carry out service discovery between our deliciously independent microservices. We'll level up on k8s (and pizza) together.
 <br>
 <br>
+
+Slides: <a href="http://indexconf2018.container.training/">Kubernetes 101</a>
+<br>
+Tweets:
+{{< tweet 966739376364376064 >}}
+{{< tweet 966744263500312576 >}}
+{{< tweet 966762974709870592 >}}
+{{< tweet 966779807815032832 >}}
+{{< tweet 966785378215538688 >}}
+{{< tweet 966789747854028800 >}}
+{{< tweet 966791561173336064 >}}
+{{< tweet 966793651387957248 >}}
