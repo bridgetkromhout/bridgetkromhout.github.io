@@ -21,7 +21,7 @@ Categories = []
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://gotochgo.com/2018/sessions/472">GOTO Chicago - Arrested DevOps Live</a><br>Chicago, IL<br><span class="date-display-start">2018-04-25</span></span></div>
 
 <br>
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://ndcminnesota.com/talk/cloud-containers-kubernetes/">NDC Minnesota - Cloud, Containers, Kubernetes</a><br>Saint Paul, MN<br><span class="date-display-start">2018-05-07</span> to <span class="date-display-end">2018-05-10</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://ndcminnesota.com/talk/cloud-containers-kubernetes/">NDC Minnesota - Cloud, Containers, Kubernetes & Kubernetes 101</a><br>Saint Paul, MN<br><span class="date-display-start">2018-05-07</span> to <span class="date-display-end">2018-05-10</span></span></div>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/66286">Velocity San Jose - Kubernetes 101</a><br>San Jose, CA<br><span class="date-display-start">2018-06-12</span> to <span class="date-display-end">2018-06-14</span></span></div>
 
