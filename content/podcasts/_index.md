@@ -16,6 +16,13 @@ I co-host Arrested DevOps (since November 2014) with Matt Stratton and Trevor He
 
 <h2>Guest appearances</h2>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.oreilly.com/ideas/bridget-kromhout-on-kubernetes">O’Reilly Programming Podcast: Containers, orchestrators, and new projects</a><br />
+<span class="date-display-single">2018-03-08</span></span>  </div>
+
+In this episode of the O’Reilly Programming Podcast, I talk about Kubernetes, containers, and more with Jeff Bleiel.
+
+<p>
+
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://learntocodewith.me/podcast/tech-advocacy-community-and-conferences-with-bridget-kromhout/">Tech Advocacy, Community, and Conferences on Learn to Code with Me</a><br />
 <span class="date-display-single">2018-01-02</span></span>  </div>
 

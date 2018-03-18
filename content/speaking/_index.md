@@ -11,10 +11,6 @@ Categories = []
 <h2>Upcoming</h2>
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://2018.boosterconf.no/talks/1179">Boosterconf - Kubernetes 101</a><br>Bergen, Norway<br><span class="date-display-start">2018-03-14</span></span></div>
-
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.usenix.org/conference/srecon18americas/presentation/kromhout">SREcon - Kubernetes 101</a><br>San Francisco, CA<br><span class="date-display-start">2018-03-27</span> to <span class="date-display-end">2018-03-29</span></span></div>
 
 <br>
@@ -36,6 +32,18 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/scale-summit/">Scale Summit - Livetweeting Tech Conferences</a><br>London, UK<br><span class="date-display-start">2018-03-16</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/reactor-london/">London Reactor - Livetweeting Tech Conferences</a><br>London, UK<br><span class="date-display-start">2018-03-15</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/boosterconf/">Boosterconf - Kubernetes 101</a><br>Bergen, Norway<br><span class="date-display-start">2018-03-14</span></span></div>
+
+<br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/indexconf/">IndexConf - Kubernetes 101</a><br>San Francisco, CA<br><span class="date-display-start">2018-02-20</span> to <span class="date-display-end">2018-02-22</span></span></div>
 
