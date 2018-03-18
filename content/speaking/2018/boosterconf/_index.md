@@ -23,3 +23,5 @@ Slides: <a href="http://boosterconf2018.container.training/">Kubernetes 101</a>
 <br>
 Tweets:
 {{< tweet 973893560327114753 >}}
+{{< tweet 973894202085068801 >}}
+{{< tweet 973927672119164928 >}}
