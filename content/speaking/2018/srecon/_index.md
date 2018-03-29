@@ -18,5 +18,20 @@ As our team grows, we're going to need to scale our k8s cluster, deploying and c
 <br>
 <br>
 
-Slides: <a href="http://container.training/">Kubernetes 101</a>
+Slides: <a href="http://srecon2018.container.training/">Kubernetes 101</a>
 <br>
+
+Tweets:
+<br>
+{{< tweet 978724995688931328 >}}
+{{< tweet 978738010521923584 >}}
+{{< tweet 978739571662897152 >}}
+{{< tweet 978742644271493120 >}}
+{{< tweet 978747669240676352 >}}
+{{< tweet 978758781805895681 >}}
+{{< tweet 978777877557731328 >}}
+{{< tweet 978780245435203585 >}}
+{{< tweet 978780421268754432 >}}
+{{< tweet 978785386469122049 >}}
+{{< tweet 978793547976474624 >}}
+{{< tweet 978816945653886976 >}}

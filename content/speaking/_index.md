@@ -11,8 +11,6 @@ Categories = []
 <h2>Upcoming</h2>
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/srecon/">SREcon - Kubernetes 101</a><br>San Francisco, CA<br><span class="date-display-start">2018-03-27</span></span></div>
-<br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/reactor-seattle/">Seattle Reactor - Livetweeting Tech Conferences</a><br>Seattle, WA<br><span class="date-display-start">2018-03-29</span></span></div>
 
 <br>
@@ -48,6 +46,9 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/srecon/">SREcon - Kubernetes 101</a><br>San Francisco, CA<br><span class="date-display-start">2018-03-27</span></span></div>
+<br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/scale-summit/">Scale Summit - Livetweeting Tech Conferences</a><br>London, UK<br><span class="date-display-start">2018-03-16</span></span></div>
 
