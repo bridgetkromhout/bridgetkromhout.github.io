@@ -21,6 +21,9 @@ As our team grows, we're going to need to scale our k8s cluster, deploying and c
 Slides: <a href="http://srecon2018.container.training/">Kubernetes 101</a>
 <br>
 
+Review by Tanya Reilly: <a href="https://noidea.dog/blog/srecon-americas-2018-day-1">Conference report: SRECon Americas Day 1</a>
+<br>
+
 Tweets:
 <br>
 {{< tweet 978724995688931328 >}}
