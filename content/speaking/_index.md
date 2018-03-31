@@ -11,9 +11,6 @@ Categories = []
 <h2>Upcoming</h2>
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/reactor-seattle/">Seattle Reactor - Livetweeting Tech Conferences</a><br>Seattle, WA<br><span class="date-display-start">2018-03-29</span></span></div>
-
-<br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://minnestar.org/announcing-minnebar13-session-0-speaker-bridget-kromhout/">Minnebar - Computers are easy; people are hard</a><br>Minneapolis, MN<br><span class="date-display-start">2018-04-14</span></span></div>
 
 <br>
@@ -47,6 +44,9 @@ Categories = []
 
 <h3>2018</h3>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/reactor-seattle/">Seattle Reactor - Livetweeting Tech Conferences</a><br>Seattle, WA<br><span class="date-display-start">2018-03-29</span></span></div>
+
+<br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/srecon/">SREcon - Kubernetes 101</a><br>San Francisco, CA<br><span class="date-display-start">2018-03-27</span></span></div>
 <br>
 
