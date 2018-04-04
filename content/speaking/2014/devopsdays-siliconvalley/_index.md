@@ -20,11 +20,13 @@ Spoiler alert: change is scary, but awesome developers on the team make it much 
 <br>
 <br>
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/36434296" width="640" height="360" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rDGcRk5LQE0z3v" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/how-i-learned-to-stop-worrying-and-love-devops-dodsv2014" title="How I Learned to Stop Worrying and Love DevOps (DODSV2014)" target="_blank">How I Learned to Stop Worrying and Love DevOps (DODSV2014)</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
+
 <br>
 
 <br>
-<iframe width="720" height="437" src="http://www.ustream.tv/embed/recorded/49677695?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+<iframe width="720" height="405" src="http://www.ustream.tv/embed/recorded/49677695?html5ui=1" allowfullscreen="true" webkitallowfullscreen="true" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+<br /><a href="http://www.ustream.tv" style="font-size: 12px; line-height: 20px; font-weight: normal; text-align: left;" target="_blank">Broadcast live streaming video on Ustream</a>
 <br />
 
 {{< tweet 482927229714722816 >}}
