@@ -4,7 +4,7 @@ title: Computers are easy; people are hard
 footer: false
 ---
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://minnestar.org/announcing-minnebar13-session-0-speaker-bridget-kromhout/">Minnebar - Computers are easy; people are hard (keunote)</a><br>Minneapolis, MN<br><span class="date-display-start">2018-04-14</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://minnestar.org/announcing-minnebar13-session-0-speaker-bridget-kromhout/">Minnebar - Computers are easy; people are hard (keynote)</a><br>Minneapolis, MN<br><span class="date-display-start">2018-04-14</span></span></div>
 <br>
 
 <br>
