@@ -11,9 +11,6 @@ Categories = []
 <h2>Upcoming</h2>
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/kubecon-eu/">Kubecon EU - Kubernetes 101: DIY Workshop</a><br>Copenhagen, Denmark<br><span class="date-display-start">2018-05-04</span></span></div>
-
-<br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://ndcminnesota.com/talk/cloud-containers-kubernetes/">NDC Minnesota - Cloud, Containers, Kubernetes & Kubernetes 101</a><br>Saint Paul, MN<br><span class="date-display-start">2018-05-09</span> to <span class="date-display-end">2018-05-10</span></span></div>
 
@@ -52,6 +49,8 @@ Categories = []
 
 <br>
 
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/kubecon-eu/">Kubecon EU - Kubernetes 101: DIY Workshop</a><br>Copenhagen, Denmark<br><span class="date-display-start">2018-05-04</span></span></div>
 
 <br>
 

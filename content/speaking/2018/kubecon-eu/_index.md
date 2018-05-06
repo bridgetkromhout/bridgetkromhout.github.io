@@ -13,3 +13,21 @@ Description: If you want to level up the k8s game at your organization, maybe wh
 
 <br>
 
+<a href="http://container.training">container.training workshop website</a>
+<br>
+<a href="https://github.com/jpetazzo/container.training/">container.training workshop github</a>
+<br>
+
+Slides:
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tqolO29yujr1Py" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/kubernetes-101-diy-workshop" title="Kubernetes 101: DIY Workshop" target="_blank">Kubernetes 101: DIY Workshop</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
+
+<br>
+
+Tweets:
+<br>
+{{< tweet 992330578367262720 >}}
+{{< tweet 992335348012339201 >}}
+{{< tweet 992344175852081152 >}}
+{{< tweet 992357289695809536 >}}
+{{< tweet 992490371115638784 >}}
