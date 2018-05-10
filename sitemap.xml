@@ -212,6 +212,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/ndc-mn/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2014/clouddevelop/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -567,6 +573,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2014/mountainwest-devops/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/ndc-mn-workshop/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
