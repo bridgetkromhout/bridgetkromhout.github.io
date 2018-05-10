@@ -12,7 +12,7 @@ Categories = []
 <br>
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://ndcminnesota.com/talk/cloud-containers-kubernetes/">NDC Minnesota - Cloud, Containers, Kubernetes & Kubernetes 101</a><br>Saint Paul, MN<br><span class="date-display-start">2018-05-09</span> to <span class="date-display-end">2018-05-10</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/ndc-mn-workshop/">NDC Minnesota - Kubernetes 101</a><br>Saint Paul, MN<br><span class="date-display-end">2018-05-10</span></span></div>
 
 <br>
 
@@ -46,6 +46,9 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/ndc-mn/">NDC Minnesota - Cloud, Containers, Kubernetes</a><br>Saint Paul, MN<br><span class="date-display-end">2018-05-09</span></span></div>
 
 <br>
 
