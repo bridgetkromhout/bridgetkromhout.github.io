@@ -24,6 +24,13 @@ Slides:
 
 <br>
 
+Video:
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mYsp_cGY2O0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
+
 Tweets:
 <br>
 {{< tweet 992330578367262720 >}}

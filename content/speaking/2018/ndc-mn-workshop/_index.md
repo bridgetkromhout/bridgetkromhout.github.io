@@ -18,3 +18,6 @@ As our team grows, we're going to need to scale our k8s cluster, deploying and c
 
 Slides: <a href="http://ndcminnesota2018.container.training/">Kubernetes 101</a>
 <br>
+Tweets
+<br>
+{{< tweet 994610330021040128 >}}

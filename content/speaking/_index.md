@@ -12,10 +12,6 @@ Categories = []
 <br>
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/ndc-mn-workshop/">NDC Minnesota - Kubernetes 101</a><br>Saint Paul, MN<br><span class="date-display-end">2018-05-10</span></span></div>
-
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.dotscale.io">dotscale Paris</a><br>Paris, France<br><span class="date-display-start">2018-06-01</span></span></div>
 
 <br>
@@ -46,6 +42,10 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/ndc-mn-workshop/">NDC Minnesota - Kubernetes 101</a><br>Saint Paul, MN<br><span class="date-display-end">2018-05-10</span></span></div>
+
+<br>
 
 <br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/ndc-mn/">NDC Minnesota - Cloud, Containers, Kubernetes</a><br>Saint Paul, MN<br><span class="date-display-end">2018-05-09</span></span></div>
