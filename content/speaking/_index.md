@@ -42,6 +42,10 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/sps/">SPS Commerce TechJam - Computers are easy; people are hard (keynote)</a><br>Minneapolis, MN<br><span class="date-display-start">2018-05-16</span></span></div>
+
+<br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/ndc-mn-workshop/">NDC Minnesota - Kubernetes 101</a><br>Saint Paul, MN<br><span class="date-display-end">2018-05-10</span></span></div>
 
