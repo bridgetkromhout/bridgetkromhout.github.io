@@ -12,16 +12,25 @@ Categories = []
 <br>
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.dotscale.io">dotscale Paris</a><br>Paris, France<br><span class="date-display-start">2018-06-01</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.dotscale.io/#speakers">dotscale Paris</a><br>Paris, France<br><span class="date-display-start">2018-06-01</span></span></div>
 
 <br>
 
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/66286">Velocity San Jose - Kubernetes 101</a><br>San Jose, CA<br><span class="date-display-start">2018-06-12</span> to <span class="date-display-end">2018-06-14</span></span></div>
 
+
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-amsterdam/program/bridget-kromhout/">devopsdays Amsterdam - Cloud, Containers, Kubernetes (Keynote)</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-27</span> to <span class="date-display-end">2018-06-29</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.hashidays.com/speakers/bridget-kromhout">HashiDays - Artificial Ethics</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-27</span> to <span class="date-display-end">2018-06-29</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-amsterdam/program/bridget-kromhout-ws/">devopsdays Amsterdam - Kubernetes 101</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-27</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-amsterdam/program/bridget-kromhout/">devopsdays Amsterdam - Cloud, Containers, Kubernetes (Keynote)</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-28</span></span></div>
 
 <br>
 
@@ -36,6 +45,12 @@ Categories = []
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://apachecon.com/acna18/">ApacheCon (Keynote)</a><br>Montreal, Canada<br><span class="date-display-start">2018-09-24</span> to <span class="date-display-end">2018-09-27</span></span></div>
 
 <br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ny/public/schedule/detail/70102">Velocity New York - Kubernetes 101</a><br>New York City, NY<br><span class="date-display-start">2018-10-01</span> to <span class="date-display-end">2018-10-03</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://ohiolinux.org/bridget-kromhout-to-keynote-olf2018/">Ohio LinuxFest - Keynote</a><br>Columbus, OH<br><span class="date-display-start">2018-10-12</span> to <span class="date-display-end">2018-10-13</span></span></div>
 
 
 
