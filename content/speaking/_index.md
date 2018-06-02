@@ -12,10 +12,6 @@ Categories = []
 <br>
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.dotscale.io/#speakers">dotscale Paris</a><br>Paris, France<br><span class="date-display-start">2018-06-01</span></span></div>
-
-<br>
-
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/66286">Velocity San Jose - Kubernetes 101</a><br>San Jose, CA<br><span class="date-display-start">2018-06-12</span> to <span class="date-display-end">2018-06-14</span></span></div>
 
@@ -57,6 +53,10 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/dotscale">dotScale Paris - Kubernetes 101</a><br>Paris, France<br><span class="date-display-start">2018-06-01</span></span></div>
+
 <br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/sps/">SPS Commerce TechJam - Computers are easy; people are hard (keynote)</a><br>Minneapolis, MN<br><span class="date-display-start">2018-05-16</span></span></div>
 
