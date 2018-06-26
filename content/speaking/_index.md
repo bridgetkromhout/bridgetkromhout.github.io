@@ -14,10 +14,6 @@ Categories = []
 
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.hashidays.com/speakers/bridget-kromhout">HashiDays - Artificial Ethics</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-27</span> to <span class="date-display-end">2018-06-29</span></span></div>
-
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-amsterdam/program/bridget-kromhout-ws/">devopsdays Amsterdam - Kubernetes 101</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-27</span></span></div>
 
 <br>
@@ -53,6 +49,10 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/hashidays">HashiDays - Through a glass darkly: ethics in AI</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-26</span></span></div>
 
 <br>
 
