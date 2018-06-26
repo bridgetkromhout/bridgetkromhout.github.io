@@ -18,6 +18,12 @@ Slides
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ypToLNYorcnsL8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/through-a-glass-darkly-ethics-in-ai-hashidays" title="Through a glass darkly: ethics in AI (HashiDays)" target="_blank">Through a glass darkly: ethics in AI (HashiDays)</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
 <br>
 
+Additional reading
+<br>
+- [coed ethics conference](https://www.coedethics.org/)
+- [Yes in my backyard](https://yimbyaction.org/)
+- [Tech Workers Coalition](https://techworkerscoalition.org/)
+<br>
 
 Tweets
 <br>
