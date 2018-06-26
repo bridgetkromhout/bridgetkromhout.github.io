@@ -20,6 +20,7 @@ Slides
 
 Additional reading
 <br>
+
 - [coed ethics conference](https://www.coedethics.org/)
 
 - [Yes in my backyard](https://yimbyaction.org/)
