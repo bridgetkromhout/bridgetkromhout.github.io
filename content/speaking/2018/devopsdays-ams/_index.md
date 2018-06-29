@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Cloud, Containers, Kubernetes
+title: Cloud, Containers, Kubernetes (Keynote)
 footer: false
 ---
 
 
 
 <br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-amsterdam/program/bridget-kromhout/">devopsdays Amsterdam - Cloud, Containers, Kubernetes (Keynote)</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-28</span></span></div>
+
 
 <br>
 <br>

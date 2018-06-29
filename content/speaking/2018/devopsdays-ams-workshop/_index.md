@@ -4,6 +4,7 @@ title: devopsdays Amsterdam 2018 - Kubernetes 101
 footer: false
 ---
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-amsterdam/program/bridget-kromhout-ws/">devopsdays Amsterdam - Kubernetes 101</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-27</span></span></div>
 <br>
 Description
 <br>

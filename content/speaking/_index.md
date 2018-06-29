@@ -14,14 +14,6 @@ Categories = []
 
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-amsterdam/program/bridget-kromhout-ws/">devopsdays Amsterdam - Kubernetes 101</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-27</span></span></div>
-
-<br>
-
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-amsterdam/program/bridget-kromhout/">devopsdays Amsterdam - Cloud, Containers, Kubernetes (Keynote)</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-28</span></span></div>
-
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-minneapolis/welcome/">devopsdays Minneapolis 2018 - Arrested DevOps Live</a><br>Minneapolis, MN<br><span class="date-display-start">2018-07-12</span> to <span class="date-display-end">2018-07-13</span></span></div>
 
 <br>
@@ -50,6 +42,14 @@ Categories = []
 
 <h3>2018</h3>
 
+
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/devopsdays-ams">devopsdays Amsterdam - Cloud, Containers, Kubernetes (Keynote)</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-28</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/devopsdays-ams-workshop"">devopsdays Amsterdam - Kubernetes 101</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-27</span></span></div>
 <br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/hashidays">HashiDays - Through a glass darkly: ethics in AI</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2018-06-26</span></span></div>
