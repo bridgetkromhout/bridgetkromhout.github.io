@@ -218,6 +218,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/devopsdays-ams/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2014/clouddevelop/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -771,6 +777,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2017/azure-mn/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/devopsdays-ams-workshop/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
