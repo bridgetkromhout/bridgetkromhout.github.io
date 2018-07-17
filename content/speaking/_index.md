@@ -12,16 +12,6 @@ Categories = []
 <br>
 
 
-
-
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2018-minneapolis/welcome/">devopsdays Minneapolis 2018 - Arrested DevOps Live</a><br>Minneapolis, MN<br><span class="date-display-start">2018-07-12</span> to <span class="date-display-end">2018-07-13</span></span></div>
-
-<br>
-
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/66287">OSCON - Kubernetes 101</a><br>Portland, OR<br><span class="date-display-start">2018-07-17</span></span></div>
-
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://apachecon.com/acna18/">ApacheCon (Keynote)</a><br>Montreal, Canada<br><span class="date-display-start">2018-09-24</span> to <span class="date-display-end">2018-09-27</span></span></div>
 
 <br>
@@ -43,6 +33,7 @@ Categories = []
 <h3>2018</h3>
 
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/oscon/">OSCON - Kubernetes 101</a><br>Portland, OR<br><span class="date-display-start">2018-07-17</span></span></div>
 
 <br>
 
