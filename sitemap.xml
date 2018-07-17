@@ -602,6 +602,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/oscon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2016/devopsdays-madison/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

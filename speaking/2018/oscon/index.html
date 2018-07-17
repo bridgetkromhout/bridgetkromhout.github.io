@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Bridget Kromhout  | OSCON 2018 - Kubernetes 101</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.30.2" />
+      
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+     <link href='https://bridgetkromhout.com/dist/main.css' rel='stylesheet' type="text/css" />
+
+     
+      <link href="https://bridgetkromhout.com/speaking/2018/oscon/index.xml" rel="alternate" type="application/rss+xml" title="Bridget Kromhout" />
+      <link href="https://bridgetkromhout.com/speaking/2018/oscon/index.xml" rel="feed" type="application/rss+xml" title="Bridget Kromhout" />
+      
+
+      <meta property="og:title" content="OSCON 2018 - Kubernetes 101" />
+<meta property="og:description" content="Bridget Kromhout" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://bridgetkromhout.com/speaking/2018/oscon/" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="OSCON 2018 - Kubernetes 101">
+<meta itemprop="description" content="Bridget Kromhout">
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="OSCON 2018 - Kubernetes 101"/>
+<meta name="twitter:description" content="Bridget Kromhout"/>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+
+  
+  
+  <header class="cover bg-top" style="background-image: url('https://bridgetkromhout.com/images/kitties.png');">
+    <div class="bg-black-40">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://bridgetkromhout.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      Bridget Kromhout
+    </a>
+    <div class="flex-l items-center">
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/speaking/" title="Speaking page">
+              Speaking
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/writing/" title="Writing page">
+              Writing
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/podcasts/" title="Podcasts page">
+              Podcasts
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/reviews/" title="Reviews page">
+              Reviews
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          OSCON 2018 - Kubernetes 101
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">                
+      <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/66287">OSCON - Kubernetes 101</a><br>Portland, OR<br><span class="date-display-start">2018-07-17</span></span></div>
+
+<p><br>
+Description
+<br>
+It is a truth universally acknowledged that a techie in possession of any production code whatsoever must be in want of a container orchestration platform. What’s up for debate, according to noted thought leader Jane Austen, is how many pizzas the team is going to eat. In this hands-on Kubernetes workshop, Bridget Kromhout walks you through launching clusters and details all the moving parts you need to know about to use Kubernetes in production. If you’re into dev or ops or some portmanteau thereof, this is relevant to your interests. We’ll use an Azure variant based on the open source k8s training at container.training—whatever public or private cloud you prefer, you’ll learn something valuable. Join us to level up on k8s (and pizza).
+<br></p>
+
+<p>Slides: <a href="http://oscon2018.container.training/">Kubernetes 101</a>
+<br>
+Tweets
+<br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Packed room for kubernetes 101 with <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>.<a href="https://twitter.com/hashtag/oscon?src=hash&amp;ref_src=twsrc%5Etfw">#oscon</a> <a href="https://t.co/RfrAF2m92Q">pic.twitter.com/RfrAF2m92Q</a></p>&mdash; Joe Laha (@joelaha) <a href="https://twitter.com/joelaha/status/1019268336129982465?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Getting excited about Kubernates 101 with <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> ! <a href="https://twitter.com/hashtag/oscon2018?src=hash&amp;ref_src=twsrc%5Etfw">#oscon2018</a></p>&mdash; Mary Frances (@iam_maryfrances) <a href="https://twitter.com/iam_maryfrances/status/1019245993202577409?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> kicking off her <a href="https://twitter.com/hashtag/Kubernetes?src=hash&amp;ref_src=twsrc%5Etfw">#Kubernetes</a> 101 session at <a href="https://twitter.com/hashtag/oscon?src=hash&amp;ref_src=twsrc%5Etfw">#oscon</a> <a href="https://t.co/M4v9nUuzXi">pic.twitter.com/M4v9nUuzXi</a></p>&mdash; Benjamin Kerensa (@bkerensa) <a href="https://twitter.com/bkerensa/status/1019251183213424640?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There&#39;s an ISO standard for brewing tea, who knew?  <a href="https://t.co/vQZZg43hrJ">https://t.co/vQZZg43hrJ</a>. Thanks for the nugget <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> ! ( one small one in a whole bunch a fantastic and incredibly fast Kubernetes 101 presentation )</p>&mdash; Jason Adam Young (@jasonadamyoung) <a href="https://twitter.com/jasonadamyoung/status/1019258196903358464?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/OSCON?src=hash&amp;ref_src=twsrc%5Etfw">#OSCON</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> is giving us kubernetes from fire hose!</p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1019272648830795777?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Packed room taking in the Kubernetes firehose 🔥 from <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/oscon?src=hash&amp;ref_src=twsrc%5Etfw">#oscon</a></p>&mdash; Erik @ #OSCON (@erik_howard) <a href="https://twitter.com/erik_howard/status/1019287977179017216?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great Kubernetes 101 workshop by <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/OSCON?src=hash&amp;ref_src=twsrc%5Etfw">#OSCON</a></p>&mdash; Kathleen McMahon (@resource11) <a href="https://twitter.com/resource11/status/1019304386697166848?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">... And I&#39;d like to thank <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> for giving me the opportunity to assist her with her Kubernetes workshop at <a href="https://twitter.com/hashtag/OSCON?src=hash&amp;ref_src=twsrc%5Etfw">#OSCON</a>. It was challenging (but fun!) to help attendees 5000 miles away to deploy their containers! 🌎👩🏼‍🏫💻✨☄️ 👨🏻‍🏫🌍</p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/1019307523634089985?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">baby&#39;s first <a href="https://twitter.com/hashtag/k8s?src=hash&amp;ref_src=twsrc%5Etfw">#k8s</a> cluster, thanks to <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> and <a href="https://twitter.com/jpetazzo?ref_src=twsrc%5Etfw">@jpetazzo</a>! <a href="https://t.co/eKQBPdBio4">pic.twitter.com/eKQBPdBio4</a></p>&mdash; Taylor Barnett (@taylor_atx) <a href="https://twitter.com/taylor_atx/status/1019321125791133696?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The materials include direct download links to putty:<a href="https://t.co/puwpjInOLb">https://t.co/puwpjInOLb</a><br><br>... I know. That&#39;s cheating. But we&#39;ll do anything we can to make sure that people come here to chew bubble gum and deploy containers, and run all out of gum!</p>&mdash; Jérôme Petazzoni (@jpetazzo) <a href="https://twitter.com/jpetazzo/status/1019345631045996544?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;ve ever delivered a workshop to hundreds at once, you know it&#39;s challenging to get attendees all the resources they need to get started (thanks to <a href="https://twitter.com/joelaha?ref_src=twsrc%5Etfw">@joelaha</a> and <a href="https://twitter.com/karenhchu?ref_src=twsrc%5Etfw">@karenhchu</a>!) and it&#39;s equally challenging to answer questions as you go (thanks so much to <a href="https://twitter.com/jpetazzo?ref_src=twsrc%5Etfw">@jpetazzo</a>!) <a href="https://twitter.com/hashtag/oscon?src=hash&amp;ref_src=twsrc%5Etfw">#oscon</a> ✨ <a href="https://t.co/tkkE3pgGdS">https://t.co/tkkE3pgGdS</a></p>&mdash; Bridget Kromhout (@bridgetkromhout) <a href="https://twitter.com/bridgetkromhout/status/1019343626353106944?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+    </div>
+  </article>
+  <div class="mw8 center">
+    
+    <section class="flex-ns flex-wrap justify-around mt5">
+      
+    </section>
+  
+
+  </div>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://bridgetkromhout.com/" >
+    &copy; 2018 Bridget Kromhout
+  </a>
+  
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+  </div>
+</footer>
+
+    <script src="https://bridgetkromhout.com/dist/app.bundle.js" async></script>
+
+  </body>
+</html>
