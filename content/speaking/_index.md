@@ -11,12 +11,17 @@ Categories = []
 <h2>Upcoming</h2>
 <br>
 
+<br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://apachecon.com/acna18/">ApacheCon (Keynote)</a><br>Montreal, Canada<br><span class="date-display-start">2018-09-24</span> to <span class="date-display-end">2018-09-27</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.pagerduty.com/summit/">PagerDuty Summit - Through a glass darkly: ethics in AI</a><br>San Francisco, CA<br><span class="date-display-start">2018-09-11</span></span></div>
 
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ny/public/schedule/detail/70102">Velocity New York - Kubernetes 101</a><br>New York City, NY<br><span class="date-display-start">2018-10-01</span> to <span class="date-display-end">2018-10-03</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://apachecon.com/acna18/">ApacheCon (Keynote)</a><br>Montreal, Canada<br><span class="date-display-start">2018-09-26</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ny/public/schedule/detail/70102">Velocity New York - Kubernetes 101</a><br>New York City, NY<br><span class="date-display-start">2018-10-01</span></span></div>
 
 <br>
 
@@ -27,7 +32,9 @@ Categories = []
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://voxxeddays.com/microservices/">VoxxedDays Microservices</a><br>Paris, France<br><span class="date-display-start">2018-10-29</span></span></div>
 
+<br>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-eu/public/schedule/detail/71149">Velocity London - Kubernetes 101</a><br>London, UK<br><span class="date-display-start">2018-10-31</span></span></div>
 <h2>Past</h2>
 
 <h3>2018</h3>
