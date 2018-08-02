@@ -165,7 +165,7 @@ If you can give an early version of your talk to a smaller-scale audience, it ca
 
 An ideal situation is a friendly local meetup where you’ll be providing content the attendees will appreciate, and where you feel comfortable handling Q&A. If you tell the attendees that they’re getting a sneak peak of conference material for free, and they can help you refine it by their questions, then you’ll usually get questions that help you sharpen and clarify the material before you give it to a larger (paying) audience.
 
-I was rehearsing a talk version of this blog post with my spouse Joe and he added, “And meetups are always looking for speakers! If they don’t have a speaker, they have to have a panel with some other meetup organizers for the umpteenth time.” I resemble that remark!
+I was rehearsing a [talk version of this blog post](https://www.slideshare.net/bridgetkromhout/give-actionable-takeaways) with my spouse [Joe](https://twitter.com/joelaha/) and he added, “And meetups are always looking for speakers! If they don’t have a speaker, they have to have a panel with some other meetup organizers for the umpteenth time.” I resemble that remark!
 
 
 **Closing the Deal**
