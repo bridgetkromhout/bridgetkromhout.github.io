@@ -6,6 +6,11 @@ Categories = []
 +++
 
 <p>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://developer.microsoft.com/en-us/reactor/post/3">5 Questions with Bridget Kromhout - Get to know a CDA in this month’s spotlight</a><br />.
+
+Kicking off Microsoft's "5 Questions" Reactor advocate interviews
+
+<p>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="http://mobileservices.texterity.com/pmnetwork/march_2018/MobilePagedArticle.action?articleId=1339632">PM Network March 2018 - DevOps Goes Mainstream</a><br />
 
 <p>
