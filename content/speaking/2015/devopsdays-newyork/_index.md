@@ -30,7 +30,6 @@ Attendees will leave with specific changes they can implement to make their orga
 {{< tweet 594172084626010112 >}}
 {{< tweet 594172182432976896 >}}
 {{< tweet 594172347147509761 >}}
-{{< tweet 594172525455618048 >}}
 {{< tweet 594173824838545408 >}}
 {{< tweet 594173880501080064 >}}
 {{< tweet 594173983475433473 >}}

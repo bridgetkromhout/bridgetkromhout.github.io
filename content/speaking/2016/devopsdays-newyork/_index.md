@@ -33,7 +33,6 @@ In Accidental Empires, Robert X. Cringely’s history of Silicon Valley, he talk
 {{< tweet 779380784981508096 >}}
 {{< tweet 779381115786190848 >}}
 {{< tweet 779381149692944384 >}}
-{{< tweet 779381250641367041 >}}
 {{< tweet 779382155109552128 >}}
 {{< tweet 779382981802594304 >}}
 {{< tweet 779394918544539648 >}}

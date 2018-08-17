@@ -27,7 +27,6 @@ Come chat with cheerfully cynical operations professionals who’ve put in a non
 {{< tweet 778702918144765952 >}}
 {{< tweet 778705697194127364 >}}
 {{< tweet 778705687178162176 >}}
-{{< tweet 778706455419465728 >}}
 {{< tweet 778706965727842304 >}}
 {{< tweet 778708921603149824 >}}
 {{< tweet 778709178617438208 >}}

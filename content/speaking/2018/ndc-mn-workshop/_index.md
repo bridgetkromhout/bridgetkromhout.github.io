@@ -20,6 +20,5 @@ Slides: <a href="http://ndcminnesota2018.container.training/">Kubernetes 101</a>
 <br>
 Tweets
 <br>
-{{< tweet 994610330021040128 >}}
 {{< tweet 994735432821870592 >}}
 {{< tweet 994737352626106368 >}}

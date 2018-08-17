@@ -56,7 +56,6 @@ My <a href="http://sysadvent.blogspot.com/2014/12/day-1-docker-in-production-rea
 {{< tweet 589201919446388736 >}}
 {{< tweet 589201990502076416 >}}
 {{< tweet 589201993794588672 >}}
-{{< tweet 589201999847034880 >}}
 {{< tweet 589202346296549376 >}}
 {{< tweet 589203424341721089 >}}
 {{< tweet 589204265207525376 >}}
@@ -64,7 +63,6 @@ My <a href="http://sysadvent.blogspot.com/2014/12/day-1-docker-in-production-rea
 {{< tweet 589204505574518784 >}}
 {{< tweet 589204745463541760 >}}
 {{< tweet 589205127703101440 >}}
-{{< tweet 589205609494368256 >}}
 {{< tweet 589205619212570624 >}}
 {{< tweet 589205665475866624 >}}
 {{< tweet 589206307401437184 >}}

@@ -38,6 +38,5 @@ When I joined a startup already in progress as their first ops hire, I got a cra
 {{< tweet 512973243050123264 >}}
 {{< tweet 512974018925043712 >}}
 {{< tweet 512974829545607168 >}}
-{{< tweet 512975468455550976 >}}
 {{< tweet 512975793216307201 >}}
 {{< tweet 512975938758664192 >}}

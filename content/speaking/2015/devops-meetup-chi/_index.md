@@ -35,7 +35,6 @@ My <a href="http://sysadvent.blogspot.com/2014/12/day-1-docker-in-production-rea
 
 
 {{< tweet 575058831228690432 >}}
-{{< tweet 575069595901411328 >}}
 {{< tweet 575073888016678912 >}}
 {{< tweet 575092636870012928 >}}
 {{< tweet 575102476505890816 >}}

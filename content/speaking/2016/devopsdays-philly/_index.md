@@ -30,7 +30,6 @@ Devops is culture enabled by tools, which are necessary but not sufficient. I to
 {{< tweet 791661229853081600 >}}
 {{< tweet 791661497617305601 >}}
 {{< tweet 791661603162685442 >}}
-{{< tweet 791661718355058688 >}}
 {{< tweet 791661748021518337 >}}
 {{< tweet 791661790450987008 >}}
 {{< tweet 791661874018418690 >}}
