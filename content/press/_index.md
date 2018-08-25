@@ -5,6 +5,11 @@ aliases = "reviews"
 Categories = []
 +++
 
+
+<p>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://open.microsoft.com/2018/08/23/devops-trends-and-tips-from-our-resident-pros/">DevOps trends and tips from our resident pros</a><br />.
+Interview by Ken Thompson -  August 23, 2018
+
 <p>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://developer.microsoft.com/en-us/reactor/post/3">5 Questions with Bridget Kromhout - Get to know a CDA in this month’s spotlight</a><br />.
 
