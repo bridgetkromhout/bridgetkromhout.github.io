@@ -47,6 +47,5 @@ We'll detail how we're reducing deployment overhead and increasing maintainabili
 {{< tweet 583388507575422977 >}}
 {{< tweet 583388563527434240 >}}
 {{< tweet 583388608616239104 >}}
-{{< tweet 583407709787033600 >}}
 {{< tweet 584021185840558081 >}}
 {{< tweet 584089778691289088 >}}

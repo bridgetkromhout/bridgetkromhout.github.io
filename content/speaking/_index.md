@@ -39,6 +39,24 @@ Categories = []
 <br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-eu/public/schedule/detail/71149">Velocity London - Kubernetes 101</a><br>London, UK<br><span class="date-display-start">2018-10-31</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://qconsf.com/sf2018/presentation/day-two-kubernetes-tools-operability">QCon SF - Day Two Kubernetes: Tools for Operability</a><br>San Francisco, CA<br><span class="date-display-start">2018-11-05</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sydney.yowconference.com.au/profile/?id=bridget-kromhout">YOW! Sydney - Cloud, Containers, Kubernetes</a><br>Sydney, Australia<br><span class="date-display-start">2018-11-29</span> to <span class="date-display-end">2018-11-30</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://brisbane.yowconference.com.au/profile/?id=bridget-kromhout">YOW! Brisbane - Cloud, Containers, Kubernetes</a><br>Brisbane, Australia<br><span class="date-display-start">2018-12-03</span> to <span class="date-display-end">2018-12-04</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://melbourne.yowconference.com.au/profile/?id=bridget-kromhout">YOW! Melbourne - Cloud, Containers, Kubernetes</a><br>Melbourne, Australia<br><span class="date-display-start">2018-12-06</span> to <span class="date-display-end">2018-12-07</span></span></div>
+
+
 <h2>Past</h2>
 
 <h3>2018</h3>
