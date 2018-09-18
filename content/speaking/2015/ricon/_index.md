@@ -26,13 +26,11 @@ Drawing in comparisons from theoretical computer science and practical systems i
 
 <br>
 <br>
-{{< tweet 662691584236908544 >}}
 {{< tweet 662692428000792576 >}}
 {{< tweet 662695139597398016 >}}
 {{< tweet 662697561631780864 >}}
 {{< tweet 662699130892906496 >}}
 {{< tweet 662701402343514112 >}}
 {{< tweet 662721238989602816 >}}
-{{< tweet 662697825684197376 >}}
 {{< tweet 662697589834289152 >}}
 {{< tweet 662731093821407232 >}}
