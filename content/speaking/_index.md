@@ -11,10 +11,6 @@ Categories = []
 <h2>Upcoming</h2>
 <br>
 
-<br>
-
-
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://apachecon.dukecon.org/acna/2018/#/scheduledEvent/fbbb2384fa91ebc6b">ApacheCon - Containers will not fix your broken culture (and other hard truths) (Keynote)</a><br>Montreal, Canada<br><span class="date-display-start">2018-09-26</span></span></div>
 
 <br>
 
@@ -57,6 +53,10 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/apachecon/">ApacheCon - Containers will not fix your broken culture (and other hard truths) (Keynote)</a><br>Montreal, Canada<br><span class="date-display-start">2018-09-26</span></span></div>
+<br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/pdsummit/">PagerDuty Summit - Through a glass darkly: ethics in AI</a><br>San Francisco, CA<br><span class="date-display-start">2018-09-11</span></span></div>
 
