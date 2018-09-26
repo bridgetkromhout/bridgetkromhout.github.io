@@ -382,6 +382,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/apachecon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2015/chefconf/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

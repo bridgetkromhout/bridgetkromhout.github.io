@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Bridget Kromhout  | Containers will not fix your broken culture (and other hard truths)</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.46" />
+      
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+     <link href='https://bridgetkromhout.com/dist/main.css' rel='stylesheet' type="text/css" />
+
+     
+      <link href="https://bridgetkromhout.com/speaking/2018/apachecon/index.xml" rel="alternate" type="application/rss+xml" title="Bridget Kromhout" />
+      <link href="https://bridgetkromhout.com/speaking/2018/apachecon/index.xml" rel="feed" type="application/rss+xml" title="Bridget Kromhout" />
+      
+
+      <meta property="og:title" content="Containers will not fix your broken culture (and other hard truths)" />
+<meta property="og:description" content="Bridget Kromhout" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://bridgetkromhout.com/speaking/2018/apachecon/" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Containers will not fix your broken culture (and other hard truths)">
+<meta itemprop="description" content="Bridget Kromhout">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Containers will not fix your broken culture (and other hard truths)"/>
+<meta name="twitter:description" content="Bridget Kromhout"/>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+
+  
+  
+  <header class="cover bg-top" style="background-image: url('https://bridgetkromhout.com/images/kitties.png');">
+    <div class="bg-black-40">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://bridgetkromhout.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      Bridget Kromhout
+    </a>
+    <div class="flex-l items-center">
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/speaking/" title="Speaking page">
+              Speaking
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/writing/" title="Writing page">
+              Writing
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/podcasts/" title="Podcasts page">
+              Podcasts
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/reviews/" title="Reviews page">
+              Reviews
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          Containers will not fix your broken culture (and other hard truths)
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">                
+      <p><br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://apachecon.dukecon.org/acna/2018/#/scheduledEvent/fbbb2384fa91ebc6b">ApacheCon - Containers will not fix your broken culture (and other hard truths) (Keynote)</a><br>Montreal, Canada<br><span class="date-display-start">2018-09-26</span></span></div>
+<br>
+Description
+<br>
+Containers will not fix your broken culture. Microservices won&rsquo;t prevent your two-pizza teams from needing to have conversations with one another over that pizza. No amount of industrial-strength job scheduling makes your organization immune to Conway&rsquo;s Law.
+<br>
+While the unscrupulous might try to sell us devops, we can&rsquo;t buy it. We have to live it; continuous improvement is a choice we make every day, through our actions of listening empathetically and acting compassionately. Tools are essential, but how we use the tools and grow the culture and practices in our organizations needs even more attention.
+<br>
+Whether you&rsquo;re just starting to implement technical and organizational change, or facing the prospect that you already have legacy microservices, it&rsquo;s worth considering the why and the how of our behaviors, not just the what. (Spoiler alert: tech, like soylent green, is made of people.)
+<br></p>
+
+<p>Slides
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IdhOWkJLcWGbYm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/containers-will-not-fix-your-broken-culture-and-other-hard-truths-apachecon-2018" title="Containers will not fix your broken culture (and other hard truths) - ApacheCon 2018" target="_blank">Containers will not fix your broken culture (and other hard truths) - ApacheCon 2018</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
+<br></p>
+
+<p>Tweets
+<br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our first keynote this morning is <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> talking about the human element of what we do. <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a></p>&mdash; ApacheCon (@ApacheCon) <a href="https://twitter.com/ApacheCon/status/1044937277674262528?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">⁦<a href="https://twitter.com/ApacheCon?ref_src=twsrc%5Etfw">@ApacheCon</a>⁩ <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a>  community over containers <a href="https://t.co/JgxvMh0Z7K">pic.twitter.com/JgxvMh0Z7K</a></p>&mdash; Tim Spann (@PaaSDev) <a href="https://twitter.com/PaaSDev/status/1044936590097870851?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Tech doesn’t fix everything. The community we build does that.” <a href="https://twitter.com/hashtag/apachecon?src=hash&amp;ref_src=twsrc%5Etfw">#apachecon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://t.co/TrweyAeFrt">pic.twitter.com/TrweyAeFrt</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044936667348570113?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> kicks off today with <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> talking containers and culture <a href="https://t.co/Aob1o0sNds">pic.twitter.com/Aob1o0sNds</a></p>&mdash; Stephen Walli (@stephenrwalli) <a href="https://twitter.com/stephenrwalli/status/1044936985318760448?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> on how:<br>&quot;Computers are easy, people are hard&quot;. Yup.<a href="https://twitter.com/hashtag/CommunityOverCode?src=hash&amp;ref_src=twsrc%5Etfw">#CommunityOverCode</a> <a href="https://twitter.com/hashtag/ACNA18?src=hash&amp;ref_src=twsrc%5Etfw">#ACNA18</a> <a href="https://t.co/fQa4ylmRfj">https://t.co/fQa4ylmRfj</a></p>&mdash; Shane Curcuru 🙀💻 (@shanecurcuru) <a href="https://twitter.com/shanecurcuru/status/1044937007238180864?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“‘Computers are easy, people are hard’ is a lie. Computers are hard, and people are hard.” <a href="https://twitter.com/hashtag/apachecon?src=hash&amp;ref_src=twsrc%5Etfw">#apachecon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044937082332942337?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Always love hearing <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> talk about the intersection of people and computers, the complexity of making it work. Great code does not win every arguenent. <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://t.co/ZJyuwVFGKY">pic.twitter.com/ZJyuwVFGKY</a></p>&mdash; Nithya Ruff (@nithyaruff) <a href="https://twitter.com/nithyaruff/status/1044937449481400320?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“I got a CS degree in the 90’s ‘cause I *didn’t* want to talk to people. Spoiler alert: Tech is about talking to people.” <a href="https://twitter.com/hashtag/apachecon?src=hash&amp;ref_src=twsrc%5Etfw">#apachecon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://t.co/LNBD9R1NFR">pic.twitter.com/LNBD9R1NFR</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044937550064996352?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Programmers shape reality with their words. We are essentially doing magic. <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://t.co/PTmWzUJErx">pic.twitter.com/PTmWzUJErx</a></p>&mdash; ApacheCon (@ApacheCon) <a href="https://twitter.com/ApacheCon/status/1044937802532704256?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tech truth # 1: Can’t solve everything through tech. <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://t.co/FtJjY94vxI">pic.twitter.com/FtJjY94vxI</a></p>&mdash; Nithya Ruff (@nithyaruff) <a href="https://twitter.com/nithyaruff/status/1044938406621532160?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The conflict between dev &amp; ops is a product of misaligned incentives. This is not a technical problem. It can occur at *any* organization.<a href="https://twitter.com/hashtag/apachecon?src=hash&amp;ref_src=twsrc%5Etfw">#apachecon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044938656115556353?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“You should rename staging to theory. As in ‘It works in theory’.” <a href="https://twitter.com/hashtag/apachecon?src=hash&amp;ref_src=twsrc%5Etfw">#apachecon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044938962522066945?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tools will not solve the problem of getting people in your organization to talk to each other. <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://t.co/nlQC5bk18R">pic.twitter.com/nlQC5bk18R</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044939492677824512?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two pizza teams still have to talk to each other over that pizza.  Moving complexity somewhere else doesn’t make it go away.<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://t.co/YJqyveuRDu">pic.twitter.com/YJqyveuRDu</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044940014147325952?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Someone selling you on a new whatsit always shows you hello world and not the nasty data migration you are actually going to have to do.<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044940805968973826?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tech truth #2: good team interactions, build, you can’t buy. <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://t.co/7uwFEIFgTn">pic.twitter.com/7uwFEIFgTn</a></p>&mdash; Nithya Ruff (@nithyaruff) <a href="https://twitter.com/nithyaruff/status/1044941160450584578?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Focus on what we’re trying to accomplish and not on your narrowly defined tribe.<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://t.co/ApA6gZyAey">pic.twitter.com/ApA6gZyAey</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044941322501718016?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tech through #3: tech like soylent green is made up of people. <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://t.co/rxaD9x8rbq">pic.twitter.com/rxaD9x8rbq</a></p>&mdash; Nithya Ruff (@nithyaruff) <a href="https://twitter.com/nithyaruff/status/1044941655915327488?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A lot of the glamour and the glory in tech focuses on instantiation. What about scaling?<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044941748265537539?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Containers can help with the boundaries between teams, but we still need to talk that through.<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://t.co/2pBqaaCslk">pic.twitter.com/2pBqaaCslk</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044942189866803200?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You’re going to have partitions. You just have to decide how you deal with them.<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044942385900376066?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Empower yourself by letting go as much as you possibly can.”<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044942570432933888?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;With distributed systems, you need to distribute decisionmaking as well.&quot;<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Shane Curcuru 🙀💻 (@shanecurcuru) <a href="https://twitter.com/shanecurcuru/status/1044943270713929728?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">⁦<a href="https://twitter.com/ApacheCon?ref_src=twsrc%5Etfw">@ApacheCon</a>⁩ <a href="https://twitter.com/hashtag/apachecon?src=hash&amp;ref_src=twsrc%5Etfw">#apachecon</a> <a href="https://t.co/Lz8kcdSCva">pic.twitter.com/Lz8kcdSCva</a></p>&mdash; Tim Spann (@PaaSDev) <a href="https://twitter.com/PaaSDev/status/1044943304524271616?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don’t just solve technical problems. Think about the way the effect society. “The people who can build that cyberpunk dystopia probably shouldn’t.”<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://t.co/f2ixplJhKR">pic.twitter.com/f2ixplJhKR</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044943440612610048?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tech truth #4: avoiding sadness as a service. <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://t.co/lNcb7LA950">pic.twitter.com/lNcb7LA950</a></p>&mdash; Nithya Ruff (@nithyaruff) <a href="https://twitter.com/nithyaruff/status/1044943642400616450?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">QotD: They’re not NPCs. They’re protagonists in their own narratives. — <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a></p>&mdash; Stephen Walli (@stephenrwalli) <a href="https://twitter.com/stephenrwalli/status/1044943761917317125?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">‘Legacy’ is where your customers and money live. Don’t just leave people behind there and make them feel like they don’t get to do the cool stuff.<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Myrle Krantz (@myrleKrantz) <a href="https://twitter.com/myrleKrantz/status/1044943965324279808?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You also need to balance customer service with retaining the great people working for you. It&#39;s about people.<a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a></p>&mdash; Shane Curcuru 🙀💻 (@shanecurcuru) <a href="https://twitter.com/shanecurcuru/status/1044945557603659776?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">. <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> shares 5 truths about tech... common denominator of all of them: they all involve personal interaction <a href="https://twitter.com/hashtag/ApacheCon?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheCon</a></p>&mdash; Jim Jagielski (@jimjag) <a href="https://twitter.com/jimjag/status/1044945309816823808?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+    </div>
+  </article>
+  <div class="mw8 center">
+    
+    <section class="flex-ns flex-wrap justify-around mt5">
+      
+    </section>
+  
+
+  </div>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://bridgetkromhout.com/" >
+    &copy; 2018 Bridget Kromhout
+  </a>
+  
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+  </div>
+</footer>
+
+    <script src="https://bridgetkromhout.com/dist/app.bundle.js" async></script>
+
+  </body>
+</html>
