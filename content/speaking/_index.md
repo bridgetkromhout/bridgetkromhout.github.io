@@ -14,10 +14,6 @@ Categories = []
 
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ny/public/schedule/detail/70102">Velocity New York - Kubernetes 101</a><br>New York City, NY<br><span class="date-display-start">2018-10-01</span></span></div>
-
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://ohiolinux.org/bridget-kromhout-to-keynote-olf2018/">Ohio LinuxFest - Containers will not fix your broken culture (and other hard truths) (Keynote) </a><br>Columbus, OH<br><span class="date-display-start">2018-10-12</span> to <span class="date-display-end">2018-10-13</span></span></div>
 
 
@@ -53,6 +49,10 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ny/public/schedule/detail/70102">Velocity New York - Kubernetes 101</a><br>New York City, NY<br><span class="date-display-start">2018-10-01</span></span></div>
+
+<br>
 
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/apachecon/">ApacheCon - Containers will not fix your broken culture (and other hard truths) (Keynote)</a><br>Montreal, Canada<br><span class="date-display-start">2018-09-26</span></span></div>
