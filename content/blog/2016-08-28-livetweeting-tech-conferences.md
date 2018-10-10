@@ -7,7 +7,7 @@ featured_image = "/images/kitties.png"
 Categories = []
 +++
 
-I go to tech conferences like it’s my job. (Since I do tech advocacy for [Cloud Foundry](https://pivotal.io/platform) at [Pivotal](https://pivotal.io/), technically it _is_ part of my job these days.) At these events I tweet _a lot_, to the point where people notice and ask me about it. Sometimes I tell the curious a little about my process; their reactions range from “lolwat” to “you should write that down”. So, here is how I livetweet tech conferences.
+I go to tech conferences like it’s my job. (Since I do tech advocacy for [Cloud Foundry](https://pivotal.io/platform) at [Pivotal](https://pivotal.io/), technically it _is_ part of my job these days.) _(2018 update: These days, I'm on the [Cloud Developer Advocates](https://developer.microsoft.com/en-us/advocates/) team for Microsoft Azure; still lots of livetweeting.)_ At these events I tweet _a lot_, to the point where people notice and ask me about it. Sometimes I tell the curious a little about my process; their reactions range from “lolwat” to “you should write that down”. So, here is how I livetweet tech conferences.
 <!-- more -->
 
 **What is this livetweeting thing anyhow?**
@@ -30,7 +30,7 @@ Slack is fine as an easy way to connect with other attendees at an event, but do
 
 It’s great when conferences collect speaker Twitter handles ahead of time and post them on the conference site, ideally in the speaker’s bio, which should appear on the talk detail page. I’m also a fan of speakers putting their Twitter handles on their slides. Yes, _every_ slide. What if I didn’t take a picture or transcribe it when it was on the screen at first, and now I want to tweet about your awesome talk while it’s still happening (drawing in anyone bored out in the hallway), but first I have to dig up your Twitter handle via some hasty Googling on my phone?
 
-For rapid-fire events with a speaker list that’s easy to check ahead of time (like keynotes and Ignite talks), I am sometimes ambitious enough to create drafts in Tweetbot with the speaker Twitter handles and conference hashtag pre-populated.
+For rapid-fire events with a speaker list that’s easy to check ahead of time (like keynotes and Ignite talks), I am sometimes ambitious enough to create drafts in Tweetbot with the speaker Twitter handles and conference hashtag pre-populated. (As of 2018, Twitter has made the third-party clients less-featureful but I still prefer tweeting with Tweetbot.)
 
 And yes, I realize that sometimes people have their own reasons for not using Twitter. Even if someone doesn’t actively tweet, I like when they register a Twitter account in their name with the profile linking to wherever they can _really_ be found on the internets, because I want to give them credit for their words without spelling out their whole name. Not everyone has a Google-unique name, and if Twitter is auto-completing the wrong handle, a livetweeter might accidentally use that (especially if the right answer was “oh, there isn’t one”).
 
@@ -58,7 +58,8 @@ Whether on my phone or on my laptop I always try to have the location set, becau
 
 Livetweeting means paying close attention, and it’s a different kind of attention than the absorption of learning. It’s easier to livetweet a talk if I’ve seen the speaker speak before, but even if I haven’t, it means listening both for the quotable lines and for those brilliant insights that are going to be incredibly difficult to fit into a tweet. (I always try to get the speaker’s Twitter handle and the conference hashtag into relevant tweets.)
 
-If I think I might want to transcribe lots of direct quotes, I might use both laptop and phone. Laptop is mostly for “what was the speaker’s Twitter handle” or “let me Google up that repo they mentioned offhand” or suchlike. (Some people use a different style - I like how [Jessica Kerr](https://twitter.com/jessitron) [adds marginalia](https://twitter.com/jessitron/status/759080993244450817).)
+If I think I might want to transcribe lots of direct quotes, I might use both laptop and phone. Laptop is mostly for “what was the speaker’s Twitter handle” or “let me Google up that repo they mentioned offhand” or suchlike. (Some people use a different style - I like how [Jessica Kerr](https://twitter.com/jessitron) [adds marginalia](https://twitter.com/jessitron/status/759080993244450817).) _(2018 update: My style isn't the only style, particularly with how picture-heavy my style is. Other styles include far more comprehensive text. I refer you to [Liz Fong-Jones](https://twitter.com/lizthegrey) and [Heidi Waterhouse](https://twitter.com/wiredferret) for excellent livetweeting that differs from mine.)_
+
 
 Structurally, I don’t begin my tweets with the speaker’s Twitter handle, as in that case Twitter is only going to show the tweet in the feed for my followers who also happen to follow that speaker. Some people solve this by prefixing the Twitter handle with a . but I prefer to phrase my tweets about a speaker’s talk so as not to start with their handle. (In theory this is changing at some point; I'll be interested as to how usable or unusable that makes reading the firehose of an already-active Twitter feed.)
 
@@ -75,7 +76,7 @@ Often I take pictures of slides, but I almost always tweet them with another pic
 
 If you’re giving a talk and have a great slide you love, be sure to leave it on screen long enough for people to laugh/cry and then grab their phones to take a picture of it! Bonus points if the slide has a large word or two but not a wall of text. As my coworker [Coté](https://twitter.com/cote) puts it, corporate slides are word docs in landscape form. I think those are difficult to read from the back of an auditorium.
 
-I usually want at least one picture-containing tweet per talk, which as of this writing cuts into your 140 character budget, much like links, Twitter handles, and hashtags. (In theory Twitter is changing a lot of those limitations Real Soon Now.) While I don’t particularly want \<lj-cut\> to be necessary on Twitter, I’d appreciate being able to add the current number of allowed photos (1 to 4) without them taking up text characters in the tweet.
+I usually want at least one picture-containing tweet per talk, which _no longer_ cuts into your _280_ character budget, while links, Twitter handles, and hashtags still do. While I don’t particularly want \<lj-cut\> to be necessary on Twitter, I appreciate now being able to add 1-4 photos without them taking up text characters in the tweet. _(2018 update: edited to reflect current reality.)_
 
 
 **When I don’t tweet**
@@ -122,7 +123,7 @@ This is likely to happen if I’m acting as a track host at Velocity but also wa
 
 This might sound like a lot of work, but it’s truly a lot of fun. I love connecting people and giving attention to thought-provoking ideas in tech, and I hear lots of positive reactions from people who get value out of my conference tweets.
 
-As a speaker, I enjoy it a great deal when people tweet during my talks, and I even embed tweets in the talk page after the fact (like for [my keynote at SpringOne Platform 2016](http://bridgetkromhout.com/speaking/2016/springone-platform/)). My greatest motivation to livetweet talks is that the speakers are putting work into giving me talks I’m learning from and enjoying; I’m happy to give them a 140-character review they can retweet, quote, embed, send to their parents, drop into their work Slack, or enjoy in whatever way makes them smile.
+As a speaker, I enjoy it a great deal when people tweet during my talks, and I even embed tweets in the talk page after the fact (like for [my keynote at SpringOne Platform 2016](http://bridgetkromhout.com/speaking/2016/springone-platform/)). My greatest motivation to livetweet talks is that the speakers are putting work into giving me talks I’m learning from and enjoying; I’m happy to give them a 280-character review they can retweet, quote, embed, send to their parents, drop into their work Slack, or enjoy in whatever way makes them smile.
 
 <hr>
 
