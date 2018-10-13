@@ -12,12 +12,6 @@ Categories = []
 <br>
 
 
-<br>
-
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://ohiolinux.org/bridget-kromhout-to-keynote-olf2018/">Ohio LinuxFest - Containers will not fix your broken culture (and other hard truths) (Keynote) </a><br>Columbus, OH<br><span class="date-display-start">2018-10-12</span> to <span class="date-display-end">2018-10-13</span></span></div>
-
-
-<br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.hashiconf.com/speakers#bridget-kromhout-zachary-deptawa">HashiConf - Day Two Kubernetes: Tools for Operability</a><br>San Francisco, CA<br><span class="date-display-start">2018-10-22</span> to <span class="date-display-end">2018-10-24</span></span></div>
 
@@ -49,6 +43,12 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/ohiolinux/">Ohio LinuxFest - Containers will not fix your broken culture (and other hard truths) (Keynote) </a><br>Columbus, OH<br><span class="date-display-start">2018-10-12</span> to <span class="date-display-end">2018-10-13</span></span></div>
+
+
+<br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ny/public/schedule/detail/70102">Velocity New York - Kubernetes 101</a><br>New York City, NY<br><span class="date-display-start">2018-10-01</span></span></div>
 
