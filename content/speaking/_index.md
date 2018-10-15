@@ -39,6 +39,9 @@ Categories = []
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://melbourne.yowconference.com.au/profile/?id=bridget-kromhout">YOW! Melbourne - Cloud, Containers, Kubernetes</a><br>Melbourne, Australia<br><span class="date-display-start">2018-12-06</span> to <span class="date-display-end">2018-12-07</span></span></div>
 
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/GrY7">KubeCon - Day Two Kubernetes: Tools for Operability</a><br>Seattle, WA<br><span class="date-display-start">2018-12-10</span> to <span class="date-display-end">2018-12-13</span></span></div>
 
 <h2>Past</h2>
 
