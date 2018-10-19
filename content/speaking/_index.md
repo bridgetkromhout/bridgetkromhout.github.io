@@ -25,7 +25,15 @@ Categories = []
 
 <br>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.eventbrite.com/e/implement-kubernetes-how-to-orchestrate-distributed-and-stateful-services-registration-51090096855?aff=ormconf">Velocity London Meetup - Day 2 Kubernetes: Tools for Operability</a><br>London, UK<br><span class="date-display-start">2018-10-31</span></span></div>
+
+<br>
+
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://qconsf.com/sf2018/presentation/day-two-kubernetes-tools-operability">QCon SF - Day Two Kubernetes: Tools for Operability</a><br>San Francisco, CA<br><span class="date-display-start">2018-11-05</span></span></div>
+
+<br>
+
+div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://phillyopensource.splashthat.com/">Philadelphia Open Source</a><br>Philadelphia, PA<br><span class="date-display-start">2018-11-07</span></span></div>
 
 <br>
 
