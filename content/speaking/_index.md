@@ -33,7 +33,7 @@ Categories = []
 
 <br>
 
-div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://phillyopensource.splashthat.com/">Philadelphia Open Source</a><br>Philadelphia, PA<br><span class="date-display-start">2018-11-07</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://phillyopensource.splashthat.com/">Philadelphia Open Source</a><br>Philadelphia, PA<br><span class="date-display-start">2018-11-07</span></span></div>
 
 <br>
 
