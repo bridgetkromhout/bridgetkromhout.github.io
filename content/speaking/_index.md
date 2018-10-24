@@ -13,10 +13,6 @@ Categories = []
 
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.hashiconf.com/speakers#bridget-kromhout-zachary-deptawa">HashiConf - Day Two Kubernetes: Tools for Operability</a><br>San Francisco, CA<br><span class="date-display-start">2018-10-22</span> to <span class="date-display-end">2018-10-24</span></span></div>
-
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://vxdms2018.confinabox.com/talk/WZI-5589/distributed:_of_systems_and_teams">VoxxedDays Microservices - distributed: of systems and teams</a><br>Paris, France<br><span class="date-display-start">2018-10-29</span></span></div>
 
 <br>
@@ -54,6 +50,10 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/hashiconf">HashiConf - Day Two Kubernetes: Tools for Operability</a><br>San Francisco, CA<br><span class="date-display-start">2018-10-22</span> to <span class="date-display-end">2018-10-24</span></span></div>
+
 <br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/ohiolinux/">Ohio LinuxFest - Containers will not fix your broken culture (and other hard truths) (Keynote) </a><br>Columbus, OH<br><span class="date-display-start">2018-10-12</span> to <span class="date-display-end">2018-10-13</span></span></div>
