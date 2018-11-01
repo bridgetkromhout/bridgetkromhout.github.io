@@ -9,16 +9,6 @@ Categories = []
 <br>
 <br>
 <h2>Upcoming</h2>
-<br>
-
-
-
-
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-eu/public/schedule/detail/71149">Velocity London - Kubernetes 101</a><br>London, UK<br><span class="date-display-start">2018-10-31</span></span></div>
-
-<br>
-
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.eventbrite.com/e/implement-kubernetes-how-to-orchestrate-distributed-and-stateful-services-registration-51090096855?aff=ormconf">Velocity London Meetup - Day 2 Kubernetes: Tools for Operability</a><br>London, UK<br><span class="date-display-start">2018-10-31</span></span></div>
 
 <br>
 
@@ -47,6 +37,13 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/velocity-eu-meetup">Velocity London Meetup - Day 2 Kubernetes: Tools for Operability</a><br>London, UK<br><span class="date-display-start">2018-10-31</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/velocity-eu">Velocity London - Kubernetes 101</a><br>London, UK<br><span class="date-display-start">2018-10-31</span></span></div>
+
 <br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/voxxed-microservices/">VoxxedDays Microservices - the endless now: distributed systems & teams</a><br>Paris, France<br><span class="date-display-start">2018-10-29</span></span></div>
 
