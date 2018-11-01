@@ -808,6 +808,18 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/velocity-eu-meetup/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/velocity-eu/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2014/velocity-newyork/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
