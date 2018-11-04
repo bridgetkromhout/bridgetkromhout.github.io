@@ -23,9 +23,6 @@ Slides: <a href="https://velny-k8s101-2018.container.training/">Kubernetes 101</
 <br>
 Tweets
 <br>
-{{< tweet 1006666022881902594 >}}
-{{< tweet 1006693011651100672 >}}
-{{< tweet 1008833916583673856 >}}
 {{< tweet 1046575072222351361 >}}
 {{< tweet 1046742668024467459 >}}
 {{< tweet 1046750554003841026 >}}
