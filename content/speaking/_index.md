@@ -12,10 +12,6 @@ Categories = []
 
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://phillyopensource.splashthat.com/">Philadelphia Open Source</a><br>Philadelphia, PA<br><span class="date-display-start">2018-11-07</span></span></div>
-
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sydney.yowconference.com.au/profile/?id=bridget-kromhout">YOW! Sydney - Cloud, Containers, Kubernetes</a><br>Sydney, Australia<br><span class="date-display-start">2018-11-29</span> to <span class="date-display-end">2018-11-30</span></span></div>
 
 <br>
@@ -33,6 +29,10 @@ Categories = []
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/phillyopensource/">Philadelphia Open Source</a><br>Philadelphia, PA<br><span class="date-display-start">2018-11-07</span></span></div>
+
+<br>
 <br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/qconsf/">QCon SF - Day Two Kubernetes: Tools for Operability</a><br>San Francisco, CA<br><span class="date-display-start">2018-11-05</span></span></div>
