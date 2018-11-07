@@ -30,7 +30,7 @@ Categories = []
 
 <h3>2018</h3>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/phillyopensource/">Philadelphia Open Source</a><br>Philadelphia, PA<br><span class="date-display-start">2018-11-07</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/phillyopensource/">Philadelphia Open Source: Day Two Kubernetes - Tools for Operability</a><br>Philadelphia, PA<br><span class="date-display-start">2018-11-07</span></span></div>
 
 <br>
 <br>
