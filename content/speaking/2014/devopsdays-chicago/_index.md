@@ -61,10 +61,8 @@ Forget hipster DevOps versus enterprise DevOps. The DevOps in the window is just
 {{< tweet 519499519227346944 >}}
 {{< tweet 519499811062837249 >}}
 {{< tweet 519499950737354752 >}}
-{{< tweet 519500154408562688 >}}
 {{< tweet 519500260411195392 >}}
 {{< tweet 519500570957459456 >}}
-{{< tweet 519500575055302657 >}}
 {{< tweet 519501141756104704 >}}
 {{< tweet 519501280222662656 >}}
 {{< tweet 519501354520543232 >}}

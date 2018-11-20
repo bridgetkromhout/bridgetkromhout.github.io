@@ -6,7 +6,7 @@ featured_image = "/images/kitties.png"
 Categories = []
 +++
 
-Cutting right to the chase: those selecting talks for a conference want to know what’s in it for their attendees? If your talk proposal lays that out clearly, it increases your chances of being selected to speak. So for every talk proposal, make sure you can articulate what your actionable takeaways are. But! Lots of other stuff goes into getting on that stage; let’s talk about it.
+Cutting right to the chase: those selecting talks for a conference want to know, what’s in it for their attendees? If your talk proposal lays that out clearly, it increases your chances of being selected to speak. So for every talk proposal, make sure you can articulate what your actionable takeaways are. But! Lots of other stuff goes into getting on that stage; let’s talk about it.
 
 <!-- more -->
 

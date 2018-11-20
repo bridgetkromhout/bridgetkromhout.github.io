@@ -24,7 +24,6 @@ I'm told DevOps isn't a title, team, or task, but (perhaps because my hiring man
 <br>
 
 {{< tweet 472083014831595520 >}}
-{{< tweet 472085215012073472 >}}
 {{< tweet 472086334367342592 >}}
 
 
