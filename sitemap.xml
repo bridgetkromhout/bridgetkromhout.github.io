@@ -232,6 +232,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/yow-brisbane/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2018/yow-sydney/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
