@@ -238,6 +238,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/yow-melbourne/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2018/yow-sydney/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
