@@ -12,15 +12,30 @@ Categories = []
 
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://melbourne.yowconference.com.au/profile/?id=bridget-kromhout">YOW! Melbourne - Cloud, Containers, Kubernetes</a><br>Melbourne, Australia<br><span class="date-display-start">2018-12-06</span> to <span class="date-display-end">2018-12-07</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/GrY7">KubeCon - Day Two Kubernetes: Tools for Operability</a><br>Seattle, WA<br><span class="date-display-start">2018-12-10</span> to <span class="date-display-end">2018-12-13</span></span></div>
 
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/GrY7">KubeCon - Day Two Kubernetes: Tools for Operability</a><br>Seattle, WA<br><span class="date-display-start">2018-12-10</span> to <span class="date-display-end">2018-12-13</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.meetup.com/Minneapolis-Kubernetes-Meetup/events/256841441/">Cloud Native Minneapolis Meetup - Kubernetes Operability Tooling</a><br>Minneapolis, MN<br><span class="date-display-start">2018-12-17</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.microsoft.com/nb-no/leap/">Microsoft LEAP - Kubernetes Operability Tooling</a><br>Seattle, WA<br><span class="date-display-start">2019-01-30</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://gotochgo.com/2019/sessions/741">GOTO Chicago - Kubernetes Operability Tooling</a><br>Chicago, IL<br><span class="date-display-start">2019-04-30</span></span></div>
+
+<br>
 
 <h2>Past</h2>
 
 <h3>2018</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/yow-melbourne/">YOW! Melbourne - Cloud, Containers, Kubernetes</a><br>Melbourne, Australia<br><span class="date-display-start">2018-12-06</span> to <span class="date-display-end">2018-12-07</span></span></div>
+
+<br>
+
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2018/yow-brisbane/">YOW! Brisbane - Cloud, Containers, Kubernetes</a><br>Brisbane, Australia<br><span class="date-display-start">2018-12-03</span> to <span class="date-display-end">2018-12-04</span></span></div>
 
