@@ -21,6 +21,11 @@ Slides
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/2PrOQTG0IVd1DH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/day-2-kubernetes-tools-for-operability-kubecon" title="Day 2 Kubernetes - Tools for Operability (KubeCon)" target="_blank">Day 2 Kubernetes - Tools for Operability (KubeCon)</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
 <br>
 
+Video
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I82BIo84dsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</br>
+
 Tweets
 <br>
 {{< tweet 1072556625339301890 >}}
@@ -29,6 +34,7 @@ Tweets
 {{< tweet 1072562837036429312 >}}
 {{< tweet 1072562883760926720 >}}
 {{< tweet 1072563155480559616 >}}
+{{< tweet 1072564839724257283 >}}
 {{< tweet 1072565419435802624 >}}
 {{< tweet 1072565658175582209 >}}
 {{< tweet 1072565682527711233 >}}
@@ -39,7 +45,12 @@ Tweets
 {{< tweet 1072565961776136194 >}}
 {{< tweet 1072565988326039553 >}}
 {{< tweet 1072565992201572352 >}}
+{{< tweet 1072566926575108097 >}}
 {{< tweet 1072567118200274947 >}}
+{{< tweet 1072568563167309824 >}}
+{{< tweet 1072568712660729856 >}}
+{{< tweet 1072568923135070211 >}}
+{{< tweet 1072570743794425858 >}}
 {{< tweet 1072569621029507072 >}}
 {{< tweet 1072569622304563206 >}}
 {{< tweet 1072571952659861506 >}}
@@ -69,6 +80,8 @@ Tweets
 {{< tweet 1072612317928534016 >}}
 {{< tweet 1072616654322970626 >}}
 {{< tweet 1072572566970294273 >}}
+{{< tweet 1072572055965585409 >}}
+{{< tweet 1072572133488906240 >}}
 {{< tweet 1072572588180811776 >}}
 {{< tweet 1072574243169288193 >}}
 {{< tweet 1072614406826147844 >}}
