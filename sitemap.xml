@@ -586,6 +586,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/mpls-k8s/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2015/velocity-newyork-ignite/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
