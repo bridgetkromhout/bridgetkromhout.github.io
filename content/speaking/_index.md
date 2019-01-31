@@ -12,15 +12,18 @@ Categories = []
 
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.microsoft.com/nb-no/leap/">Microsoft LEAP - Kubernetes Operability Tooling</a><br>Seattle, WA<br><span class="date-display-start">2019-01-30</span></span></div>
-
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://gotochgo.com/2019/sessions/741">GOTO Chicago - Kubernetes Operability Tooling</a><br>Chicago, IL<br><span class="date-display-start">2019-04-30</span></span></div>
 
 <br>
 
 <h2>Past</h2>
+<br>
+<h3>2019</h3>
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/leap/">Microsoft LEAP - Kubernetes Operability Tooling</a><br>Seattle, WA<br><span class="date-display-start">2019-01-30</span></span></div>
+
+<br>
+
 
 <h3>2018</h3>
 <br>
