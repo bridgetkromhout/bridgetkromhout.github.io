@@ -16,4 +16,8 @@ footer: false
 {{< tweet 793817402656030720 >}}
 {{< tweet 793817886414569472 >}}
 {{< tweet 793818087418134528 >}}
-{{< tweet 793817930677022720 >}}
+
+<pre>"Babylon 5 is integral to DevOps. True fact." @bridgetkromhout #devopsdays
+
+— Alison (@alison985) November 2, 2016
+</pre>

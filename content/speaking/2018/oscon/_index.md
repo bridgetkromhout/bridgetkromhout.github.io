@@ -18,7 +18,12 @@ Tweets
 <br>
 {{< tweet 1019268336129982465 >}}
 {{< tweet 1019245993202577409 >}}
-{{< tweet 1019251183213424640 >}}
+<pre>
+@bridgetkromhout kicking off her #Kubernetes 101 session at #oscon pic.twitter.com/M4v9nUuzXi
+
+— Benjamin Kerensa (@bkerensa) July 17, 2018
+</pre>
+
 {{< tweet 1019253736781168640 >}}
 {{< tweet 1019256470011908097 >}}
 {{< tweet 1019258196903358464 >}}
