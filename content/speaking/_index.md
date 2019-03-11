@@ -23,6 +23,10 @@ Categories = []
 
 <br>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="">OSCON - Helm 3: Navigating To Distant Shores</a><br>Portland, OR<br><span class="date-display-start">2019-07-15</span> to <span class="date-display-end">2019-07-18</span></span></div>
+
+<br>
+
 <h2>Past</h2>
 <br>
 <h3>2019</h3>
