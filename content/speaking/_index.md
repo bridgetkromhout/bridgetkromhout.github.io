@@ -10,12 +10,23 @@ Categories = []
 <br>
 <h2>Upcoming</h2>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.usenix.org/conference/srecon19americas/program">SREcon - Livetweeting Tech Conferences (Ignite)</a><br>New York City, NY<br><span class="date-display-start">2019-03-26</span></span></div>
+
+<br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.devopsdays.org/events/2019-seattle/program/burns-kromhout/">devopsdays Seattle - Kubernetes Operability Tooling</a><br>Seattle, WA<br><span class="date-display-start">2019-04-23</span> to <span class="date-display-end">2019-04-24</span></span></div>
 
 <br>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sessions.minnestar.org/sessions/735">Minnebar - Kubernetes Operability Tooling</a><br>Minneapolis, MN<br><span class="date-display-start">2019-04-27</span></span></div>
+
+<br>
+
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://gotochgo.com/2019/sessions/741">GOTO Chicago - Kubernetes Operability Tooling</a><br>Chicago, IL<br><span class="date-display-start">2019-04-30</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/MPXf">KubeCon EU - Helm 3: Navigating to Distant Shores</a><br>Barcelona, Spain<br><span class="date-display-start">2019-05-23</span></span></div>
 
 <br>
 
