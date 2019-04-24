@@ -605,6 +605,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2019/devopsdays-seattle/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2019/leap/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -636,6 +642,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2018/scale-summit/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2019/srecon-americas/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
