@@ -18,7 +18,12 @@ Monitoring in the age of containers, microservices, and cloud: let's talk about 
 <br>
 
 {{< tweet 780812363691859968 >}}
-{{< tweet 780834032816762880 >}}
+<pre>
+@jasonhand intro of @bridgetkromhout #DevOpsRoadtrip @DevOpsMsp pic.twitter.com/P0YtNkeRMf
+
+— Brent Nelson (@lilydalekid) September 27, 2016
+</pre>
+
 {{< tweet 780834070842511360 >}}
 {{< tweet 780834954792079360 >}}
 {{< tweet 780835127643377665 >}}

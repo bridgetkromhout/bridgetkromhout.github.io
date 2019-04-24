@@ -36,7 +36,12 @@ We'll detail how we're reducing deployment overhead and increasing maintainabili
 {{< tweet 583373288962846720 >}}
 {{< tweet 583380097836564480 >}}
 {{< tweet 583380307237175296 >}}
-{{< tweet 583381253623169024 >}}
+<pre>
+@dmarsh @bridgetkromhout Loving her talk!
+
+— Ines Sombra (@randommood) April 1, 2015
+</pre>
+
 {{< tweet 583381355121115141 >}}
 {{< tweet 583382501457969152 >}}
 {{< tweet 583384681346809858 >}}

@@ -32,17 +32,51 @@ The operational needs of a continuously delivered microservice architecture brin
 <br>
 <br>
 {{< tweet 666754241717891072 >}}
-{{< tweet 666755814737121280 >}}
-{{< tweet 666756057440489472 >}}
+<pre>
+"If you are building something local to your organization then your expertise becomes local to your organization" @bridgetkromhout #qconsf
+
+— Ines Sombra (@randommood) November 17, 2015
+</pre>
+
+<pre>
+@bridgetkromhout drops knowledge like its hot #qconsf pic.twitter.com/8VOe3lSy8N
+
+— Ines Sombra (@randommood) November 17, 2015
+</pre>
+
 {{< tweet 666756479026790402 >}}
-{{< tweet 666756634098597888 >}}
+
+<pre>
+"Just because you can build things it doesn't mean you should" the wisdom of @bridgetkromhout #QConSF pic.twitter.com/w6FVR71jNt
+
+— Ines Sombra (@randommood) November 17, 2015
+</pre>
+
 {{< tweet 666756662506553344 >}}
-{{< tweet 666757152057352194 >}}
+
+<pre>
+So true!! Periodic reminder that shitty lives forever from @littleidea & @bridgetkromhout #QConSF pic.twitter.com/5sM0SrRyb9
+
+— Ines Sombra (@randommood) November 17, 2015
+</pre>
+
 {{< tweet 666757600696905728 >}}
 {{< tweet 666758069557194752 >}}
-{{< tweet 666760080008699906 >}}
+
+<pre>
+Ridiculously excellent talk by @bridgetkromhout @QConSF really hoping the video will be out soon #mustwatch
+
+— Ines Sombra (@randommood) November 17, 2015
+</pre>
+
 {{< tweet 666761467102822400 >}}
-{{< tweet 666763054122532871 >}}
+
+<pre>
+@starbuxman SHE HAS MY VOTE!! 😍 such an amazing talk @bridgetkromhout @caseywest
+
+— Ines Sombra (@randommood) November 17, 2015
+</pre>
+
 {{< tweet 666763188495495172 >}}
 {{< tweet 666770291280904192 >}}
 {{< tweet 666783524649893890 >}}

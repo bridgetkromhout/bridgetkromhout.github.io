@@ -27,6 +27,12 @@ Tweets
 {{< tweet 1046742668024467459 >}}
 {{< tweet 1046750554003841026 >}}
 {{< tweet 1046775740929363970 >}}
-{{< tweet 1046781543769952256 >}}
+
+<pre>
+Kubernetes 101 @velocityconf by @bridgetkromhout #VelocityConf pic.twitter.com/IB3Mv5P0qT
+
+— ameet ❄️ (@ameetkotian) October 1, 2018
+</pre>
+
 {{< tweet 1046810438061752321 >}}
 
