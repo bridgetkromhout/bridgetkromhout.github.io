@@ -24,7 +24,7 @@ Slides
 
 Video
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bQ62qI9IPP8&feature=youtu.be&t=158" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=bQ62qI9IPP8&feature=youtu.be&t=158">Lightning talks</a>
 <br>
 
 
