@@ -51,7 +51,10 @@ Twitter reactions:
 {{< tweet 708287885032759296 >}}
 {{< tweet 708288493835911168 >}}
 {{< tweet 708288768319614976 >}}
-{{< tweet 708289068866658304 >}}
+<pre>"In order to become Cloud Native do you have to go through the Cloud Immigration and Naturalization Services?" - @bridgetkromhout
+
+— Tyler McMullen (@tbmcmullen) March 11, 2016
+</pre>
 {{< tweet 708289128941666304 >}}
 {{< tweet 708289960433065984 >}}
 {{< tweet 708290444581593088 >}}
