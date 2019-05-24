@@ -25,6 +25,10 @@ Slides
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/5T38Zyi21jM0p4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/helm-3-navigating-to-distant-shores-kubecon-eu-2019" title="Helm 3: Navigating to Distant Shores (KubeCon EU 2019)" target="_blank">Helm 3: Navigating to Distant Shores (KubeCon EU 2019)</a> </strong> from <strong><a href="//www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
 <br>
 
+Video
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lYzrhzLAxUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Tweets
 <br>
 {{< tweet 1131527696356241410 >}}
