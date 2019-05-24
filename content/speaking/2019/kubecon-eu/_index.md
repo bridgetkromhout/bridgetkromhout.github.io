@@ -28,6 +28,7 @@ Slides
 Video
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYzrhzLAxUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>
 
 Tweets
 <br>
@@ -137,3 +138,4 @@ Tweets
 {{< tweet 1131551515045433344 >}}
 {{< tweet 1131561413045039104 >}}
 {{< tweet 1131934304387227649 >}}
+
