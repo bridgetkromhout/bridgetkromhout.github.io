@@ -14,9 +14,6 @@ Categories = []
 <br>
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/MPXf">KubeCon EU - Helm 3: Navigating to Distant Shores</a><br>Barcelona, Spain<br><span class="date-display-start">2019-05-23</span></span></div>
-
-<br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/76390">OSCON - Kubernetes 201: Production Tooling</a><br>Portland, OR<br><span class="date-display-start">2019-07-15</span> to <span class="date-display-end">2019-07-18</span></span></div>
 
@@ -29,6 +26,9 @@ Categories = []
 <h2>Past</h2>
 <br>
 <h3>2019</h3>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/kubecon-eu/">KubeCon EU - Helm 3: Navigating to Distant Shores</a><br>Barcelona, Spain<br><span class="date-display-start">2019-05-23</span></span></div>
 
 <br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/gotochgo">GOTO Chicago - Kubernetes Operability Tooling</a><br>Chicago, IL<br><span class="date-display-start">2019-04-30</span></span></div>
