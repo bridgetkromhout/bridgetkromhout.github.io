@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bridgetkromhout.com/</loc>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/blog/</loc>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/blog/on-snow-and-scaling/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -129,51 +143,37 @@
   </url>
   
   <url>
-    <loc>https://bridgetkromhout.com/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://bridgetkromhout.com/speaking/2013/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2014/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2015/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2016/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2017/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2018/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2019/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
@@ -202,15 +202,7 @@
   </url>
   
   <url>
-    <loc>https://bridgetkromhout.com/blog/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://bridgetkromhout.com/categories/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
@@ -545,6 +537,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2019/kubecon-eu/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2014/clouddevelop/notes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -822,7 +820,6 @@
   
   <url>
     <loc>https://bridgetkromhout.com/tags/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
