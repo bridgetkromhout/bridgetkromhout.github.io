@@ -55,7 +55,11 @@ Tweets
 {{< tweet 867152659538751488 >}}
 {{< tweet 867153309018210304 >}}
 {{< tweet 867153958103425024 >}}
-{{< tweet 867154274920181761 >}}
+<pre>
+love the shoutout to this tweet from @bridgetkromhout #monitorama https://t.co/PVZAlKgPIw
+
+— brandon burton (afk) (@solarce) May 23, 2017
+</pre>
 {{< tweet 867156756555640832 >}}
 {{< tweet 867155296107376641 >}}
 {{< tweet 867155759745818624 >}}
