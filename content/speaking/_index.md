@@ -29,7 +29,7 @@ Categories = []
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/PUTD">Open Source Summit - Helm 3: Navigating To Distant Shores</a><br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
 
 <br>
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/PUT7">Open Source Summit - Join Our Party: The Cloud Native Adventure Brigade (with Zachary Deptawa</a><br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/PUT7">Open Source Summit - Join Our Party: The Cloud Native Adventure Brigade (with Zachary Deptawa)</a><br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
 
 
 <br>
