@@ -13,6 +13,9 @@ Categories = []
 
 <br>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/79270">Community projects inform enterprise products (sponsored by Microsoft Azure)</a> with Lachlan Evenson<br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
+
+<br>
 
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/76390">OSCON - Kubernetes 201: Production Tooling</a><br>Portland, OR<br><span class="date-display-start">2019-07-15</span> to <span class="date-display-end">2019-07-18</span></span></div>
@@ -23,6 +26,13 @@ Categories = []
 
 <br>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/PUTD">Open Source Summit - Helm 3: Navigating To Distant Shores</a><br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/PUT7">Open Source Summit - Join Our Party: The Cloud Native Adventure Brigade (with Zachary Deptawa</a><br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
+
+
+<br>
 <h2>Past</h2>
 <br>
 <h3>2019</h3>

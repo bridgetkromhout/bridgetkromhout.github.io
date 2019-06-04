@@ -16,6 +16,12 @@ I co-host Arrested DevOps (since November 2014) with Matt Stratton and Trevor He
 
 <h2>Guest appearances</h2>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.thecube.net/kubecon-eu-2019/content/Videos/4AeQrZNMsgHLdtjo8">theCube live at KubeCon EU 2019 in Barcelona</a><br />
+<span class="date-display-single">2019-05-22</span></span>  </div>
+
+Live at KubeCon EU 2019 in Barcelona, I chat about the k8s ecosystem with Stuart Miniman and Corey Quinn.
+<p>
+
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.oreilly.com/ideas/bridget-kromhout-on-kubernetes">O’Reilly Programming Podcast: Containers, orchestrators, and new projects</a><br />
 <span class="date-display-single">2018-03-08</span></span>  </div>
 
