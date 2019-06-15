@@ -13,10 +13,6 @@ Categories = []
 
 <br>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/79270">Community projects inform enterprise products (sponsored by Microsoft Azure)</a> with Lachlan Evenson<br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
-
-<br>
-
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/76390">OSCON - Kubernetes 201: Production Tooling</a><br>Portland, OR<br><span class="date-display-start">2019-07-15</span> to <span class="date-display-end">2019-07-18</span></span></div>
 
@@ -36,6 +32,13 @@ Categories = []
 <h2>Past</h2>
 <br>
 <h3>2019</h3>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/velocity-sj">Kubernetes for the Impatient</a><br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/velocity-sj-msft/">Community projects inform enterprise products (sponsored by Microsoft Azure)</a> with Lachlan Evenson<br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
 
 <br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/kubecon-eu/">KubeCon EU - Helm 3: Navigating to Distant Shores</a><br>Barcelona, Spain<br><span class="date-display-start">2019-05-23</span></span></div>
