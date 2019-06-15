@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Bridget Kromhout  | Kubernetes for the Impatient</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.55.5" />
+      
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+     <link href='https://bridgetkromhout.com/dist/main.css' rel='stylesheet' type="text/css" />
+
+     
+      <link href="https://bridgetkromhout.com/speaking/2019/velocity-sj/index.xml" rel="alternate" type="application/rss+xml" title="Bridget Kromhout" />
+      <link href="https://bridgetkromhout.com/speaking/2019/velocity-sj/index.xml" rel="feed" type="application/rss+xml" title="Bridget Kromhout" />
+      
+
+      <meta property="og:title" content="Kubernetes for the Impatient" />
+<meta property="og:description" content="Bridget Kromhout" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://bridgetkromhout.com/speaking/2019/velocity-sj/" />
+
+
+<meta itemprop="name" content="Kubernetes for the Impatient">
+<meta itemprop="description" content="Bridget Kromhout">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Kubernetes for the Impatient"/>
+<meta name="twitter:description" content="Bridget Kromhout"/>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+
+  
+  
+  <header class="cover bg-top" style="background-image: url('https://bridgetkromhout.com/images/kitties.png');">
+    <div class="bg-black-40">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://bridgetkromhout.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      Bridget Kromhout
+    </a>
+    <div class="flex-l items-center">
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/speaking/" title="Speaking page">
+              Speaking
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/writing/" title="Writing page">
+              Writing
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/podcasts/" title="Podcasts page">
+              Podcasts
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/reviews/" title="Reviews page">
+              Reviews
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          Kubernetes for the Impatient
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">                
+      <p><br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/79426">Kubernetes for the Impatient</a><br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div></p>
+
+<p><br></p>
+
+<p><br>
+<br>
+Description
+<br>
+Everyone keeps telling you that containers need orchestration, but you’re not so sure; maybe they could go for some light jazz? Or maybe serverless is here to save us from the tyranny of (virtual) machines, but meanwhile somebody’s gotta kuber some netes, and it’s likely to be you. Let’s take a walk through the cloud native landscape and talk about what’s new, what’s next, and what you need to get started with Kubernetes right now (before sentient machines have a chance to destroy us all).
+<br></p>
+
+<p>Slides
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/DovIKO2J733URy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/kubernetes-for-the-impatient-velocity-san-jose-2019" title="Kubernetes for the Impatient (Velocity San Jose 2019)" target="_blank">Kubernetes for the Impatient (Velocity San Jose 2019)</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
+<br></p>
+
+<p>Tweets
+<br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">next is <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> !! Kube for the impatient <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139219296574291968?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> walks us through the cloud native landscape and shares what’s new, what’s next, and what you need to get started with Kubernetes right now (before sentient machines have a chance to destroy us all)—now on the <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> keynote stage.</p>&mdash; O&#39;Reilly Velocity (@velocityconf) <a href="https://twitter.com/velocityconf/status/1139219428585791488?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shout out to <a href="https://twitter.com/abbyfuller?ref_src=twsrc%5Etfw">@abbyfuller</a> we love you and miss you <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139219496961396736?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❤️ the <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> talk title- Kubernetes for the impatient 😂 <a href="https://twitter.com/hashtag/velocityconf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityconf</a> <a href="https://t.co/TxlBWlUAdY">pic.twitter.com/TxlBWlUAdY</a></p>&mdash; Karthik Gaekwad (@iteration1) <a href="https://twitter.com/iteration1/status/1139219692743098373?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kube according to Babylon 5 <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>  <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/y0gY9bncFn">pic.twitter.com/y0gY9bncFn</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139219715593605120?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“You gotta have some service mesh obviously” <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>  <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139219726880481280?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/VelocityCon?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityCon</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> on Kubernetes for the impatient <a href="https://t.co/pTNJd9LpOe">pic.twitter.com/pTNJd9LpOe</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1139219782044020736?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First....was the colossus ... v custom built. <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>  <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139220008297349120?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There’s zillions of tools available, and we need some, but not most? How do we navigate this without being an expert? <a href="https://twitter.com/hashtag/VelocityCon?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityCon</a> <a href="https://t.co/rpAIVeQ9TL">pic.twitter.com/rpAIVeQ9TL</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1139220073141305344?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> you got me on slide 3 with the once in a lifetime reference 😂 <a href="https://t.co/p7FJEqClpf">pic.twitter.com/p7FJEqClpf</a></p>&mdash; Karthik Gaekwad (@iteration1) <a href="https://twitter.com/iteration1/status/1139220088886706176?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cloud...according to XKCD <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>  <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/xFYkEpFYCb">pic.twitter.com/xFYkEpFYCb</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139220113196904448?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Containers are not a rel thing” <a href="https://twitter.com/jessfraz?ref_src=twsrc%5Etfw">@jessfraz</a> being quoted by <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>  <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139220467296849921?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Anything you do in the Kubernetes ecosystem, you have a lot of decisions to make.” <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> helps navigate the <a href="https://twitter.com/CloudNativeFdn?ref_src=twsrc%5Etfw">@CloudNativeFdn</a> cloud native trail map. <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/ktlAAQXDnz">pic.twitter.com/ktlAAQXDnz</a></p>&mdash; Bryan Friedman (@bryanfriedman) <a href="https://twitter.com/bryanfriedman/status/1139220564667584512?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Step 1: only solve problems that you actually have. <a href="https://t.co/XFaRZ7ANW8">pic.twitter.com/XFaRZ7ANW8</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1139220614051352577?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Now <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> is up to talk about Kubernetes for the Impatient!<a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/NOR5rgN82b">pic.twitter.com/NOR5rgN82b</a></p>&mdash; Tom Leaman (@tleam) <a href="https://twitter.com/tleam/status/1139220850568118272?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Near the beginning of time:<br><br>We did a lot of code breaking with very purpose built machines. <br><br>Now:<br>We are now at a point where we use highly generalized hardware and abstractions that minimize our need for deep interaction (like managing data center temp)<a href="https://twitter.com/hashtag/VelocitConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocitConf</a> <a href="https://t.co/T0FymjGrHI">pic.twitter.com/T0FymjGrHI</a></p>&mdash; Tom Leaman (@tleam) <a href="https://twitter.com/tleam/status/1139220861418741760?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💯 irl container repeatable <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/velocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityConf</a> <a href="https://t.co/xa7MViyEjM">pic.twitter.com/xa7MViyEjM</a></p>&mdash; Karthik Gaekwad (@iteration1) <a href="https://twitter.com/iteration1/status/1139220914833260544?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You dont say..... 😂<a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/wqXNM6oi4e">pic.twitter.com/wqXNM6oi4e</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139220968247685120?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Containers solve a problem: repeatable deployment.<br><br>They don’t solve everything, and they give us new work and fun failure modes. <a href="https://twitter.com/hashtag/VelocityCon?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityCon</a> <a href="https://t.co/nKHKRy4lou">pic.twitter.com/nKHKRy4lou</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1139221083507183616?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“But I am not even kubering any netes yet!” <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>  <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139221234112061440?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Containers don’t solve all problems. <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> delivers a keynote on <a href="https://twitter.com/hashtag/k8s?src=hash&amp;ref_src=twsrc%5Etfw">#k8s</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/wIGmebS6Qv">https://t.co/wIGmebS6Qv</a> <a href="https://t.co/EFFKCrMTIl">pic.twitter.com/EFFKCrMTIl</a></p>&mdash; Alex Elman (@_pkill) <a href="https://twitter.com/_pkill/status/1139221700019515392?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/mickeyboxell?ref_src=twsrc%5Etfw">@mickeyboxell</a> favorite <a href="https://twitter.com/CloudNativeFdn?ref_src=twsrc%5Etfw">@CloudNativeFdn</a> tool- <a href="https://twitter.com/HelmPack?ref_src=twsrc%5Etfw">@HelmPack</a>. We also use Helm to build and deploy artifacts for <a href="https://twitter.com/OracleIaaS?ref_src=twsrc%5Etfw">@OracleIaaS</a> Container Engine. <a href="https://twitter.com/hashtag/velocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityConf</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://t.co/DiOJkxdmcR">pic.twitter.com/DiOJkxdmcR</a></p>&mdash; Karthik Gaekwad (@iteration1) <a href="https://twitter.com/iteration1/status/1139221793665720320?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Practical advice 💯 use something that confronts with the SMI spec for service mesh <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/velocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityConf</a></p>&mdash; Karthik Gaekwad (@iteration1) <a href="https://twitter.com/iteration1/status/1139221964667535360?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Late to the kubernetes party? Lucky you! The tools are better now.<a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/velocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityConf</a> <a href="https://t.co/HnuQRGkzFa">pic.twitter.com/HnuQRGkzFa</a></p>&mdash; Jessica Kerr (@jessitron) <a href="https://twitter.com/jessitron/status/1139221979586654208?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kubernetes has been our for 5 years, but you’re not late to the party. The tools keep better better with time. Bridget highlights CNAB and Porter as examples of easy ways to define workloads. <a href="https://twitter.com/hashtag/VelocityCon?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityCon</a> <a href="https://t.co/eKsjiCO0q6">pic.twitter.com/eKsjiCO0q6</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1139222073480400896?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Still think OPA is still in early stages but might prove to be a really great answer for policy definition for your cloudnative infra! <a href="https://twitter.com/hashtag/velocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityConf</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://t.co/uwYj1aPAuk">pic.twitter.com/uwYj1aPAuk</a></p>&mdash; Karthik Gaekwad (@iteration1) <a href="https://twitter.com/iteration1/status/1139222381786910720?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Consisten development, repeatable deployment <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> keeping it real ! <a href="https://twitter.com/hashtag/helm?src=hash&amp;ref_src=twsrc%5Etfw">#helm</a> <a href="https://twitter.com/hashtag/porter?src=hash&amp;ref_src=twsrc%5Etfw">#porter</a> <a href="https://twitter.com/hashtag/cnab?src=hash&amp;ref_src=twsrc%5Etfw">#cnab</a> <a href="https://twitter.com/hashtag/servicemeshintetface?src=hash&amp;ref_src=twsrc%5Etfw">#servicemeshintetface</a> focus learn choose <a href="https://twitter.com/hashtag/openpolicyagent?src=hash&amp;ref_src=twsrc%5Etfw">#openpolicyagent</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/t2LKf4R90Y">pic.twitter.com/t2LKf4R90Y</a></p>&mdash; Shikha Jain (@be_shikha) <a href="https://twitter.com/be_shikha/status/1139222754144604160?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">.....yup.... <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/qEfKu9bJ07">pic.twitter.com/qEfKu9bJ07</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139222839821627392?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please join <a href="https://twitter.com/CloudNativeFdn?ref_src=twsrc%5Etfw">@CloudNativeFdn</a> SIGs- we all need a lot of help to make cloudnative successful. It’s kind of on us if it fails <a href="https://twitter.com/hashtag/velocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityConf</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a></p>&mdash; Karthik Gaekwad (@iteration1) <a href="https://twitter.com/iteration1/status/1139222842757640192?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How do we decide what project/tool is right for us? Perhaps look at Github and the project health. Are issues being addressed? Is development open? Is there a roadmap and are things on track?<a href="https://twitter.com/hashtag/velocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityConf</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1139222874806341632?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Process is scar tissue from past experience” <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>  <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Silvia Botros (@dbsmasher) <a href="https://twitter.com/dbsmasher/status/1139223205099405312?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“We’re building a dystopia”<br><br>“It’s important that we use this reality-shaping power for good”<a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1139223282014511104?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Process is scar tissue around past failures.”<a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Heidi at #VelocityConf (@wiredferret) <a href="https://twitter.com/wiredferret/status/1139223364461969408?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Overheard from <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a>: &quot;Process is scar tissue for past failures.&quot;</p>&mdash; Gordon Myers (@soapergem) <a href="https://twitter.com/soapergem/status/1139223477716545537?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Process is scar tissue for past failure&quot; - <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Devin Lafreniere (@devsoftweb) <a href="https://twitter.com/devsoftweb/status/1139223594314022912?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>!!!! Great talk <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Karthik Gaekwad (@iteration1) <a href="https://twitter.com/iteration1/status/1139223683036147712?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Process is scar tissue from past failures...&quot; <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/velocityconf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityconf</a></p>&mdash; wirehead (@wirehead) <a href="https://twitter.com/wirehead/status/1139223716447997952?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Choose tech projects and tools consciously.  Use this reality-shaping power for good. Look at project health on GitHub.   <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> at <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/V8ouSQ9yAo">pic.twitter.com/V8ouSQ9yAo</a></p>&mdash; ginablaber (@ginablaber) <a href="https://twitter.com/ginablaber/status/1139223988872208384?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If Microsoft can brag that Azure is majority Linux, your enterprise can change too.<a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <a href="https://twitter.com/hashtag/velocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#velocityConf</a> <a href="https://t.co/s80JqzlO3q">pic.twitter.com/s80JqzlO3q</a></p>&mdash; Jessica Kerr (@jessitron) <a href="https://twitter.com/jessitron/status/1139224495586021376?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The “we’ve always done it this way” narrative doesn’t work, and we should push back against it. As <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> described it: “process is scar tissue from past failures” <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> <a href="https://t.co/Unb0fPdLJH">pic.twitter.com/Unb0fPdLJH</a></p>&mdash; Michael Villaseñor (@mvillatech) <a href="https://twitter.com/mvillatech/status/1139224714553937920?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bummed that I couldn’t be there to watch <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>’s <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> keynote this morning. <a href="https://t.co/AV701NONXh">https://t.co/AV701NONXh</a></p>&mdash; Joe Laha (@joelaha) <a href="https://twitter.com/joelaha/status/1139229275327029249?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a> keynote by <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> on a framework on how to make decisions around your usage of <a href="https://twitter.com/hashtag/Kubernetes?src=hash&amp;ref_src=twsrc%5Etfw">#Kubernetes</a> and aspects of it you need to prioritize, etc. <a href="https://t.co/30ufV4zq0X">pic.twitter.com/30ufV4zq0X</a></p>&mdash; Noureen Syed (@NoureenSyed) <a href="https://twitter.com/NoureenSyed/status/1139229549768531968?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> quote: “process is scar tissue from past failures”.  <a href="https://twitter.com/hashtag/perspective?src=hash&amp;ref_src=twsrc%5Etfw">#perspective</a> <a href="https://twitter.com/hashtag/truth?src=hash&amp;ref_src=twsrc%5Etfw">#truth</a> <a href="https://twitter.com/hashtag/VelocityConf?src=hash&amp;ref_src=twsrc%5Etfw">#VelocityConf</a></p>&mdash; Mick (@mickelback00) <a href="https://twitter.com/mickelback00/status/1139234553665425408?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1⃣1⃣ Then <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> was back for keynote 2⃣ on <a href="https://twitter.com/hashtag/k8s?src=hash&amp;ref_src=twsrc%5Etfw">#k8s</a> for the impatient! This really made us feel seen! 😅<a href="https://t.co/qACCDdivcB">https://t.co/qACCDdivcB</a></p>&mdash; DataStax Developers (@DataStaxDevs) <a href="https://twitter.com/DataStaxDevs/status/1139311999081275392?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+    </div>
+  </article>
+  <div class="mw8 center">
+    
+    <section class="flex-ns flex-wrap justify-around mt5">
+      
+    </section>
+  
+
+  </div>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://bridgetkromhout.com/" >
+    &copy; 2019 Bridget Kromhout
+  </a>
+  
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+  </div>
+</footer>
+
+    <script src="https://bridgetkromhout.com/dist/app.bundle.js" async></script>
+
+  </body>
+</html>
