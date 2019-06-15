@@ -285,6 +285,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2019/velocity-sj-msft/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2017/allthingsopen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -622,6 +628,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2019/minnebar/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2019/velocity-sj/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
