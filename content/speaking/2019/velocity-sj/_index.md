@@ -5,7 +5,7 @@ footer: false
 ---
 
 <br>
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/79426">Kubernetes for the Impatient</a><br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/79426">Velocity San Jose - Kubernetes for the Impatient</a><br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
 
 <br>
 

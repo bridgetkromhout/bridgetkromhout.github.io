@@ -6,7 +6,7 @@ footer: false
 
 
 <br>
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/79270">Community projects inform enterprise products (sponsored by Microsoft Azure)</a> with Lachlan Evenson<br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/79270">Velocity San Jose - Community projects inform enterprise products (sponsored by Microsoft Azure)</a> with Lachlan Evenson<br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
 
 <br>
 
