@@ -38,7 +38,11 @@ Tweets:
 {{< tweet 804087420681527296 >}}
 {{< tweet 804087839310815232 >}}
 {{< tweet 804088174053978112 >}}
-{{< tweet 804088410042310657 >}}
+<pre>
+Love the crossovers of @bridgetkromhout's @devopsdownunder talk with @simonsinek's start with why pic.twitter.com/9KHgETMBYS
+
+— Sam McLeod (@s_mcleod) November 30, 2016
+</pre>
 {{< tweet 804088492162568192 >}}
 {{< tweet 804089589035958272 >}}
 {{< tweet 804090157951393792 >}}
@@ -49,7 +53,11 @@ Tweets:
 {{< tweet 804091197362843648 >}}
 {{< tweet 804105768794370048 >}}
 {{< tweet 804091509091942400 >}}
-{{< tweet 804091555258634241 >}}
+<pre>
+lol @bridgetkromhout "I feel like I still have a lot of JVM stack track PTSD" (Note: not on a java rant but so true) @devopsdownunder
+
+— Sam McLeod (@s_mcleod) November 30, 2016
+</pre>
 {{< tweet 804091639266299904 >}}
 {{< tweet 804092023468720128 >}}
 {{< tweet 804092080033144833 >}}
