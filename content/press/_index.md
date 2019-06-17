@@ -5,6 +5,10 @@ aliases = "reviews"
 Categories = []
 +++
 
+<p>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://siliconangle.com/2019/06/11/welcome-world-managed-happiness-devops-changes-business-works-one-line-code-time-kubeconeu-womenintech/">Managed happiness: DevOps changes how business works, one line of code at a time</a><br />.
+
+Writeup from theCUBE podcast - siliconAngle, June 11 2019
 
 <p>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://open.microsoft.com/2018/08/23/devops-trends-and-tips-from-our-resident-pros/">DevOps trends and tips from our resident pros</a><br />.
