@@ -54,7 +54,11 @@ Tweets:
 {{< tweet 760517449846448129 >}}
 {{< tweet 760517470214033408 >}}
 {{< tweet 760517478363586560 >}}
-{{< tweet 760517600535117824 >}}
+<pre>
+Among the many nuggets in @bridgetkromhout's #S1P talk: "put the why in commit messages, not just the what"
+
+— Adrian Cole (@adrianfcole) August 2, 2016
+</pre>
 {{< tweet 760517603936772096 >}}
 {{< tweet 760517611608158208 >}}
 {{< tweet 760517647440109568 >}}
