@@ -32,11 +32,20 @@ Video
 
 Tweets
 <br>
+<pre>
+@ohiolinux is a go! Day 2 starts with @bridgetkromhout giving a keynote!
+
+— Derek Arnold (@darnold0714) October 13, 2018
+</pre>
 {{< tweet 1051093498676563968 >}}
 {{< tweet 1051094494559506432 >}}
 {{< tweet 1051096702617341952 >}}
 {{< tweet 1051099051909894144 >}}
-{{< tweet 1051099957518843909 >}}
+<pre>
+To paraphrase @bridgetkromhout : "if you are saying there isn't some janky bash in your homegrown platform, you are lying." #ohiolinuxfest2018
+
+— Derek Arnold (@darnold0714) October 13, 2018
+</pre>
 {{< tweet 1051101247384838149 >}}
 {{< tweet 1051103676234956801 >}}
 {{< tweet 1051103948625596416 >}}
