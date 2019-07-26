@@ -68,5 +68,11 @@ lol @bridgetkromhout "I feel like I still have a lot of JVM stack track PTSD" (N
 {{< tweet 804152846669254657 >}}
 {{< tweet 804093052222439424 >}}
 {{< tweet 804090318287052800 >}}
-{{< tweet 804088972297109504 >}}
+
+<pre>
+"There's still servers, you just can't ssh in to them." 🙏🙏🙏 #devopsdays
+
+— Peter Hardy (@stibbons) November 30, 2016
+</pre>
+
 {{< tweet 804121336729612289 >}}
