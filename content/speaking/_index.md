@@ -14,13 +14,6 @@ Categories = []
 <br>
 
 <br>
-
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/PUTD">Open Source Summit - Helm 3: Navigating To Distant Shores</a> (with Karen Chu)<br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
-
-<br>
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/PUT7">Open Source Summit - Join Our Party: The Cloud Native Adventure Brigade</a> (with Zachary Deptawa)<br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
-
-<br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://devopsdays.org/events/2019-cape-town/program/bridget-kromhout/">devopsdays Cape Town - Kubernetes for the Impatient</a><br>Cape Town, South Africa<br><span class="date-display-start">2019-09-05</span> to <span class="date-display-end">2019-09-06</span></span></div>
 
 
@@ -28,6 +21,13 @@ Categories = []
 <h2>Past</h2>
 <br>
 <h3>2019</h3>
+
+<br>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/ossummit-cnab">Open Source Summit - Join Our Party: The Cloud Native Adventure Brigade</a> (with Zachary Deptawa)<br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
+
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/ossummit-helm">Open Source Summit - Helm 3: Navigating To Distant Shores</a> (with Karen Chu)<br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
 
 <br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/oscon/">OSCON - Helm 3: Navigating To Distant Shores</a> (with Jessica Deen)<br>Portland, OR<br><span class="date-display-start">2019-07-15</span> to <span class="date-display-end">2019-07-18</span></span></div>
