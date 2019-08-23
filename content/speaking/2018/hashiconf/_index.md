@@ -26,7 +26,12 @@ Tweets
 {{< tweet 1054486929809432579 >}}
 {{< tweet 1054838398018453504 >}}
 {{< tweet 1054838404590927872 >}}
-{{< tweet 1054838408189624321 >}}
+<pre>
+Get well soon @zdeptawa , sad you're missing out on this great food! #hashiconf
+
+— ⌨️HackerWOmAn 🛴 (@schristoff25) October 23, 2018
+</pre>
+
 {{< tweet 1054838435930791936 >}}
 {{< tweet 1054838438648672256 >}}
 {{< tweet 1054838450875117569 >}}
@@ -53,7 +58,12 @@ Tweets
 {{< tweet 1054845943961477120 >}}
 {{< tweet 1054846130465329152 >}}
 {{< tweet 1054846154481881088 >}}
-{{< tweet 1054848148143652864 >}}
+<pre>
+Great job @bridgetkromhout , her talk on day two had so much useful information! :)
+
+— ⌨️HackerWOmAn 🛴 (@schristoff25) October 23, 2018
+</pre>
+
 {{< tweet 1054848238870683648 >}}
 {{< tweet 1055139672597250048 >}}
 {{< tweet 1054488559091150848 >}}

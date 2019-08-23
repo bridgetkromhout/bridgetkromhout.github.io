@@ -43,7 +43,11 @@ Tweets:
 {{< tweet 760516038844755973 >}}
 {{< tweet 760516330604761088 >}}
 {{< tweet 760516614924201985 >}}
-{{< tweet 760516651276120065 >}}
+<pre>
+"Early on Docker said absolutely don't run this production. We were like oh well – YOLO!"@bridgetkromhout #S1P pic.twitter.com/Jk4bKomw3J
+
+— Kenny Bastani (@kennybastani) August 2, 2016
+</pre>
 {{< tweet 760516792104030208 >}}
 {{< tweet 760517040759148545 >}}
 {{< tweet 760517101962625024 >}}

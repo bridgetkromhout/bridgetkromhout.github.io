@@ -29,7 +29,11 @@ Drawing in comparisons from theoretical computer science and practical systems i
 
 
 {{< tweet 783302033151582208 >}}
-{{< tweet 783308894928011264 >}}
+<pre>
+A topic near and dear to my heart. My teammate @bridgetkromhout presenting on distributed teams #gotocph pic.twitter.com/OfAZBKipWw
+
+— Kenny Bastani (@kennybastani) October 4, 2016
+</pre>
 {{< tweet 783309060791762944 >}}
 {{< tweet 783309580071731201 >}}
 {{< tweet 783309950651170816 >}}
@@ -40,8 +44,20 @@ Drawing in comparisons from theoretical computer science and practical systems i
 {{< tweet 783311424386990085 >}}
 {{< tweet 783311556201308160 >}}
 {{< tweet 783312004480110592 >}}
-{{< tweet 783313092734251008 >}}
+<pre>
+"It's important to keep a record of decisions between distributed team members" @bridgetkromhout @caseywest #gotocph pic.twitter.com/xxPATaKHPs
+
+— Kenny Bastani (@kennybastani) October 4, 2016
+</pre>
+
 {{< tweet 783313243582435328 >}}
 {{< tweet 783315693995515904 >}}
-{{< tweet 783319282268659712 >}}
+<pre>
+"There is no talent shortage..
+
+Oh – and we're hiring by the way – https://t.co/jy7DO0HJzE" 👍@bridgetkromhout #gotocph pic.twitter.com/PTDpSTAlza
+
+— Kenny Bastani (@kennybastani) October 4, 2016
+</pre>
+
 {{< tweet 783319301281476610 >}}

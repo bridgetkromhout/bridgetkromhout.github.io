@@ -37,6 +37,10 @@ Video:
 {{< tweet 676918932712894464 >}}
 {{< tweet 676919569630502913 >}}
 {{< tweet 676923485097168898 >}}
-{{< tweet 676921788077645827 >}}
+<pre>
+"I walked in on a Docker in progress" @bridgetkromhout pic.twitter.com/jUMGYkrwp2
+
+— Kenny Bastani (@kennybastani) December 16, 2015
+</pre>
 {{< tweet 676923625870630912 >}}
 {{< tweet 676930065117126656 >}}

@@ -52,6 +52,11 @@ BOSH is in essence a narrow AI, optimized for automation of repetitive tasks in 
 
 <a href="https://github.com/bridgetkromhout/bosh-tutorial">Git repo for tutorial (with slides and links)</a>
 
-{{< tweet 732574227992186880 >}}
+<pre>
+Snagged a front row seat to @bridgetkromhout's tutorial on distributed systems with BOSH #OSCON pic.twitter.com/sxyqL7Xosv
+
+— Kenny Bastani (@kennybastani) May 17, 2016
+</pre>
+
 {{< tweet 732580525487980545 >}}
 {{< tweet 732697398930067456 >}}

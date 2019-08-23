@@ -68,5 +68,10 @@ Tweets
 {{< tweet 1139224714553937920 >}}
 {{< tweet 1139229275327029249 >}}
 {{< tweet 1139229549768531968 >}}
-{{< tweet 1139234553665425408 >}}
+<pre>
+@bridgetkromhout quote: “process is scar tissue from past failures”. #perspective #truth #VelocityConf
+
+— Mick (@mickelback00) June 13, 2019
+</pre>
+
 {{< tweet 1139311999081275392 >}}

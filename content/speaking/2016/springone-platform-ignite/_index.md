@@ -35,7 +35,12 @@ Slides:
 
 Tweets:
 <br>
-{{< tweet 760329900142112768 >}}
+<pre>
+The one and only @bridgetkromhout talks winning IT strategies through the lens of Settlers of Catan #S1P pic.twitter.com/cV8GQhjGAN
+
+— Kenny Bastani (@kennybastani) August 2, 2016
+</pre>
+
 {{< tweet 760328227902455808 >}}
 {{< tweet 760329131770933252 >}}
 {{< tweet 760333385554198529 >}}
