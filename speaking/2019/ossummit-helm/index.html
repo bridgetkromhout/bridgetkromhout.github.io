@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>Bridget Kromhout  | Helm 3: Navigating to Distant Shores</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.57.2" />
+      
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+     <link href='https://bridgetkromhout.com/dist/main.css' rel='stylesheet' type="text/css" />
+
+     
+      <link href="https://bridgetkromhout.com/speaking/2019/ossummit-helm/index.xml" rel="alternate" type="application/rss+xml" title="Bridget Kromhout" />
+      <link href="https://bridgetkromhout.com/speaking/2019/ossummit-helm/index.xml" rel="feed" type="application/rss+xml" title="Bridget Kromhout" />
+      
+
+      <meta property="og:title" content="Helm 3: Navigating to Distant Shores" />
+<meta property="og:description" content="Bridget Kromhout" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://bridgetkromhout.com/speaking/2019/ossummit-helm/" />
+
+<meta itemprop="name" content="Helm 3: Navigating to Distant Shores">
+<meta itemprop="description" content="Bridget Kromhout">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Helm 3: Navigating to Distant Shores"/>
+<meta name="twitter:description" content="Bridget Kromhout"/>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+
+  
+  
+  <header class="cover bg-top" style="background-image: url('https://bridgetkromhout.com/images/kitties.png');">
+    <div class="bg-black-40">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://bridgetkromhout.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      Bridget Kromhout
+    </a>
+    <div class="flex-l items-center">
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/speaking/" title="Speaking page">
+              Speaking
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/writing/" title="Writing page">
+              Writing
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/podcasts/" title="Podcasts page">
+              Podcasts
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/reviews/" title="Reviews page">
+              Reviews
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          Helm 3: Navigating to Distant Shores
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">                
+      <p><br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/PUTD">Open Source Summit - Helm 3: Navigating To Distant Shores</a> (with Karen Chu)<br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
+<br></p>
+
+<p><br>
+Co-presented with <a href="https://twitter.com/karenhchu/">Karen Chu</a>.
+<br>
+<br>
+Description
+<br>
+Adjusting your spyglass and looking out over the water, you can see how useful a package manager like Helm is. Perhaps you’ve used it to manage the fractal complexity of packages on your Kubernetes clusters (without losing track of versions stashed in the hold). But Helm 3 is rumored to be different, and you’re ready to get started on this exciting voyage &ndash; as soon as you have some idea of what’s port and what’s starboard!
+<p>
+In this story-fueled session, we’ll take you through differences from the Helm of yore, tips for a successful rollout or upgrade, and opportunities to shape the project’s future. The cloud native waters can be choppy, but a technical deep dive powered by open source tooling will steer you right!
+<br></p>
+
+<p>Slides
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hqzGxcJBop9U9j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bridgetkromhout/helm-3-navigating-to-distant-shores-oss-na-2019" title="Helm 3: Navigating To Distant Shores (OSS NA 2019)" target="_blank">Helm 3: Navigating To Distant Shores (OSS NA 2019)</a> </strong> from <strong><a href="https://www.slideshare.net/bridgetkromhout" target="_blank">bridgetkromhout</a></strong> </div>
+<br></p>
+
+<p><p></p>
+
+<p>Tweets
+<br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🕦In 1 hour at <a href="https://twitter.com/hashtag/OSSummit?src=hash&amp;ref_src=twsrc%5Etfw">#OSSummit</a>🕦 <br><br>Join <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> &amp; <a href="https://twitter.com/karenhchu?ref_src=twsrc%5Etfw">@karenhchu</a> to learn about <a href="https://twitter.com/HelmPack?ref_src=twsrc%5Etfw">@HelmPack</a> and why it&#39;s the best way to find, share, and use software built for Kubernetes: <a href="https://t.co/7yCkDOc969">https://t.co/7yCkDOc969</a></p>&mdash; Open at Microsoft (@OpenAtMicrosoft) <a href="https://twitter.com/OpenAtMicrosoft/status/1164228168556916736?ref_src=twsrc%5Etfw">August 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Join <a href="https://twitter.com/karenhchu?ref_src=twsrc%5Etfw">@karenhchu</a> &amp; me in Sapphire L (behind the sponsor hall! Keep going until you find us!) We’re talking about <a href="https://twitter.com/HelmPack?ref_src=twsrc%5Etfw">@HelmPack</a> at 11:30 today! <a href="https://t.co/DGyfG8MF3a">https://t.co/DGyfG8MF3a</a> <a href="https://twitter.com/hashtag/ossummit?src=hash&amp;ref_src=twsrc%5Etfw">#ossummit</a></p>&mdash; Bridget Kromhout (@bridgetkromhout) <a href="https://twitter.com/bridgetkromhout/status/1164240223137488896?ref_src=twsrc%5Etfw">August 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/HelmPack?ref_src=twsrc%5Etfw">@helmpack</a> talk at Open Source Summit is starting now, with <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> and <a href="https://twitter.com/karenhchu?ref_src=twsrc%5Etfw">@karenhchu</a> discussing Helm3 <a href="https://t.co/HTz388bgvy">pic.twitter.com/HTz388bgvy</a></p>&mdash; M Butcher (@technosophos) <a href="https://twitter.com/technosophos/status/1164244227007508480?ref_src=twsrc%5Etfw">August 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/karenhchu?ref_src=twsrc%5Etfw">@karenhchu</a> <a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a> <br>Thanks 🙏 for HELM3 <a href="https://twitter.com/HelmPack?ref_src=twsrc%5Etfw">@HelmPack</a>  session @ <a href="https://twitter.com/hashtag/ossummit?src=hash&amp;ref_src=twsrc%5Etfw">#ossummit</a>. It’s very helpful and useful. <a href="https://t.co/YGHxIvahRE">pic.twitter.com/YGHxIvahRE</a></p>&mdash; Kylix (@kylix3511) <a href="https://twitter.com/kylix3511/status/1164258230932926465?ref_src=twsrc%5Etfw">August 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Watching ⁦<a href="https://twitter.com/bridgetkromhout?ref_src=twsrc%5Etfw">@bridgetkromhout</a>⁩ &amp; ⁦<a href="https://twitter.com/karenhchu?ref_src=twsrc%5Etfw">@karenhchu</a>⁩ present on ⁦<a href="https://twitter.com/HelmPack?ref_src=twsrc%5Etfw">@HelmPack</a>⁩ 3 at <a href="https://twitter.com/hashtag/OSSummit?src=hash&amp;ref_src=twsrc%5Etfw">#OSSummit</a> San Diego <a href="https://t.co/hxVDOhFNaQ">pic.twitter.com/hxVDOhFNaQ</a></p>&mdash; Dan Kohn ☁️👨🏼‍💻 @ #ossummit San Diego🏖 (@dankohn1) <a href="https://twitter.com/dankohn1/status/1164247899732975616?ref_src=twsrc%5Etfw">August 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Speaking about <a href="https://twitter.com/HelmPack?ref_src=twsrc%5Etfw">@HelmPack</a> with <a href="https://twitter.com/karenhchu?ref_src=twsrc%5Etfw">@karenhchu</a> at <a href="https://twitter.com/hashtag/ossummit?src=hash&amp;ref_src=twsrc%5Etfw">#ossummit</a> was delightful; her perspective is super valuable. ✨ <a href="https://t.co/UHzoqBVU8B">pic.twitter.com/UHzoqBVU8B</a></p>&mdash; Bridget Kromhout (@bridgetkromhout) <a href="https://twitter.com/bridgetkromhout/status/1164953818016014336?ref_src=twsrc%5Etfw">August 23, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💖🤗💖 you’re a delight to collab with!</p>&mdash; Karen Chu (@karenhchu) <a href="https://twitter.com/karenhchu/status/1164975981934735360?ref_src=twsrc%5Etfw">August 23, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+    </div>
+  </article>
+  <div class="mw8 center">
+    
+    <section class="flex-ns flex-wrap justify-around mt5">
+      
+    </section>
+  
+
+
+  </div>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://bridgetkromhout.com/" >
+    &copy; 2019 Bridget Kromhout
+  </a>
+  
+
+
+
+  <a href="https://twitter.com/bridgetkromhout" class="link-transition twitter link dib z-999 pt3 pt0-l mr2" title="Twitter link">
+    <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+  </a>
+
+
+
+
+  </div>
+</footer>
+
+    <script src="https://bridgetkromhout.com/dist/app.bundle.js" async></script>
+
+  </body>
+</html>

@@ -143,41 +143,6 @@
   </url>
   
   <url>
-    <loc>https://bridgetkromhout.com/speaking/2013/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2014/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2015/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2016/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2017/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2018/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2019/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bridgetkromhout.com/speaking/2015/geekettes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -203,7 +168,8 @@
   
   <url>
     <loc>https://bridgetkromhout.com/categories/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -267,12 +233,6 @@
   </url>
   
   <url>
-    <loc>https://bridgetkromhout.com/speaking/2016/devopsdays-london/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://bridgetkromhout.com/speaking/2016/devops-umn/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -280,6 +240,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2016/devopsdays-philly/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2016/devopsdays-london/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -459,6 +425,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/devopsdays-ams-workshop/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2014/devopsdays-belgium/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -466,6 +438,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2014/devopsdays-chicago/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2016/devopsdays-cuba/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -543,6 +521,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/gotochgo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2019/kubecon-eu/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -550,6 +534,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2019/oscon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2019/ossummit-helm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -574,6 +564,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2017/uptime/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2019/ossummit-cnab/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -615,6 +611,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2019/velocity-sj/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2018/mpls-k8s/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -640,12 +642,6 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2019/minnebar/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2019/velocity-sj/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -741,12 +737,6 @@
   </url>
   
   <url>
-    <loc>https://bridgetkromhout.com/speaking/2018/oscon/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://bridgetkromhout.com/speaking/2016/devopsdays-madison/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -771,6 +761,12 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/oscon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/speaking/2016/devopsdays-newyork/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -784,12 +780,6 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2017/velocity-sj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2018/srecon/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -843,8 +833,15 @@
   </url>
   
   <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/srecon/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://bridgetkromhout.com/tags/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -861,6 +858,12 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2016/cloudnativeplatformforops/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bridgetkromhout.com/speaking/2018/voxxed-microservices/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -945,30 +948,6 @@
   
   <url>
     <loc>https://bridgetkromhout.com/speaking/2017/azure-mn/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2018/devopsdays-ams-workshop/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2016/devopsdays-cuba/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2018/gotochgo/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://bridgetkromhout.com/speaking/2018/voxxed-microservices/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
