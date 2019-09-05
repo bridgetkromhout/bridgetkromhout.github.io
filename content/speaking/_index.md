@@ -13,8 +13,9 @@ Categories = []
 
 <br>
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/S8tu">Helm Summit</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2019-09-11</span> to <span class="date-display-end">2019-09-12</span></span></div>
+
 <br>
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://devopsdays.org/events/2019-cape-town/program/bridget-kromhout/">devopsdays Cape Town - Kubernetes for the Impatient</a><br>Cape Town, South Africa<br><span class="date-display-start">2019-09-05</span> to <span class="date-display-end">2019-09-06</span></span></div>
 
 
 <br>
@@ -22,6 +23,8 @@ Categories = []
 <br>
 <h3>2019</h3>
 
+<br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/devopsdays-cape-town">devopsdays Cape Town - Kubernetes for the Impatient</a><br>Cape Town, South Africa<br><span class="date-display-start">2019-09-05</span> to <span class="date-display-end">2019-09-06</span></span></div>
 <br>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/ossummit-cnab">Open Source Summit - Join Our Party: The Cloud Native Adventure Brigade</a> (with Zachary Deptawa)<br>San Diego, CA<br><span class="date-display-start">2019-08-21</span> to <span class="date-display-end">2019-08-23</span></span></div>
