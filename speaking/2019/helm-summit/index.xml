@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Increasing Reliability via Helm Pre-Release Checks (Helm Summit 2019) on Bridget Kromhout</title>
+    <link>https://bridgetkromhout.com/speaking/2019/helm-summit/</link>
+    <description>Recent content in Increasing Reliability via Helm Pre-Release Checks (Helm Summit 2019) on Bridget Kromhout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://bridgetkromhout.com/speaking/2019/helm-summit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
