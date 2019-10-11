@@ -31,7 +31,15 @@ Tweets
 {{< tweet 979526674889900032 >}}
 {{< tweet 979526841361821696 >}}
 {{< tweet 979526177948708864 >}}
-{{< tweet 979526974686224384 >}}
+<pre>
+Live tweeting a live tweeting lightning talk ⚡️🤓🛠🙏 #MicrosoftReactor @bridgetkromhout #DevOps
+
+Keeping FOMO to a minimum 🤘
+
+Other speaker handles:@film_girl@holtbt@BerndVerst @lenadroid pic.twitter.com/nBSzm8ddTh
+
+— Jason Grimes 🤘 (@jasongrimes) March 30, 2018
+</pre>
 {{< tweet 979533848450015232 >}}
 {{< tweet 979527011029860353 >}}
 {{< tweet 979527035960795136 >}}

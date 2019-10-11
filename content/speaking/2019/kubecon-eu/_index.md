@@ -53,7 +53,11 @@ Tweets
 {{< tweet 1131531900017889280 >}}
 {{< tweet 1131531988744265729 >}}
 {{< tweet 1131532028585926657 >}}
-{{< tweet 1131532223214018562 >}}
+<pre>
+Finally, @jldeen & Bridget Kromhout on stage..😁#Helm3: Navigating To Distant Shores..#kubecon #cloudnativecon #microsoft #azure #azuredevops #msftadvocate #cloudnative #k8s #helm https://t.co/yC6TzsCzOL
+
+— Engin Özkurt ☁️🐳 🐧☸️⛵️ (@ozkurtengin) May 23, 2019
+</pre>
 {{< tweet 1131532243753734144 >}}
 {{< tweet 1131532277509435392 >}}
 {{< tweet 1131532332043784193 >}}
