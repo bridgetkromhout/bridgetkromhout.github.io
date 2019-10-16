@@ -11,9 +11,6 @@ Categories = []
 <h2>Upcoming</h2>
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/Vkbn">Twin Cities Startup Week - Join Our Party: The Cloud Native Adventure Brigade</a><br>Minneapolis, MN<br><span class="date-display-start">2019-10-15</span> </span></div>
-<br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://devopsdays.org/events/2019-philadelphia/program/bridget-kromhout/">devopsdays Philadelphia - Join Our Party: The Cloud Native Adventure Brigade</a><br>Philadelphia, PA<br><span class="date-display-start">2019-10-22</span> to <span class="date-display-end">2019-10-23</span></span></div>
 
 <br>
@@ -30,6 +27,9 @@ Categories = []
 <h3>2019</h3>
 
 <br>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/tcsw/">Twin Cities Startup Week - Join Our Party: The Cloud Native Adventure Brigade</a><br>Minneapolis, MN<br><span class="date-display-start">2019-10-15</span> </span></div>
+<br>
+
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/helm-summit/">Helm Summit - Increasing Reliability via Helm Pre-Release Checks</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2019-09-11</span> to <span class="date-display-end">2019-09-12</span></span></div>
 <br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/devopsdays-cape-town">devopsdays Cape Town - Kubernetes for the Impatient</a><br>Cape Town, South Africa<br><span class="date-display-start">2019-09-05</span> to <span class="date-display-end">2019-09-06</span></span></div>
