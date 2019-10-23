@@ -71,7 +71,11 @@ Tweets
 {{< tweet 985158221294915585 >}}
 {{< tweet 985158252328570880 >}}
 {{< tweet 985158270586417152 >}}
-{{< tweet 985158342892032000 >}}
+<pre>
+Iterate out of legacy. #truth #Minnebar
+
+— Cody Ogden 🎃 (@codyogden) April 14, 2018
+</pre>
 {{< tweet 985158445182738433 >}}
 {{< tweet 985158580834795525 >}}
 {{< tweet 985158632332578816 >}}

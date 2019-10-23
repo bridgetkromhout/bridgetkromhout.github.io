@@ -26,9 +26,17 @@ Slides
 Tweets
 <br>
 {{< tweet 974700561676283904 >}}
-{{< tweet 974700729393909760 >}}
+<pre>
+Tweeting @bridgetkromhout talking about tweeting conferences. #scalesummit18 #meta
+
+— Dean Wilson (@unixdaemon) March 16, 2018
+</pre>
 {{< tweet 974700947824955392 >}}
 {{< tweet 974701378089160704 >}}
-{{< tweet 974704019175243781 >}}
+<pre>
+Very solid talk portfolio principles from @bridgetkromhout https://t.co/pkmz6g8j6w #scalesummit18
+
+— Dean Wilson (@unixdaemon) March 16, 2018
+</pre>
 {{< tweet 974733081386127360 >}}
 {{< tweet 974727236506079232 >}}
