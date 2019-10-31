@@ -11,8 +11,8 @@ Categories = []
 <h2>Upcoming</h2>
 
 
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.meetup.com/kubernetes-belgium/events/265449386/">Kubernetes Belgium - Join Our Party: The Cloud Native Adventure Brigade</a><br>Brussels, Belgium<br><span class="date-display-start">2019-10-31</span> </span></div>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://devopsdays.org/events/2019-ghent/program/bridget-kromhout/">devopsdays Ghent - devops, distributed</a><br>Ghent, Belgium<br><span class="date-display-start">2019-10-29</span> to <span class="date-display-end">2019-10-31</span></span></div>
 
 
 <br>
@@ -22,6 +22,8 @@ Categories = []
 <h2>Past</h2>
 <br>
 <h3>2019</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/devopsdays-ghent">devopsdays Ghent - devops, distributed</a><br>Ghent, Belgium<br><span class="date-display-start">2019-10-28</span> to <span class="date-display-end">2019-10-30</span></span></div>
 
 <br>
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/devopsdays-philly">devopsdays Philadelphia - Join Our Party: The Cloud Native Adventure Brigade</a><br>Philadelphia, PA<br><span class="date-display-start">2019-10-22</span> to <span class="date-display-end">2019-10-23</span></span></div>
