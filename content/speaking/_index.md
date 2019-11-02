@@ -15,7 +15,6 @@ Categories = []
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/kubernetes-belgium/">Kubernetes Belgium - Join Our Party: The Cloud Native Adventure Brigade</a><br>Brussels, Belgium<br><span class="date-display-start">2019-10-31</span> </span></div>
 
 <br>
-
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/devopsdays-ghent">devopsdays Ghent - devops, distributed</a><br>Ghent, Belgium<br><span class="date-display-start">2019-10-28</span> to <span class="date-display-end">2019-10-30</span></span></div>
 
 <br>
@@ -45,7 +44,7 @@ Categories = []
 
 
 <br>
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/velocity-sj">Kubernetes for the Impatient</a><br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/velocity-sj">Velocity SJ - Kubernetes for the Impatient</a><br>San Jose, CA<br><span class="date-display-start">2019-06-10</span> to <span class="date-display-end">2019-06-13</span></span></div>
 
 <br>
 
