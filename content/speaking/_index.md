@@ -7,21 +7,12 @@ Categories = []
 <a href="/speaking/info/index.html">speaker info</a> ~ <a href="/contact/">contact</a>
 
 <br>
-<br>
-<h2>Upcoming</h2>
 
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://www.meetup.com/kubernetes-belgium/events/265449386/">Kubernetes Belgium - Join Our Party: The Cloud Native Adventure Brigade</a><br>Brussels, Belgium<br><span class="date-display-start">2019-10-31</span> </span></div>
-
-
-
-<br>
-
-
-<br>
-<h2>Past</h2>
 <br>
 <h3>2019</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/kubernetes-belgium/">Kubernetes Belgium - Join Our Party: The Cloud Native Adventure Brigade</a><br>Brussels, Belgium<br><span class="date-display-start">2019-10-31</span> </span></div>
 
 <div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="/speaking/2019/devopsdays-ghent">devopsdays Ghent - devops, distributed</a><br>Ghent, Belgium<br><span class="date-display-start">2019-10-28</span> to <span class="date-display-end">2019-10-30</span></span></div>
 
