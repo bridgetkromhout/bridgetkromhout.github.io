@@ -39,12 +39,20 @@ Video:
 Tweets:
 <br>
 
-{{< tweet 740567828630241280 >}}
+<pre>
+@bridgetkromhout her #KEYNOTE on #devops #container is starting in CTRL at #containersched https://t.co/bJzJvPTBaw pic.twitter.com/J3lbh452gT
+
+— Skills Matter (@skillsmatter) June 8, 2016
+</pre>
 {{< tweet 740571326126170112 >}}
 {{< tweet 740572208989241364 >}}
 {{< tweet 740574566767005697 >}}
 {{< tweet 740574999216553985 >}}
-{{< tweet 740575140841463809 >}}
+<pre>
+#containersched
+
+— Skills Matter (@skillsmatter) June 8, 2016
+</pre>
 {{< tweet 740577401483231236 >}}
 {{< tweet 740583320363405312 >}}
 {{< tweet 740670398904336384 >}}

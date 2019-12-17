@@ -50,7 +50,11 @@ Tweets
 {{< tweet 1072568563167309824 >}}
 {{< tweet 1072568712660729856 >}}
 {{< tweet 1072568923135070211 >}}
-{{< tweet 1072570743794425858 >}}
+<pre>
+I think rollback is slang for "I have no idea what's going on."
+
+— dustin collins (@dustinmm80) December 11, 2018
+</pre>
 {{< tweet 1072569621029507072 >}}
 {{< tweet 1072569622304563206 >}}
 {{< tweet 1072571952659861506 >}}

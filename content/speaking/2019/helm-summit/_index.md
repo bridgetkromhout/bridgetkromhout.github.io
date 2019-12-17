@@ -22,6 +22,9 @@ Slides
 <br>
 
 <p>
+Video
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pp1SVTd1-yE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Tweets
 <br>
