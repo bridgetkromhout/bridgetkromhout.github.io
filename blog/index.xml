@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Bridget Kromhout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bridgetkromhout.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>twenty years on</title>
+      <link>https://bridgetkromhout.com/blog/twenty-years-on/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bridgetkromhout.com/blog/twenty-years-on/</guid>
+      <description>On December 31, 1999, I was on call for production at U S WEST (Solaris and FreeBSD servers running email, USENET, authentication, and the like). We worked hard to ensure that the worst thing that happened was my pager broke the strap on my party dress. When the Y2K truthers start up with their nonsense these days, I’m the grizzled old-timer muttering, “Hush, kid. You weren’t there. You didn’t carry a pager.</description>
+    </item>
     
     <item>
       <title>on snow and scaling</title>
