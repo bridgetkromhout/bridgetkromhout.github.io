@@ -41,7 +41,12 @@ Tweets:
 {{< tweet 1002557827943157760 >}}
 {{< tweet 1002558143182917635 >}}
 {{< tweet 1002558900456116224 >}}
-{{< tweet 1002559412924542977 >}}
+<pre>
+Dat quote by @bridgetkromhout that made me chuckle: “I don’t know if it’s just me, but I have this Pavlovian reaction — when anyone says *landscape* I think of CNCF”😂 I acquired similar “skill” during @Docker hype cycle when “batteries” [included] reigned the talk on the block🙈
+
+— Milos Gajdos (@milosgajdos) June 1, 2018
+</pre>
+
 {{< tweet 1002559482608738314 >}}
 {{< tweet 1002560300862894080 >}}
 {{< tweet 1002560860982861824 >}}

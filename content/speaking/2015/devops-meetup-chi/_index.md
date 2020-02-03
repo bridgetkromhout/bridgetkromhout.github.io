@@ -34,7 +34,11 @@ My <a href="http://sysadvent.blogspot.com/2014/12/day-1-docker-in-production-rea
 <br>
 
 
-{{< tweet 575058831228690432 >}}
+<pre>
+Headed to the @DevOpsChicago Meetup to hear @bridgetkromhout talk about Docker! http://t.co/EFt24ayhvC
+
+— Shannon Smith Page (@shannonlly) March 9, 2015
+</pre>
 {{< tweet 575073888016678912 >}}
 {{< tweet 575092636870012928 >}}
 {{< tweet 575102476505890816 >}}

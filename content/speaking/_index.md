@@ -8,6 +8,10 @@ Categories = []
 
 <br>
 
+<h3>2020</h3>
+
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/Zes2">KubeCon EU - Navigating Your Career in Open Source</a> (panel)<br>Amsterdam, The Netherlands<br><span class="date-display-start">2020-04-02</span></span></div>
+
 
 <br>
 <h3>2019</h3>
