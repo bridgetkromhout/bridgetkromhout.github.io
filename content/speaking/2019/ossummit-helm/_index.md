@@ -35,4 +35,8 @@ Tweets
 {{< tweet 1164258230932926465 >}}
 {{< tweet 1164247899732975616 >}}
 {{< tweet 1164953818016014336 >}}
-{{< tweet 1164975981934735360 >}}
+<pre>
+💖🤗💖 you’re a delight to collab with!
+
+— Karen Chu (@karenhchu) August 23, 2019
+</pre>

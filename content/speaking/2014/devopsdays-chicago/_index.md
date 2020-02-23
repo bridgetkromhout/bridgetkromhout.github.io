@@ -71,6 +71,10 @@ Forget hipster DevOps versus enterprise DevOps. The DevOps in the window is just
 {{< tweet 519503043487076352 >}}
 {{< tweet 519503376753897472 >}}
 {{< tweet 519505781042216960 >}}
-{{< tweet 519699086128058368 >}}
+<pre>
+@bridgetkromhout Awesome talk at #devopsdays Chicago.
+
+— DevOpsJon (@DevOpsJon) October 8, 2014
+</pre>
 {{< tweet 519967489456107520 >}}
 {{< tweet 520179137252982785 >}}

@@ -38,7 +38,12 @@ devopsdays Cuba Keynote
 {{< tweet 789137012175417344 >}}
 {{< tweet 789313387414958080 >}}
 {{< tweet 789456444911329281 >}}
-{{< tweet 789458565358510080 >}}
+<pre>
+@bridgetkromhout begins the day speaking #spanish LoL. #devopsdays #Cuba pic.twitter.com/ai4Lx88XK7
+
+— Hamler Rodríguez (@hamlerRod) October 21, 2016
+</pre>
+
 {{< tweet 789458951867727873 >}}
 {{< tweet 789469374264385536 >}}
 {{< tweet 790336430207827968 >}}
