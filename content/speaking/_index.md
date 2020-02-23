@@ -10,7 +10,7 @@ Categories = []
 
 <h3>2020</h3>
 
-<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/Zes2">KubeCon EU - Navigating Your Career in Open Source</a> (panel)<br>Amsterdam, The Netherlands<br><span class="date-display-start">2020-04-02</span></span></div>
+<div class="views-field views-field-nothing">        <span class="field-content views-field-field-details"><a href="https://sched.co/Zx1Z">KubeCon EU - An introduction to Helm - Bridget Kromhout, Microsoft & Reinhard Nägele, codecentric AG</a><br>Amsterdam, The Netherlands<br><span class="date-display-start">2020-04-01</span></span></div>
 
 
 <br>
